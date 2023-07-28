@@ -1,0 +1,3 @@
+import util.StreetViewDownloaderUtil as StreetViewDownloaderUtil
+
+StreetViewDownloaderUtil.download_random_street_view_images(dataset_size=1)
