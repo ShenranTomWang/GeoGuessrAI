@@ -1,5 +1,4 @@
 import random
-import google_streetview.api
 import requests
 import os
 from . import StreetViewDownloaderConstants as constants
@@ -41,7 +40,7 @@ def download_random_street_view_images(dataset_size=constants.DEFAULT_DATASET_SI
         while coordinates.__contains__(coordinate):
             coordinate = generate_coordinates()
         params['location'] = f"{coordinate[0]},{coordinate[1]}"
-        response = requests.get('https://maps.googleapis.com/maps/api/streetview', params=params)
+        response = requests.get(constants.STREETVIEW_API_BASE_URL, params=params)
         if response.status_code == 200:
             image_name = f"{images_dir}/{coordinate[0]}_{coordinate[1]}.jpg"
             with open(image_name, 'wb') as f:
