@@ -2,6 +2,7 @@ import random
 import streetview
 from geopy.geocoders import Nominatim
 import os
+import json
 from . import StreetViewDownloaderConstants as constants
 from . import DirUtil
 
@@ -20,6 +21,7 @@ class StreetViewDownloader:
         self.api_key = api_key
         self.image_size = image_size
         self.fov = fov
+        self.world_map = json.load(open(DirUtil.get_world_map_dir()))['features']
 
     def generate_coordinates(self) -> tuple:
         """Generates random coordinates
@@ -94,7 +96,7 @@ class StreetViewDownloader:
         return panos[0]
 
     def check_coordinates_on_land(self, coordinate) -> bool:
-        """Check whether the given coordinates are on land
+        """Check whether the given coordinates pair is on land
 
         Args:
             coordinate (tuple<float, float>): coordinates <lat, lon>
@@ -102,5 +104,23 @@ class StreetViewDownloader:
         Returns:
             bool: whether the given coordinates are on land
         """
-        location = self.geolocator.reverse(f'{coordinate[0]}, {coordinate[1]}')
-        return location != None
+        x, y = coordinate
+        for i in range(0, len(self.world_map)):
+            for j in range(0, len(self.world_map[i]['geometry']['coordinates'])):
+                points = self.world_map[i]['geometry']['coordinates'][j]
+                n = len(points)
+                inside = False
+                p1x, p1y = points[0]
+                for k in range(1, n + 1):
+                    p2x, p2y = points[k % n]
+                    if y > min(p1y, p2y):
+                        if y <= max(p1y, p2y):
+                            if x <= max(p1x, p2x):
+                                if p1y != p2y:
+                                    xinters = (y - p1y) * (p2x - p1x) / (p2y - p1y) + p1x
+                                if p1x == p2x or x <= xinters:
+                                    inside = not inside
+                    p1x, p1y = p2x, p2y
+                if inside:
+                    return inside
+        return False
