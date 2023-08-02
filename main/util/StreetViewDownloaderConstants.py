@@ -3,3 +3,4 @@ DEFAULT_DATASET_SIZE = 10000
 DEFAULT_IMAGE_SIZE = '640x640'
 DEFAULT_FOV = 120
 STREETVIEW_API_BASE_URL = 'https://maps.googleapis.com/maps/api/streetview'
+DEFAULT_PROMPTS = ['highways+in+Canada']
