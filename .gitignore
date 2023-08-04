@@ -135,3 +135,4 @@ cython_debug/
 
 # VSCode config files
 .vscode
+.idea
