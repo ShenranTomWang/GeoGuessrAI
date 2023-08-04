@@ -1,8 +1,11 @@
 API_KEY = 'AIzaSyCome9MA6HFIVVZtQJy5Do8YQtOBvArgb0'
 DEFAULT_DATASET_SIZE = 10000
-DEFAULT_IMAGE_SIZE = '640x640'
+DEFAULT_IMAGE_WIDTH = 640
+DEFAULT_IMAGE_HEIGHT = 640
+DEFAULT_IMAGE_SIZE = f'{DEFAULT_IMAGE_WIDTH}x{DEFAULT_IMAGE_HEIGHT}'
 DEFAULT_FOV = 120
 DEFAULT_METADATA_FILE_NAME = 'metadata.json'
+DEFAULT_HEADINGS = [0, 90, 180, 270]
 DEFAULT_PROMPTS = ['highways+in+Canada','road+in+Canada','alleys+in+Canada',
 'highways+in+United+States','lanes+in+United+States','alleys+in+United+States','boulevards+in+United+States','trails+in+United+States','road+in+United+States',
 'highways+in+Cuba','lanes+in+Cuba','alley+in+Cuba',

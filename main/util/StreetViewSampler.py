@@ -1,7 +1,9 @@
 import streetview
 import os
+import io
 import json
 import requests
+from PIL import Image
 from . import StreetViewSamplerConstants as constants
 
 class StreetViewSampler:
@@ -12,21 +14,25 @@ class StreetViewSampler:
             self, 
             dataset_size:int, 
             api_key:str, 
-            image_size:str=constants.DEFAULT_IMAGE_SIZE, 
+            image_width:int=constants.DEFAULT_IMAGE_WIDTH,
+            image_height:int=constants.DEFAULT_IMAGE_HEIGHT,
             fov:str=constants.DEFAULT_FOV,
             prompts:list=constants.DEFAULT_PROMPTS
         ) -> None:
         """
         Args:
-            dataset_size (int): size of dataset.
-            api_key (str): google street view static api key.
-            image_size (str, optional): image size in format <int>x<int>, max 640x640. Defaults to constants.DEFAULT_IMAGE_SIZE.
-            fov (str, optional): image field of view. Defaults to constants.DEFAULT_FOV.
-            prompts (list<str>, optional): prompts to generate random coordinates. Defaults to constants.DEFAULT_PROMPTS.
+            dataset_size (int)
+            api_key (str): your Google API key
+            image_width (int, optional): width of street view image. Defaults to constants.DEFAULT_IMAGE_WIDTH.
+            image_height (int, optional): height of street view image. Defaults to constants.DEFAULT_IMAGE_HEIGHT.
+            fov (str, optional): field of view. Defaults to constants.DEFAULT_FOV.
+            prompts (list, optional): prompts to generate places. Defaults to constants.DEFAULT_PROMPTS.
         """
         self.dataset_size = dataset_size
         self.api_key = api_key
-        self.image_size = image_size
+        self.image_width = image_width
+        self.image_height = image_height
+        self.image_size = f'{image_width}x{image_height}'
         self.fov = fov
         self.prompts = prompts
         self.coordinates = []
@@ -68,7 +74,7 @@ class StreetViewSampler:
         if (len(self.pano_ids) < self.dataset_size):
             print(f'Sampled {len(self.pano_ids)} samples. Some coordinates do not have a corresponding panorama')
             self.dataset_size = len(self.pano_ids)
-
+            
     def download_street_view_images(self, images_dir:str) -> None:
         """Downloads street view images. Always call self.generate_coordinates and self.get_pano_ids_from_coordinates prior to calling this method
         Args:
@@ -84,7 +90,41 @@ class StreetViewSampler:
                 image_name = f"{images_dir}/{lat}_{lon}.jpg"
                 with open(image_name, 'wb') as pic:
                     pic.write(response.content)
-        print("All images downloaded successfully.")
+
+    def download_panoramas(self, images_dir:str) -> None:
+        """Downloads panoramas. Always call self.generate_coordinates and self.get_pano_ids_from_coordinates prior to calling this method
+        Warning:
+            This method calls Google Street View Static API 4 times per panorama
+        Args:
+            images_dir (str): directory to save images to
+        """
+        os.makedirs(images_dir, exist_ok=True)
+        for i in range(0, self.dataset_size):
+            pano_id = self.pano_ids[i]
+            lat, lon = self.coordinates[i]
+            image_data = []
+            
+            for heading in constants.DEFAULT_HEADINGS:
+                url = f'https://maps.googleapis.com/maps/api/streetview?size={self.image_size}&heading={heading}&pano={pano_id}&key={self.api_key}'
+                response = requests.get(url)
+                if response.status_code == 200:
+                    image_data.append(response.content)
+                else:
+                    print(f'Error {response.status_code} occurred at location {lat}, {lon} at heading {heading}')
+                    
+            images = []
+            for data in image_data:
+                image = Image.open(io.BytesIO(data))
+                images.append(image)
+            
+            pano_w = self.image_width * 4
+            pano_h = self.image_height
+            pano = Image.new('RGB', (pano_w, pano_h))
+            for i, image in enumerate(images):
+                pano.paste(image, (i * self.image_width, 0))
+            
+            image_name = f"{images_dir}/panorama_{lat}_{lon}.jpg"
+            pano.save(image_name)
         
     def save_sampler_status_metadata(self, metadata_dir:str, metadata_file_name:str=constants.DEFAULT_METADATA_FILE_NAME) -> None:
         """Saves sampler status metadata to a json file
