@@ -21,7 +21,7 @@ class StreetViewSampler:
         ) -> None:
         """
         Args:
-            dataset_size (int)
+            dataset_size (int): dataset size of current sample session
             api_key (str): your Google API key
             image_width (int, optional): width of street view image. Defaults to constants.DEFAULT_IMAGE_WIDTH.
             image_height (int, optional): height of street view image. Defaults to constants.DEFAULT_IMAGE_HEIGHT.
@@ -65,15 +65,15 @@ class StreetViewSampler:
         Warning: 
             Always call self.generate_coordinates prior to calling this method
         """
+        i = 0
         self.download_descriptor = len(self.pano_ids)
-        while self.download_descriptor < len(self.coordinates):
-            lat, lon = self.coordinates[self.download_descriptor]
+        while i < len(self.coordinates):
+            lat, lon = self.coordinates[i]
             panos = streetview.search_panoramas(lat, lon)
             if len(panos) > 0:
                 self.pano_ids.append(panos[0].pano_id)
-                self.download_descriptor += 1
             else:
-                self.coordinates.pop(self.download_descriptor)
+                self.coordinates.pop(i)
                 print(f'No panorama found at {lat}, {lon}')
         if (len(self.pano_ids) < self.dataset_size):
             print(f'Sampled {len(self.pano_ids)} samples. Some coordinates do not have a corresponding panorama')
@@ -87,7 +87,7 @@ class StreetViewSampler:
             images_dir (str): directory to save images to
         """
         os.makedirs(images_dir, exist_ok=True)
-        for i in range(0, self.dataset_size):
+        for i in range(self.download_descriptor, len(self.pano_ids)):
             pano_id = self.pano_ids[i]
             lat, lon = self.coordinates[i]
             url = f'https://maps.googleapis.com/maps/api/streetview?size={self.image_size}&pano={pano_id}&key={self.api_key}'
@@ -106,7 +106,7 @@ class StreetViewSampler:
             images_dir (str): directory to save images to
         """
         os.makedirs(images_dir, exist_ok=True)
-        for i in range(0, self.dataset_size):
+        for i in range(self.download_descriptor, len(self.pano_ids)):
             pano_id = self.pano_ids[i]
             lat, lon = self.coordinates[i]
             image_data = []
