@@ -38,13 +38,13 @@ class StreetViewSampler:
         self.coordinates = []
         self.pano_ids = []
         self.prompt_descriptor = 0
+        self.download_descriptor = 0
 
     def sample_coordinates(self) -> None:
         """Generates random coordinates using Google's Places API, coordinates are stored in self.coordinates
         """
-        i = self.prompt_descriptor
-        while len(self.coordinates) < self.dataset_size and i < len(self.prompts):
-            url = f'https://maps.googleapis.com/maps/api/place/textsearch/json?query={self.prompts[i]}&key={self.api_key}'
+        while len(self.coordinates) < self.dataset_size and self.prompt_descriptor < len(self.prompts):
+            url = f'https://maps.googleapis.com/maps/api/place/textsearch/json?query={self.prompts[self.prompt_descriptor]}&key={self.api_key}'
             results = requests.get(url)
             if (results.status_code == 200):
                 results = results.json()
@@ -54,29 +54,35 @@ class StreetViewSampler:
                     self.coordinates.append([results[j]['geometry']['location']['lat'], results[j]['geometry']['location']['lng']])
                     j += 1
             else:
-                print(f'Prompt {self.prompts[i]} responded with error code {results.status_code}')
-            i += 1
+                print(f'Prompt {self.prompts[self.prompt_descriptor]} responded with error code {results.status_code}')
+            self.prompt_descriptor += 1
         if (len(self.coordinates) < self.dataset_size):
             print(f'Sampled {len(self.coordinates)} samples due to insufficient resources. Please add more prompts or check validity of requests')
             self.dataset_size = len(self.coordinates)
     
     def get_pano_ids_from_coordinates(self) -> None:
-        """Gets panorama ids based on self.coordinates, ids are stored in self.pano_ids. Always call self.generate_coordinates prior to calling this method
+        """Gets panorama ids based on self.coordinates, ids are stored in self.pano_ids. 
+        Warning: 
+            Always call self.generate_coordinates prior to calling this method
         """
-        for i in range(0, len(self.coordinates)):
-            lat, lon = self.coordinates[i]
+        self.download_descriptor = len(self.pano_ids)
+        while self.download_descriptor < len(self.coordinates):
+            lat, lon = self.coordinates[self.download_descriptor]
             panos = streetview.search_panoramas(lat, lon)
             if len(panos) > 0:
                 self.pano_ids.append(panos[0].pano_id)
+                self.download_descriptor += 1
             else:
-                self.coordinates.pop(i)
+                self.coordinates.pop(self.download_descriptor)
                 print(f'No panorama found at {lat}, {lon}')
         if (len(self.pano_ids) < self.dataset_size):
             print(f'Sampled {len(self.pano_ids)} samples. Some coordinates do not have a corresponding panorama')
             self.dataset_size = len(self.pano_ids)
             
     def download_street_view_images(self, images_dir:str) -> None:
-        """Downloads street view images. Always call self.generate_coordinates and self.get_pano_ids_from_coordinates prior to calling this method
+        """Downloads street view images. 
+        Warning: 
+            Images are generated depending on self.coordinates and self.pano_ids
         Args:
             images_dir (str): directory to save images to
         """
@@ -92,8 +98,9 @@ class StreetViewSampler:
                     pic.write(response.content)
 
     def download_panoramas(self, images_dir:str) -> None:
-        """Downloads panoramas. Always call self.generate_coordinates and self.get_pano_ids_from_coordinates prior to calling this method
+        """Downloads panoramas. 
         Warning:
+            Panoramas are generated depending on self.coordinates and self.pano_ids
             This method calls Google Street View Static API 4 times per panorama
         Args:
             images_dir (str): directory to save images to
@@ -151,19 +158,24 @@ class StreetViewSampler:
         with open(f'{metadata_dir}/{metadata_file_name}') as file:
             jo = json.load(file)
         product = StreetViewSampler(dataset_size, api_key)
-        product.coordinates = jo['coordinates']
         product.fov = jo['fov']
         product.image_size = jo['image_size']
         product.prompt_descriptor = jo['prompt_descriptor']
+        product.pano_ids = jo['pano_ids']
+        product.image_width = jo['image_width']
+        product.image_height = jo['image_height']
+        product.download_descriptor = jo['download_descriptor']
         return product
             
     @staticmethod
     def json_encoder(obj:'StreetViewSampler') -> object:
         return {
-            "coordinates": obj.coordinates,
+            "download_descriptor": obj.download_descriptor,
             "pano_ids": obj.pano_ids,
             "image_size": obj.image_size,
             "fov": obj.fov,
             "dataset_size": obj.dataset_size,
-            "prompt_descriptor": obj.prompt_descriptor + 1
+            "prompt_descriptor": obj.prompt_descriptor,
+            "image_width": obj.image_width,
+            "image_height": obj.image_height
         }
