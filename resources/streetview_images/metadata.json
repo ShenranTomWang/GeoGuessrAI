@@ -1,0 +1,610 @@
+{
+    "download_descriptor": 75,
+    "image_size": "640x640",
+    "fov": 120,
+    "prompt_descriptor": 7,
+    "image_width": 640,
+    "image_height": 640,
+    "samples": [
+        {
+            "pano_id": "U6AY-oNHMJhhBTgEt-leEA",
+            "coordinates": [
+                50.6200385,
+                -116.0733586
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "Detbi94Tj2Vhcr_dSv_e3w",
+            "coordinates": [
+                51.0466152,
+                -114.0709274
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "GOETvs1DvO_uQ0U_gkwRrA",
+            "coordinates": [
+                50.8974925,
+                -101.8976181
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "8CLAJzeaK766tsj-Mj_bdA",
+            "coordinates": [
+                49.8773523,
+                -97.2291429
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "M_nmjmFzMimW_sQK0jH74g",
+            "coordinates": [
+                52.8500577,
+                -104.0503651
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "BMYvscoVrLu0xD-U0c2dEQ",
+            "coordinates": [
+                52.1635,
+                -103.529487
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "kS3DE92TSjbhDtgDNMXDxg",
+            "coordinates": [
+                49.6352503,
+                -102.2665659
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "eao5rWpFmzImMRheDx2G5g",
+            "coordinates": [
+                54.1307082,
+                -108.431382
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "9o4Hv42ilXCK0eMGW6sbsw",
+            "coordinates": [
+                53.5318447,
+                -113.4176507
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "FZFivwVlo27cgTDYCDSKgw",
+            "coordinates": [
+                49.140173,
+                -123.007264
+            ],
+            "prompt": "highways+in+Canada"
+        },
+        {
+            "pano_id": "dnbL-oh-lSP5xA8zsk0mFQ",
+            "coordinates": [
+                45.9656218,
+                -66.598187
+            ],
+            "prompt": "road+in+Canada"
+        },
+        {
+            "pano_id": "Crab0V7G1Za0cix0fnEBfw",
+            "coordinates": [
+                49.05809379999999,
+                -122.4742366
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "BxVUZgMFhtpsgyZo3DFP1A",
+            "coordinates": [
+                49.8917734,
+                -97.1923063
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "KaPDUNo0_n0PoWhKDJA4AQ",
+            "coordinates": [
+                46.235042,
+                -63.12476299999999
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "vyAWKYpsFu8M9x8rwN8d5Q",
+            "coordinates": [
+                46.5208287,
+                -80.9313777
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "1aSCUZrTjSFW3RDs7xKYUA",
+            "coordinates": [
+                43.1695059,
+                -79.2648401
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "XhVWcBS9lAzKe1NUGK75GA",
+            "coordinates": [
+                43.71772670000001,
+                -79.4582689
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "6swD2bXJIDs4kBn4ePLKuw",
+            "coordinates": [
+                43.852356,
+                -79.3835813
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "5kTfmjZN3vSeK4K_7jZbng",
+            "coordinates": [
+                56.7199244,
+                -111.3557856
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "D2xXxL4xf_S41K2dL0KPAw",
+            "coordinates": [
+                49.1345308,
+                -123.0650064
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "kubkt0O8KcwbzFzcOgnHJQ",
+            "coordinates": [
+                50.4925824,
+                -115.9872161
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "rAfe9vsGgb3Q6HBmUVjkJw",
+            "coordinates": [
+                43.7177377,
+                -79.4582657
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "PjDAA6YN0FG_pT9q0QPf_w",
+            "coordinates": [
+                49.86034009999999,
+                -121.4400329
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "jJQVDppOZMbqT7pthaJ67A",
+            "coordinates": [
+                43.0886422,
+                -79.12950839999999
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "inGFXbIkiP8DkOXzkInszA",
+            "coordinates": [
+                45.4777893,
+                -73.70519949999999
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "oEqXD0vVouwzKJfbhoAlJw",
+            "coordinates": [
+                53.5704851,
+                -113.5002015
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "t53pjZvhWAjJzIsS3Khp5w",
+            "coordinates": [
+                53.57577329999999,
+                -113.4242538
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "-PuMtNhLiRFVZKuIYvDowA",
+            "coordinates": [
+                49.6975131,
+                -112.7993302
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "-FZb5g9f6d6h0U4eyHMxew",
+            "coordinates": [
+                45.3287425,
+                -75.7219898
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "LtQU1pQVmzbnW44X5yWkpw",
+            "coordinates": [
+                49.8614347,
+                -97.13121
+            ],
+            "prompt": "alleys+in+Canada"
+        },
+        {
+            "pano_id": "PlKNgV7aJgmfEXeiglswTg",
+            "coordinates": [
+                44.3140041,
+                -96.808285
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "E78XCXfO2b0FHi7NLG4pWg",
+            "coordinates": [
+                37.2613912,
+                -77.41110929999999
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "ZLtg1kl-PpTFLiOfhYMtTw",
+            "coordinates": [
+                37.3362933,
+                -122.0404078
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "L23Cdudv7OO8guEn44Z5-Q",
+            "coordinates": [
+                42.6066293,
+                -83.1116829
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "dmfDfcYhFX6RIYJB3d0ekQ",
+            "coordinates": [
+                40.757116,
+                -73.99315
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "whSR6XJnlqYJExpWFB3YLw",
+            "coordinates": [
+                42.7426361,
+                -84.5076917
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "KvovURpWYa4aGz7fzjEpgQ",
+            "coordinates": [
+                47.612236,
+                -122.320491
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "_1SUBzoIC1QN8r2eummGlQ",
+            "coordinates": [
+                40.0073585,
+                -83.05223079999999
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "fModaxyBn-_dUF9LaZhi7Q",
+            "coordinates": [
+                36.1175029,
+                -115.1696385
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "9EXVxqwpex3aeaPLb_8Bgw",
+            "coordinates": [
+                35.3885221,
+                -119.0427523
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "dEAyPWC2rPnmEKzK2kxp7w",
+            "coordinates": [
+                41.6309105,
+                -93.7014293
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "Iy4Rt--6BRqneZp1lk-Ohw",
+            "coordinates": [
+                44.3025299,
+                -88.53922209999999
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "LadfMXC2SexVIspm_Zmr4Q",
+            "coordinates": [
+                36.1987743,
+                -115.124071
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "pzfV1i6gvjsTg-uJYPhSow",
+            "coordinates": [
+                32.8668934,
+                -90.3947592
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "wytOcxqbyAronZuWePf0LA",
+            "coordinates": [
+                43.6137052,
+                -71.4767846
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "50RIoumHntZvn1l3l7jlsg",
+            "coordinates": [
+                29.7798456,
+                -95.83264700000001
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "CHPQ6DTV3YQjt7uQF2xtjA",
+            "coordinates": [
+                36.1131399,
+                -115.1636843
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "cyC5wMA3Q5Cu84A2K4ursQ",
+            "coordinates": [
+                42.3384089,
+                -71.5850275
+            ],
+            "prompt": "lanes+in+United+States"
+        },
+        {
+            "pano_id": "kCAfj3dvbtywHMbnOpZ1rw",
+            "coordinates": [
+                38.8430056,
+                -97.6085887
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "Dwte3nURsn68F_ehNjnaKw",
+            "coordinates": [
+                32.7940773,
+                -79.9408694
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "XhNoIy9VWx9gLtO-Y_2OsA",
+            "coordinates": [
+                38.8850368,
+                -94.78519229999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "Wv_-tPRAues4CMpt-Zo2ag",
+            "coordinates": [
+                32.6770463,
+                -97.14105149999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "fjsgSNzYyQ4-T2bXngy4aA",
+            "coordinates": [
+                40.5323587,
+                -74.2968742
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "D8WxlAL9gS9QngRQRm4sJA",
+            "coordinates": [
+                28.0254605,
+                -82.73700099999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "5-WbJChWuVdJsQVMnKMzVg",
+            "coordinates": [
+                41.39239999999999,
+                -81.7605
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "5eTp3b2nqA6syOcssNWoug",
+            "coordinates": [
+                35.9507902,
+                -85.0104977
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "Cwsew-f7E7K8GJR8I1SFpg",
+            "coordinates": [
+                42.1758675,
+                -88.42674009999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "rtbUEebmieZixjYy6XD7Ag",
+            "coordinates": [
+                30.3100782,
+                -89.7511316
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "f6itydQeV8kxaod2looiGw",
+            "coordinates": [
+                40.6500524,
+                -74.23112689999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "pKRgBHHypQWWTIlLum0d_g",
+            "coordinates": [
+                32.9196912,
+                -96.98367019999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "ExKvAYPJo0ZxDsggV_FrPw",
+            "coordinates": [
+                34.0914715,
+                -118.0386419
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "GncKTTNLQ76UYQFpfJrUAQ",
+            "coordinates": [
+                39.1703375,
+                -96.595793
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "VFR90tHyg1moa-AyCiTBWg",
+            "coordinates": [
+                32.6978014,
+                -97.02800219999999
+            ],
+            "prompt": "alleys+in+United+States"
+        },
+        {
+            "pano_id": "9EXVxqwpex3aeaPLb_8Bgw",
+            "coordinates": [
+                35.3885221,
+                -119.0427523
+            ],
+            "prompt": "boulevards+in+United+States"
+        },
+        {
+            "pano_id": "B4R3LyXWYv31P7zsk14EoA",
+            "coordinates": [
+                22.0613558,
+                -159.3466352
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "SV4TC0hzl8ME_W5I1HrQ8A",
+            "coordinates": [
+                41.0929295,
+                -75.00190119999999
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "kdbaMbxQzlWFPFGIK54hVQ",
+            "coordinates": [
+                33.3403368,
+                -112.0609473
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "UKi-oqBZcTavc0JFCur6uQ",
+            "coordinates": [
+                41.361424,
+                -76.87707999999999
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "z6yA6KQDNPsYVmZn3zbgyw",
+            "coordinates": [
+                36.0582567,
+                -112.1273305
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "zQ7Cg6lqn1is6r8vOYAxyQ",
+            "coordinates": [
+                58.41817229999999,
+                -134.543251
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "4ueaAhzEBzQzgaygDz7vbA",
+            "coordinates": [
+                40.2779132,
+                -80.0769746
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "jAyHxTFyUHFGneItH7glTQ",
+            "coordinates": [
+                32.9268576,
+                -117.2593912
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "JbjrDLKnc8Q1zhaBruoU_g",
+            "coordinates": [
+                36.8165097,
+                -111.636817
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "ba7sIbwqR_3YhRfeVVsqAg",
+            "coordinates": [
+                47.4598342,
+                -123.8623319
+            ],
+            "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "Qtd-RH1lvlXh1npfyZxWgw",
+            "coordinates": [
+                35.4328067,
+                -82.2503158
+            ],
+            "prompt": "trails+in+United+States"
+        }
+    ]
+}
