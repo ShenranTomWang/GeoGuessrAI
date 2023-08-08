@@ -5,6 +5,7 @@ import json
 import requests
 from PIL import Image
 from . import StreetViewSamplerConstants as constants
+from . import DirUtil
 
 class StreetViewSampler:
     """Class that abstracts a downloader of street view panoramas
@@ -103,7 +104,11 @@ class StreetViewSampler:
             
             for heading in constants.DEFAULT_HEADINGS:
                 url = f'https://maps.googleapis.com/maps/api/streetview?size={self.image_size}&heading={heading}&pano={pano_id}&key={self.api_key}'
-                response = requests.get(url)
+                try:
+                    response = requests.get(url)
+                except Exception:
+                    self.download_descriptor = i
+                    self.save_sampler_status_metadata(DirUtil.get_image_dir())
                 if response.status_code == 200:
                     image_data.append(response.content)
                 else:
