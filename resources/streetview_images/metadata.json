@@ -2,7 +2,7 @@
     "download_descriptor": 75,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 7,
+    "prompt_descriptor": 0,
     "image_width": 640,
     "image_height": 640,
     "samples": [
