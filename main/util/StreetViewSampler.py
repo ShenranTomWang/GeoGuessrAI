@@ -109,6 +109,7 @@ class StreetViewSampler:
                 except Exception:
                     self.download_descriptor = i
                     self.save_sampler_status_metadata(DirUtil.get_image_dir())
+                    return
                 if response.status_code == 200:
                     image_data.append(response.content)
                 else:
