@@ -165,7 +165,6 @@ class StreetViewSampler:
             "pano_ids": obj.pano_ids,
             "image_size": obj.image_size,
             "fov": obj.fov,
-            "sample_size": obj.sample_size,
             "prompt_descriptor": obj.prompt_descriptor,
             "image_width": obj.image_width,
             "image_height": obj.image_height
