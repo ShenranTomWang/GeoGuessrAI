@@ -1,5 +1,5 @@
 {
-    "download_descriptor": 573,
+    "download_descriptor": 529,
     "image_size": "640x640",
     "fov": 120,
     "prompt_descriptor": 132,
@@ -511,14 +511,6 @@
             "prompt": "alleys+in+United+States"
         },
         {
-            "pano_id": "9EXVxqwpex3aeaPLb_8Bgw",
-            "coordinates": [
-                35.3885221,
-                -119.0427523
-            ],
-            "prompt": "boulevards+in+United+States"
-        },
-        {
             "pano_id": "B4R3LyXWYv31P7zsk14EoA",
             "coordinates": [
                 22.0613558,
@@ -615,14 +607,6 @@
             "prompt": "roads+in+Ontario"
         },
         {
-            "pano_id": "1aSCUZrTjSFW3RDs7xKYUA",
-            "coordinates": [
-                43.1695059,
-                -79.2648401
-            ],
-            "prompt": "alleys+in+Ontario"
-        },
-        {
             "pano_id": "YwE_Ak2b5uSA4DiPp4-zow",
             "coordinates": [
                 42.2607383,
@@ -659,14 +643,6 @@
             "coordinates": [
                 43.1957203,
                 -79.8219893
-            ],
-            "prompt": "alleys+in+Ontario"
-        },
-        {
-            "pano_id": "vyAWKYpsFu8M9x8rwN8d5Q",
-            "coordinates": [
-                46.5208287,
-                -80.9313777
             ],
             "prompt": "alleys+in+Ontario"
         },
@@ -815,22 +791,6 @@
             "prompt": "roads+in+British+Columbia"
         },
         {
-            "pano_id": "Crab0V7G1Za0cix0fnEBfw",
-            "coordinates": [
-                49.05809379999999,
-                -122.4742366
-            ],
-            "prompt": "alleys+in+British+Columbia"
-        },
-        {
-            "pano_id": "kubkt0O8KcwbzFzcOgnHJQ",
-            "coordinates": [
-                50.4925824,
-                -115.9872161
-            ],
-            "prompt": "alleys+in+British+Columbia"
-        },
-        {
             "pano_id": "psa_6Jl22ujGssAglJwI4g",
             "coordinates": [
                 55.3420766,
@@ -839,26 +799,10 @@
             "prompt": "alleys+in+British+Columbia"
         },
         {
-            "pano_id": "PjDAA6YN0FG_pT9q0QPf_w",
-            "coordinates": [
-                49.86034009999999,
-                -121.4400329
-            ],
-            "prompt": "alleys+in+British+Columbia"
-        },
-        {
             "pano_id": "GEiQtoYYJyek8oNBRASMJw",
             "coordinates": [
                 49.1947528,
                 -122.8449028
-            ],
-            "prompt": "alleys+in+British+Columbia"
-        },
-        {
-            "pano_id": "D2xXxL4xf_S41K2dL0KPAw",
-            "coordinates": [
-                49.1345308,
-                -123.0650064
             ],
             "prompt": "alleys+in+British+Columbia"
         },
@@ -951,22 +895,6 @@
             "prompt": "highways+in+Alberta"
         },
         {
-            "pano_id": "LGtu1exX7CDLVPfyki1SKw",
-            "coordinates": [
-                53.30527859999999,
-                -113.5273502
-            ],
-            "prompt": "roads+in+Alberta"
-        },
-        {
-            "pano_id": "dZPYlWeO_RgY0ERwIWH8nQ",
-            "coordinates": [
-                52.2779028,
-                -113.8704152
-            ],
-            "prompt": "roads+in+Alberta"
-        },
-        {
             "pano_id": "WXF9MLYN0oUzivJ-HqyLCg",
             "coordinates": [
                 52.30348189999999,
@@ -981,14 +909,6 @@
                 -113.1715229
             ],
             "prompt": "roads+in+Alberta"
-        },
-        {
-            "pano_id": "5kTfmjZN3vSeK4K_7jZbng",
-            "coordinates": [
-                56.7199244,
-                -111.3557856
-            ],
-            "prompt": "alleys+in+Alberta"
         },
         {
             "pano_id": "awgy8MUcu6exkI-4fsInQw",
@@ -1079,22 +999,6 @@
             "prompt": "highways+in+Newfoundland+and+Labrador"
         },
         {
-            "pano_id": "eWQhD3AKKGiA6HE10eWylw",
-            "coordinates": [
-                51.300041,
-                -56.7278099
-            ],
-            "prompt": "roads+in+Newfoundland+and+Labrador"
-        },
-        {
-            "pano_id": "DWm6gcu6X1-gDbpBXj_meg",
-            "coordinates": [
-                49.2450384,
-                -55.05915479999999
-            ],
-            "prompt": "roads+in+Newfoundland+and+Labrador"
-        },
-        {
             "pano_id": "AF1QipON9h9IuulkHhEiZRzKuLkGsrdnAXYhTrUizShk",
             "coordinates": [
                 47.5569646,
@@ -1175,26 +1079,10 @@
             "prompt": "highways+in+Saskatchewan"
         },
         {
-            "pano_id": "BMYvscoVrLu0xD-U0c2dEQ",
-            "coordinates": [
-                52.1635,
-                -103.529487
-            ],
-            "prompt": "highways+in+Saskatchewan"
-        },
-        {
             "pano_id": "XgohU38sqEm_ZJjmWpDN4w",
             "coordinates": [
                 52.2022202,
                 -106.6602026
-            ],
-            "prompt": "highways+in+Saskatchewan"
-        },
-        {
-            "pano_id": "eao5rWpFmzImMRheDx2G5g",
-            "coordinates": [
-                54.1307082,
-                -108.431382
             ],
             "prompt": "highways+in+Saskatchewan"
         },
@@ -1351,46 +1239,6 @@
             "prompt": "highways+in+Manitoba"
         },
         {
-            "pano_id": "HWG6qV5aYW6mSNAl9GBMYQ",
-            "coordinates": [
-                49.89170800000001,
-                -97.139482
-            ],
-            "prompt": "roads+in+Manitoba"
-        },
-        {
-            "pano_id": "qAgPbopxHWB7SEd33XDv7g",
-            "coordinates": [
-                50.0553324,
-                -96.4990268
-            ],
-            "prompt": "roads+in+Manitoba"
-        },
-        {
-            "pano_id": "yy-kN-FFmcWcRoHBwAypZw",
-            "coordinates": [
-                49.9741398,
-                -98.2917476
-            ],
-            "prompt": "roads+in+Manitoba"
-        },
-        {
-            "pano_id": "ipG7GuVX9W5IPiyxqym02Q",
-            "coordinates": [
-                55.7403662,
-                -97.8481128
-            ],
-            "prompt": "roads+in+Manitoba"
-        },
-        {
-            "pano_id": "oR_MOEJO9IaCnkah6RiZDw",
-            "coordinates": [
-                53.8244531,
-                -101.2496285
-            ],
-            "prompt": "roads+in+Manitoba"
-        },
-        {
             "pano_id": "OIhT0hwD-KDuGFvX-tVC5Q",
             "coordinates": [
                 49.8837549,
@@ -1399,26 +1247,10 @@
             "prompt": "roads+in+Manitoba"
         },
         {
-            "pano_id": "BxVUZgMFhtpsgyZo3DFP1A",
-            "coordinates": [
-                49.8917734,
-                -97.1923063
-            ],
-            "prompt": "alleys+in+Manitoba"
-        },
-        {
             "pano_id": "LdT31_ZqQeN-5o9pi89Ulg",
             "coordinates": [
                 49.89966310000001,
                 -97.07461760000001
-            ],
-            "prompt": "alleys+in+Manitoba"
-        },
-        {
-            "pano_id": "LtQU1pQVmzbnW44X5yWkpw",
-            "coordinates": [
-                49.8614347,
-                -97.13121
             ],
             "prompt": "alleys+in+Manitoba"
         },
@@ -1469,14 +1301,6 @@
                 -63.2558547
             ],
             "prompt": "highways+in+Nova+Scotia"
-        },
-        {
-            "pano_id": "uMWJ6GGoHTc-6GlMogPY_g",
-            "coordinates": [
-                44.7417247,
-                -63.2781842
-            ],
-            "prompt": "roads+in+Nova+Scotia"
         },
         {
             "pano_id": "64vD_zrqAHgcRguy8F9BXw",
@@ -1541,14 +1365,6 @@
                 -64.871968
             ],
             "prompt": "highways+in+New+Brunswick"
-        },
-        {
-            "pano_id": "wNZS5tQhvd2hJ8NAYnkPqQ",
-            "coordinates": [
-                47.622437,
-                -64.871968
-            ],
-            "prompt": "roads+in+New+Brunswick"
         },
         {
             "pano_id": "HOsiSMwwLZ13RoAfYX2X9g",
@@ -1631,14 +1447,6 @@
             "prompt": "highways+in+Prince+Edward+Island"
         },
         {
-            "pano_id": "lmezdyGVSyQuRAlRtzXLLw",
-            "coordinates": [
-                46.28947480000001,
-                -63.1389825
-            ],
-            "prompt": "roads+in+Prince+Edward+Island"
-        },
-        {
             "pano_id": "dN1HLZwxXhYMgQoMDgej_Q",
             "coordinates": [
                 46.376401,
@@ -1661,14 +1469,6 @@
                 -63.5311409
             ],
             "prompt": "roads+in+Prince+Edward+Island"
-        },
-        {
-            "pano_id": "KaPDUNo0_n0PoWhKDJA4AQ",
-            "coordinates": [
-                46.235042,
-                -63.12476299999999
-            ],
-            "prompt": "alleys+in+Prince+Edward+Island"
         },
         {
             "pano_id": "6rhRCTzg1jI9Gdh4Ydd6gQ",
@@ -1991,14 +1791,6 @@
             "prompt": "roads+in+Alaska"
         },
         {
-            "pano_id": "pMaaAycVJvZSe1boIJMxkA",
-            "coordinates": [
-                58.30146070000001,
-                -134.4203643
-            ],
-            "prompt": "roads+in+Alaska"
-        },
-        {
             "pano_id": "F2bMzVbWTkdbJG8jt_ljuA",
             "coordinates": [
                 37.2697729,
@@ -2079,22 +1871,6 @@
             "prompt": "lanes+in+Virginia"
         },
         {
-            "pano_id": "D5aVDSN14qNUrEjYx6-V3A",
-            "coordinates": [
-                37.5380819,
-                -77.4300693
-            ],
-            "prompt": "roads+in+Virginia"
-        },
-        {
-            "pano_id": "D5aVDSN14qNUrEjYx6-V3A",
-            "coordinates": [
-                37.5380819,
-                -77.4300693
-            ],
-            "prompt": "roads+in+Virginia"
-        },
-        {
             "pano_id": "rAeYORSLkMUCTUhwo6t5qw",
             "coordinates": [
                 38.8495154,
@@ -2109,14 +1885,6 @@
                 -74.128467
             ],
             "prompt": "highways+in+New+Jersey"
-        },
-        {
-            "pano_id": "f6itydQeV8kxaod2looiGw",
-            "coordinates": [
-                40.6500524,
-                -74.23112689999999
-            ],
-            "prompt": "lanes+in+New+Jerseys"
         },
         {
             "pano_id": "bpNGqZ8fiHjn17dXcIToRw",
@@ -2535,14 +2303,6 @@
             "prompt": "trails+in+Illinois"
         },
         {
-            "pano_id": "pFFPpra_w48c8kqbVmOiOw",
-            "coordinates": [
-                39.7767938,
-                -89.60484989999999
-            ],
-            "prompt": "roads+in+Illinois"
-        },
-        {
             "pano_id": "lvc7mM5P5md0eB-7Pvcm-A",
             "coordinates": [
                 39.738236,
@@ -2603,14 +2363,6 @@
             "coordinates": [
                 39.4405124,
                 -107.2537324
-            ],
-            "prompt": "roads+in+Colorado"
-        },
-        {
-            "pano_id": "lvc7mM5P5md0eB-7Pvcm-A",
-            "coordinates": [
-                39.738236,
-                -105.023738
             ],
             "prompt": "roads+in+Colorado"
         },
@@ -2759,14 +2511,6 @@
             "prompt": "trails+in+Arkansas"
         },
         {
-            "pano_id": "ara2NGVtnPaYo8vCjJ18sw",
-            "coordinates": [
-                34.6712172,
-                -92.382853
-            ],
-            "prompt": "roads+in+Arkansas"
-        },
-        {
             "pano_id": "XfN4Gt2WnbNIUxLUNONeFw",
             "coordinates": [
                 34.7651271,
@@ -2813,14 +2557,6 @@
                 -72.61161
             ],
             "prompt": "lanes+in+Connecticut"
-        },
-        {
-            "pano_id": "xRZHYQWm4R1U3BZFxRNLig",
-            "coordinates": [
-                41.7613805,
-                -72.6734969
-            ],
-            "prompt": "roads+in+Connecticut"
         },
         {
             "pano_id": "BRAE5Vx7CY_Hrk78oMtbsQ",
@@ -3103,14 +2839,6 @@
             "prompt": "lanes+in+Kansas"
         },
         {
-            "pano_id": "GncKTTNLQ76UYQFpfJrUAQ",
-            "coordinates": [
-                39.1703375,
-                -96.595793
-            ],
-            "prompt": "lanes+in+Kansas"
-        },
-        {
             "pano_id": "ydzYdJwhPNmpchAEQjc_Ag",
             "coordinates": [
                 37.171264,
@@ -3287,34 +3015,10 @@
             "prompt": "trails+in+Kansas"
         },
         {
-            "pano_id": "Wy4h7fmqAhJUTE5z17gStg",
-            "coordinates": [
-                39.0508997,
-                -95.6775354
-            ],
-            "prompt": "roads+in+Kansas"
-        },
-        {
-            "pano_id": "babNN_xRZWDR-FQi2aIApg",
-            "coordinates": [
-                39.04369519999999,
-                -98.1455539
-            ],
-            "prompt": "roads+in+Kansas"
-        },
-        {
             "pano_id": "S88mLTPlk9Kx_7Q7AfqCPw",
             "coordinates": [
                 37.767182,
                 -97.2982184
-            ],
-            "prompt": "roads+in+Kansas"
-        },
-        {
-            "pano_id": "sEcMcmCEvDMBf5EtpIdsmg",
-            "coordinates": [
-                38.9081577,
-                -99.35291380000001
             ],
             "prompt": "roads+in+Kansas"
         },
@@ -3599,14 +3303,6 @@
             "prompt": "trails+in+Kentucky"
         },
         {
-            "pano_id": "BNiaitced-FlEVEta6iH_A",
-            "coordinates": [
-                37.1168776,
-                -85.30045539999999
-            ],
-            "prompt": "roads+in+Kentucky"
-        },
-        {
             "pano_id": "IbTPK4Yw44PBlNhK5pjvuA",
             "coordinates": [
                 39.0444681,
@@ -3775,14 +3471,6 @@
             "prompt": "lanes+in+Maryland"
         },
         {
-            "pano_id": "lD_7qcZP13bJ7eN4ATQthQ",
-            "coordinates": [
-                39.1761462,
-                -76.8408493
-            ],
-            "prompt": "lanes+in+Maryland"
-        },
-        {
             "pano_id": "jm_o9PWekB80Y9xL3ORV1w",
             "coordinates": [
                 39.24090690000001,
@@ -3823,34 +3511,10 @@
             "prompt": "trails+in+Maryland"
         },
         {
-            "pano_id": "z-lvqx4rH23RpsmshyO3QA",
-            "coordinates": [
-                39.1603623,
-                -76.67965760000001
-            ],
-            "prompt": "roads+in+Maryland"
-        },
-        {
-            "pano_id": "Af0uypuFHzE5DnNs-4EphQ",
-            "coordinates": [
-                39.2982152,
-                -76.61258409999999
-            ],
-            "prompt": "roads+in+Maryland"
-        },
-        {
             "pano_id": "WgEYdYxZD_s7WtPBgXCWDA",
             "coordinates": [
                 38.77072,
                 -76.0885299
-            ],
-            "prompt": "roads+in+Maryland"
-        },
-        {
-            "pano_id": "sfiHlHiQN2NU60ak8ShuIg",
-            "coordinates": [
-                39.4327621,
-                -77.43934620000002
             ],
             "prompt": "roads+in+Maryland"
         },
@@ -4167,14 +3831,6 @@
             "prompt": "trails+in+Maine"
         },
         {
-            "pano_id": "Z09zMnDaEtvvJcM-WNJG0w",
-            "coordinates": [
-                44.3109043,
-                -69.7834426
-            ],
-            "prompt": "roads+in+Maine"
-        },
-        {
             "pano_id": "fDMykI3S4v2CUaQnxZfbtw",
             "coordinates": [
                 44.9488001,
@@ -4363,14 +4019,6 @@
             "coordinates": [
                 44.9532792,
                 -93.1047847
-            ],
-            "prompt": "roads+in+Minnesota"
-        },
-        {
-            "pano_id": "z8L3py1G6X-czADmYdH_gg",
-            "coordinates": [
-                46.2790817,
-                -96.0754137
             ],
             "prompt": "roads+in+Minnesota"
         },

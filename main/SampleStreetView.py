@@ -10,7 +10,7 @@ if os.path.exists(f'{DirUtil.get_image_dir()}/metadata.json'):
 else:
     sampler = StreetViewSampler(2, constants.API_KEY)
     
-# sampler.sample(size_per_prompt=10)
-sampler.rename()
-# sampler.download_panoramas(DirUtil.get_image_dir())
-# sampler.save_sampler_status_metadata(DirUtil.get_image_dir())
+sampler.sample(size_per_prompt=10)
+sampler.removeDuplicate()
+sampler.download_panoramas(DirUtil.get_image_dir())
+sampler.save_sampler_status_metadata(DirUtil.get_image_dir())

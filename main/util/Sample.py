@@ -85,7 +85,7 @@ class Sample:
         return cls(json_data['pano_id'], json_data['coordinates'], json_data['prompt'])
     
     def __eq__(self, __value: object) -> bool:
-        return self.coordinates == __value.coordinates
+        return self.coordinates == __value.coordinates and self.pano_id == __value.pano_id
     
     def __hash__(self) -> int:
         return hash((self.coordinates[0], self.coordinates[1]))

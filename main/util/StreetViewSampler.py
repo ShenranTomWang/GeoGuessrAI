@@ -73,7 +73,9 @@ class StreetViewSampler:
                     if len(panos) > 0:
                         pano_id = panos[0].pano_id
                         coordinates = [lat, lon]
-                        self.samples.append(Sample(pano_id, coordinates, curr_prompt))
+                        sample = Sample(pano_id, coordinates, curr_prompt)
+                        if sample in self.samples:
+                            self.samples.append(sample)
                     else:
                         print(f'No panorama found at {lat}, {lon}')
                     j += 1
@@ -198,14 +200,15 @@ class StreetViewSampler:
             "samples": [sample.to_json() for sample in self.samples]
         }
         
-    def rename(self) -> None:
-        dir = DirUtil.get_image_dir()
-        for sample in self.samples:
-            lat, lon = sample.coordinates
-            id = sample.pano_id
-            files = os.listdir(DirUtil.get_image_dir())
-            for file in files:
-                if file == f'panorama_{lat}_{lon}.jpg':
-                    new_name = f'{dir}/panorama_{lat}_{lon}_{id}.jpg'
-                    os.rename(f'{dir}/{file}', new_name)
-                    
+    def removeDuplicate(self):
+        """Removes duplicate samples in self.samples
+        """
+        myMap = {key.pano_id: 0 for key in self.samples}
+        i = 0
+        while i < len(self.samples):
+            id = self.samples[i].pano_id
+            myMap[id] += 1
+            if myMap[id] > 1:
+                self.samples.pop(i)
+            else:
+                i += 1
