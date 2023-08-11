@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 373,
+    "download_descriptor": 472,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 102,
+    "prompt_descriptor": 112,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -2989,6 +2989,798 @@
                 -91.4362242
             ],
             "prompt": "roads+in+Louisiana"
+        },
+        {
+            "pano_id": "Wy4h7fmqAhJUTE5z17gStg",
+            "coordinates": [
+                39.0508997,
+                -95.6775354
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "xeAn7yGRHCqtx9998d7qzQ",
+            "coordinates": [
+                39.01421759999999,
+                -95.76537549999999
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "dgtwYw0qNsQ8Gz8tupbIQw",
+            "coordinates": [
+                39.8427091,
+                -96.0703942
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "babNN_xRZWDR-FQi2aIApg",
+            "coordinates": [
+                39.04369519999999,
+                -98.1455539
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "6TijTeWviqqA4Tr6mkbH9Q",
+            "coordinates": [
+                39.0506749,
+                -95.6750065
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "9ap_l6CZf6ZPPtbwV8X6XA",
+            "coordinates": [
+                39.36623609999999,
+                -97.1074804
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "dGQSUivWHMxEwaAGkTMvSg",
+            "coordinates": [
+                38.5247573,
+                -99.31771859999999
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "sEcMcmCEvDMBf5EtpIdsmg",
+            "coordinates": [
+                38.9081577,
+                -99.35291380000001
+            ],
+            "prompt": "highways+in+Kansas"
+        },
+        {
+            "pano_id": "UItZxwVnCpkz83ZZQ9WHIQ",
+            "coordinates": [
+                37.9397203,
+                -101.2554561
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "GNkWnm3UxYK9OIdC9SLaKQ",
+            "coordinates": [
+                39.4280455,
+                -99.2748646
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "6nTQiBdAQnOg6hKsBVCBJA",
+            "coordinates": [
+                37.2867927,
+                -97.3939
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "9J8TtaBhthgrNzyCiPYYOg",
+            "coordinates": [
+                38.9666735,
+                -95.2622865
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "aiQ6JaZdQNLnNu8K7GWLUw",
+            "coordinates": [
+                39.1997364,
+                -96.30523199999999
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "O3jvg1yaj-NPvdJUMMyBEQ",
+            "coordinates": [
+                39.8416961,
+                -96.63310059999999
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "GncKTTNLQ76UYQFpfJrUAQ",
+            "coordinates": [
+                39.1703375,
+                -96.595793
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "ydzYdJwhPNmpchAEQjc_Ag",
+            "coordinates": [
+                37.171264,
+                -94.844691
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "ff5AKoaT_qt1wcfmxZOkOA",
+            "coordinates": [
+                38.8806915,
+                -99.3169631
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "QA9OwSQWB4VBi36cPcxjtA",
+            "coordinates": [
+                38.9668998,
+                -94.60684359999999
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "Pk7UF1r-xj3bGJ5aIXUMTw",
+            "coordinates": [
+                38.3472852,
+                -97.0074846
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "Jmfb4yK7iwZnEqZXHNl13g",
+            "coordinates": [
+                38.0434611,
+                -97.3192428
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "nI__gfszkGDb3VwyMeQ8nA",
+            "coordinates": [
+                39.1156564,
+                -94.7701082
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "MX7sHuOK6ytTivL6djshgw",
+            "coordinates": [
+                37.6830782,
+                -95.4659448
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "DiLDI0AnKHvvlr8fYXjmRQ",
+            "coordinates": [
+                38.52076539999999,
+                -98.77505269999999
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "k-VGN7SPAtpBCXM_M386OQ",
+            "coordinates": [
+                37.08744859999999,
+                -97.0396804
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "UY-Lu6lXibnJDz7cMzszEg",
+            "coordinates": [
+                38.3698921,
+                -97.6794738
+            ],
+            "prompt": "lanes+in+Kansas"
+        },
+        {
+            "pano_id": "zTpfTOmliAa_MKQv5H0vaQ",
+            "coordinates": [
+                37.26788,
+                -95.9007941
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "nYMlcmXfVy-hIJylg3RGmA",
+            "coordinates": [
+                39.0638834,
+                -94.61505299999999
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "pla_VTcsyi8ks3hknzFkCA",
+            "coordinates": [
+                38.9728017,
+                -95.2185354
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "p0vXN6D4WtzzTw6pjtPJNA",
+            "coordinates": [
+                38.3910738,
+                -97.676127
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "PZvaM-xyhWCbnrmK88koqA",
+            "coordinates": [
+                39.087662,
+                -94.6502806
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "Ub0IykYnZ7cJSvLb3hxTsw",
+            "coordinates": [
+                37.3355297,
+                -95.2508931
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "SErNwRThIrUGGjRj2QKBzg",
+            "coordinates": [
+                38.07210510000001,
+                -97.2192883
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "uKn7Wb8187KWg1Nl9MCqYw",
+            "coordinates": [
+                38.0754926,
+                -97.340682
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "r5MzTCPsuZ1Qh7RJDxwBuw",
+            "coordinates": [
+                37.3688761,
+                -95.25184809999999
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "9JdCSSLP_d3z5sTYJyvcNw",
+            "coordinates": [
+                38.9498183,
+                -95.9646629
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "MTQhAuXw3RiGO001x9Nszw",
+            "coordinates": [
+                37.6822113,
+                -95.4443653
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "2yjjYJovd25hSO1oiTApjw",
+            "coordinates": [
+                38.9045573,
+                -94.8067952
+            ],
+            "prompt": "trails+in+Kansas"
+        },
+        {
+            "pano_id": "Wy4h7fmqAhJUTE5z17gStg",
+            "coordinates": [
+                39.0508997,
+                -95.6775354
+            ],
+            "prompt": "roads+in+Kansas"
+        },
+        {
+            "pano_id": "babNN_xRZWDR-FQi2aIApg",
+            "coordinates": [
+                39.04369519999999,
+                -98.1455539
+            ],
+            "prompt": "roads+in+Kansas"
+        },
+        {
+            "pano_id": "S88mLTPlk9Kx_7Q7AfqCPw",
+            "coordinates": [
+                37.767182,
+                -97.2982184
+            ],
+            "prompt": "roads+in+Kansas"
+        },
+        {
+            "pano_id": "sEcMcmCEvDMBf5EtpIdsmg",
+            "coordinates": [
+                38.9081577,
+                -99.35291380000001
+            ],
+            "prompt": "roads+in+Kansas"
+        },
+        {
+            "pano_id": "-ePuxyxkP_mGIEfkWfFvuA",
+            "coordinates": [
+                36.76154830000001,
+                -83.6955673
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "BNiaitced-FlEVEta6iH_A",
+            "coordinates": [
+                37.1168776,
+                -85.30045539999999
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "X0dy886Ods2z4MLKOusDtw",
+            "coordinates": [
+                38.2173615,
+                -84.8616839
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "gZPvmLZ0OqJyCVpCnhX2uA",
+            "coordinates": [
+                38.2014145,
+                -84.8725912
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "cogdiDm_fMyskuMdSz0Jxg",
+            "coordinates": [
+                37.1797195,
+                -83.7717064
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "aV9LWSXZLqUDeyl4kAYS3Q",
+            "coordinates": [
+                38.2771348,
+                -85.5977288
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "1hZ3HxxC9saygRbBqUaZxA",
+            "coordinates": [
+                37.9929377,
+                -85.3204621
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "HN9dbg6zWmVK9fIxOLYFzw",
+            "coordinates": [
+                37.1253715,
+                -82.7780489
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "tLnVFFVYwSqFKeokPPbSCw",
+            "coordinates": [
+                37.0705012,
+                -84.6180971
+            ],
+            "prompt": "highways+in+Kentucky"
+        },
+        {
+            "pano_id": "BGK7zcDTwx_bybylyw-tOQ",
+            "coordinates": [
+                36.9490792,
+                -86.4217973
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "K6YvnCJdexN1Ya2g2ATHFQ",
+            "coordinates": [
+                38.1548329,
+                -85.7645784
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "jhceBy9zyYTj77iGSDrrlg",
+            "coordinates": [
+                39.0381655,
+                -84.4505554
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "SFOWd0tWEW4eg4j8Wb90eQ",
+            "coordinates": [
+                38.9774788,
+                -84.3925409
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "I0yQj2AKNrKMEUnWP3r4RQ",
+            "coordinates": [
+                39.081133,
+                -84.48029199999999
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "Lw7tpFK3LG3YoqfwXcZggg",
+            "coordinates": [
+                38.206723,
+                -85.5795093
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "O5aTDzFAKJznuXzOFe7uLQ",
+            "coordinates": [
+                38.04711959999999,
+                -83.9383361
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "P_EqX3FjhNDImexJ8dcMtw",
+            "coordinates": [
+                37.7514302,
+                -85.8970963
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "gniwet3JAMSuvPEE0PtO-w",
+            "coordinates": [
+                38.3364796,
+                -82.94297519999999
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "xnV9L1I0xVqfEJdMiGeJ5A",
+            "coordinates": [
+                38.0131465,
+                -84.5191069
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "GPYSHahFse9RWIlwgCSxgg",
+            "coordinates": [
+                38.2589183,
+                -85.7222754
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "Y-2CmwIiScWL4DhQ_HLJ8w",
+            "coordinates": [
+                37.655922,
+                -84.7507344
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "_wz_Gnc89ZwxpX4iFc6H_A",
+            "coordinates": [
+                37.7577044,
+                -87.1025409
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "OfAs7-xj_HIOytuCreARYQ",
+            "coordinates": [
+                36.7894734,
+                -85.3697086
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "eZac7l-Ef_L_caUb2_Wxlw",
+            "coordinates": [
+                37.078783,
+                -84.6169554
+            ],
+            "prompt": "lanes+in+Kentucky"
+        },
+        {
+            "pano_id": "0TTMvNUtYuVW756AQZ2Nkg",
+            "coordinates": [
+                37.96891,
+                -85.96092999999999
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "zLurvh1G7fE3huPv5rrxtg",
+            "coordinates": [
+                36.9976783,
+                -84.2850558
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "yrw1c9DBsJfFgJnQeTKThQ",
+            "coordinates": [
+                37.28969439999999,
+                -84.1411389
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "kUfrF5ZkTZr_JmckB9762g",
+            "coordinates": [
+                39.0633471,
+                -84.4408643
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "76JrIZcyzGXkC5N2B0VGRA",
+            "coordinates": [
+                37.9187933,
+                -84.2719015
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "qzk3WjWb3SWMne3MiEmrIg",
+            "coordinates": [
+                38.3852506,
+                -83.4161017
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "NVbC6kdAWblS0euYHGzmpQ",
+            "coordinates": [
+                38.1203591,
+                -85.5359362
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "U-eLqNr4jcDzFQrXkAEBng",
+            "coordinates": [
+                37.7621535,
+                -84.6175581
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "hmBCRGnBHNAKCMCZt77XDg",
+            "coordinates": [
+                36.7248719,
+                -84.5429255
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "eYwatp8Zpbbwjf2btEd6xA",
+            "coordinates": [
+                37.0674021,
+                -82.7720642
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "2SYeHAArKe8nB4UkxnAzMg",
+            "coordinates": [
+                37.5754966,
+                -84.276123
+            ],
+            "prompt": "trails+in+Kentucky"
+        },
+        {
+            "pano_id": "BNiaitced-FlEVEta6iH_A",
+            "coordinates": [
+                37.1168776,
+                -85.30045539999999
+            ],
+            "prompt": "roads+in+Kentucky"
+        },
+        {
+            "pano_id": "IbTPK4Yw44PBlNhK5pjvuA",
+            "coordinates": [
+                39.0444681,
+                -84.57705560000001
+            ],
+            "prompt": "roads+in+Kentucky"
+        },
+        {
+            "pano_id": "aATt6-qNbxeGUymWqZE7Lw",
+            "coordinates": [
+                37.6146328,
+                -84.5785459
+            ],
+            "prompt": "roads+in+Kentucky"
+        },
+        {
+            "pano_id": "Af0uypuFHzE5DnNs-4EphQ",
+            "coordinates": [
+                39.2982152,
+                -76.61258409999999
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "1IQ6pIwbIdIM2a-5w7KN2Q",
+            "coordinates": [
+                39.3268952,
+                -76.4950999
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "qqufYznIE9QVrHrzgpe8Cw",
+            "coordinates": [
+                39.0498519,
+                -76.95567740000001
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "z-lvqx4rH23RpsmshyO3QA",
+            "coordinates": [
+                39.1603504,
+                -76.6794633
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "j11pWwdZ0uPndd0phRxdTQ",
+            "coordinates": [
+                38.8013685,
+                -76.7526328
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "oOYYwfTTGarhlgEagje7pA",
+            "coordinates": [
+                39.1973297,
+                -76.6120021
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "sfiHlHiQN2NU60ak8ShuIg",
+            "coordinates": [
+                39.4327621,
+                -77.43934620000002
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "n0fH3Rkdfj6akVApMgaLtQ",
+            "coordinates": [
+                39.1569517,
+                -76.6773071
+            ],
+            "prompt": "highways+in+Maryland"
+        },
+        {
+            "pano_id": "IXRWVwJiRLGJ1l8Tkbx7RA",
+            "coordinates": [
+                39.3770726,
+                -76.6086433
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "k6HQzNg6QzfvLzPKX5Kx6A",
+            "coordinates": [
+                38.942871,
+                -76.903596
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "U-FuQeMl_1xKMNd4m_C_GQ",
+            "coordinates": [
+                39.312361,
+                -76.731264
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "DrHNPZpzcEyzhOtgB1RbgQ",
+            "coordinates": [
+                39.22615500000001,
+                -76.659921
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "uwFyinXCdGR-V24xwUY_Rw",
+            "coordinates": [
+                38.641717,
+                -76.897202
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "WVvrb7oFT351CNJuto6w5g",
+            "coordinates": [
+                39.407008,
+                -76.5820945
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "97VvLBUuaE0wTkOF7bE8MQ",
+            "coordinates": [
+                39.283591,
+                -76.50542399999999
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "mYExVvJI3uqeFeBRUa_7CA",
+            "coordinates": [
+                39.1284,
+                -76.589299
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "lD_7qcZP13bJ7eN4ATQthQ",
+            "coordinates": [
+                39.176161,
+                -76.840833
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "JkXxUJyY038j76h7YAeHjg",
+            "coordinates": [
+                39.000175,
+                -76.93047
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "1DW_c4A91Bur0QGjxAyZUQ",
+            "coordinates": [
+                39.44492,
+                -76.627106
+            ],
+            "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "lD_7qcZP13bJ7eN4ATQthQ",
+            "coordinates": [
+                39.1761462,
+                -76.8408493
+            ],
+            "prompt": "lanes+in+Maryland"
         }
     ]
 }
