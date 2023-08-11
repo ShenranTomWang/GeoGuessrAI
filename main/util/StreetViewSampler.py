@@ -123,7 +123,8 @@ class StreetViewSampler:
             
             if len(image_data) != 4:
                 print(f'Request failed while trying to get panorama id {sample.pano_id}')
-                break
+                self.samples.pop(i)
+                continue
             
             images = []
             for data in image_data:

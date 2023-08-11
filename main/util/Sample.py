@@ -29,7 +29,7 @@ class Sample:
         Returns:
             bytes: image content in bytes
         """
-        url = f'https://maps.googleapis.com/maps/api/streetview?size={image_size}&heading={heading}&pano={self.pano_id}&key={api_key}'
+        url = f'https://maps.googleapis.com/maps/api/streetview?size={image_size}&heading={heading}&pano={self.pano_id}&key={api_key}&return_error_code=true'
         response = requests.get(url)
         if response.status_code == 200:
             return response.content

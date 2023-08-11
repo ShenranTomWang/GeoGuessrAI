@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 75,
+    "download_descriptor": 175,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 0,
+    "prompt_descriptor": 20,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -605,6 +605,798 @@
                 -82.2503158
             ],
             "prompt": "trails+in+United+States"
+        },
+        {
+            "pano_id": "onHs2v_0Vc5fZDKz2nBJBA",
+            "coordinates": [
+                43.4781446,
+                -79.6607961
+            ],
+            "prompt": "roads+in+Ontario"
+        },
+        {
+            "pano_id": "1aSCUZrTjSFW3RDs7xKYUA",
+            "coordinates": [
+                43.1695059,
+                -79.2648401
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "YwE_Ak2b5uSA4DiPp4-zow",
+            "coordinates": [
+                42.2607383,
+                -82.431488
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "DchPsRvCGC-ziDm2ThVZYA",
+            "coordinates": [
+                44.60955630000001,
+                -76.2178902
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "qi0DUsMvnY2SBs3jENVDjg",
+            "coordinates": [
+                44.353264,
+                -78.7361196
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "2hQI5IPTTsxhCMacPQ0K3Q",
+            "coordinates": [
+                44.9162554,
+                -78.72354779999999
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "5I-Ha5ivocx6sWqQZSf9SQ",
+            "coordinates": [
+                43.1957203,
+                -79.8219893
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "vyAWKYpsFu8M9x8rwN8d5Q",
+            "coordinates": [
+                46.5208287,
+                -80.9313777
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "7v6BKtnbGdrLZrpG6V2N1A",
+            "coordinates": [
+                45.0927897,
+                -75.3547614
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "b8ymwA3QYJ4x5r5qi4FB0A",
+            "coordinates": [
+                43.4222335,
+                -81.6174468
+            ],
+            "prompt": "alleys+in+Ontario"
+        },
+        {
+            "pano_id": "sthiROk3bWB2zeQyF42b6A",
+            "coordinates": [
+                46.81736979999999,
+                -71.21167419999999
+            ],
+            "prompt": "roads+in+Quebec"
+        },
+        {
+            "pano_id": "2DQdfL2cBeC6eoKr7jnhKQ",
+            "coordinates": [
+                46.8400749,
+                -71.21385459999999
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "rC1WssmegnMjYeZXuicaSA",
+            "coordinates": [
+                46.8697391,
+                -71.2564812
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "Zdzcgn1CMfhR_6S_m9d2mg",
+            "coordinates": [
+                46.8244992,
+                -71.2216566
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "-2F-QeLqWXZ7-Ejk9BdgKA",
+            "coordinates": [
+                46.8271169,
+                -71.4542596
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "N8MdOZn4cRho2UJJvPo8qg",
+            "coordinates": [
+                46.8269201,
+                -71.235715
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "y_rnB8FYNOfSKvxeyTAoug",
+            "coordinates": [
+                46.8471992,
+                -71.36045659999999
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "sLL7h1517H-2yehpw8LafA",
+            "coordinates": [
+                46.8442881,
+                -71.2168059
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "raGTHpgIQzJjTTm65GayYQ",
+            "coordinates": [
+                46.90740780000001,
+                -71.3769641
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "Kubu7vK13NA8gC0bc7qsLQ",
+            "coordinates": [
+                46.7878903,
+                -71.26857629999999
+            ],
+            "prompt": "alleys+in+Quebec"
+        },
+        {
+            "pano_id": "2P1Q5wA2HcCGgCByBw-9Tw",
+            "coordinates": [
+                50.6931576,
+                -121.9348308
+            ],
+            "prompt": "highways+in+British+Columbia"
+        },
+        {
+            "pano_id": "BNWxLZMWIU9JHoAtEkYaBg",
+            "coordinates": [
+                49.1044133,
+                -122.7401943
+            ],
+            "prompt": "highways+in+British+Columbia"
+        },
+        {
+            "pano_id": "2iwSTim0RVNs8PbyFwoI4g",
+            "coordinates": [
+                49.3051573,
+                -123.0236252
+            ],
+            "prompt": "highways+in+British+Columbia"
+        },
+        {
+            "pano_id": "64bb0ym-8a8cTmUTu0MrOw",
+            "coordinates": [
+                48.423317,
+                -123.363727
+            ],
+            "prompt": "roads+in+British+Columbia"
+        },
+        {
+            "pano_id": "-wvrvekTYd85XXwLK-VR0g",
+            "coordinates": [
+                49.6931857,
+                -124.9915952
+            ],
+            "prompt": "roads+in+British+Columbia"
+        },
+        {
+            "pano_id": "Bfwu_RIh1hFTp1-RR4fu7w",
+            "coordinates": [
+                53.9145489,
+                -122.7426791
+            ],
+            "prompt": "roads+in+British+Columbia"
+        },
+        {
+            "pano_id": "Crab0V7G1Za0cix0fnEBfw",
+            "coordinates": [
+                49.05809379999999,
+                -122.4742366
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "kubkt0O8KcwbzFzcOgnHJQ",
+            "coordinates": [
+                50.4925824,
+                -115.9872161
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "psa_6Jl22ujGssAglJwI4g",
+            "coordinates": [
+                55.3420766,
+                -123.0979701
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "PjDAA6YN0FG_pT9q0QPf_w",
+            "coordinates": [
+                49.86034009999999,
+                -121.4400329
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "GEiQtoYYJyek8oNBRASMJw",
+            "coordinates": [
+                49.1947528,
+                -122.8449028
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "D2xXxL4xf_S41K2dL0KPAw",
+            "coordinates": [
+                49.1345308,
+                -123.0650064
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "qsBikaJABxtf0_fbldIacQ",
+            "coordinates": [
+                51.6325445,
+                -121.3019374
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "KuSYEKiXpwXPibffBsA7KQ",
+            "coordinates": [
+                48.6475546,
+                -123.4013829
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "WHMYF5mFDNCR_G-WVAsXkA",
+            "coordinates": [
+                49.1161043,
+                -117.5410898
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "8Q_lXUDc91M-EIclTIU9qg",
+            "coordinates": [
+                50.82047439999999,
+                -119.6895423
+            ],
+            "prompt": "alleys+in+British+Columbia"
+        },
+        {
+            "pano_id": "LGtu1exX7CDLVPfyki1SKw",
+            "coordinates": [
+                53.30527859999999,
+                -113.5273502
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "dZPYlWeO_RgY0ERwIWH8nQ",
+            "coordinates": [
+                52.2779028,
+                -113.8704152
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "4YJio-78pAg3vWXRq9OnfA",
+            "coordinates": [
+                52.01856170000001,
+                -113.9763341
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "qP3-3wfBwIVdvT7-R0uUcQ",
+            "coordinates": [
+                53.187424,
+                -114.3173575
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "NmFbJR65HHXfDT3tieKwLQ",
+            "coordinates": [
+                51.0569997,
+                -114.0199533
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "yFQRfqT5Ml0qMyVhxwxDVw",
+            "coordinates": [
+                51.4225206,
+                -114.0358085
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "SL3xmaYD-staGCVvUbrLmg",
+            "coordinates": [
+                49.7030702,
+                -112.8341715
+            ],
+            "prompt": "highways+in+Alberta"
+        },
+        {
+            "pano_id": "LGtu1exX7CDLVPfyki1SKw",
+            "coordinates": [
+                53.30527859999999,
+                -113.5273502
+            ],
+            "prompt": "roads+in+Alberta"
+        },
+        {
+            "pano_id": "dZPYlWeO_RgY0ERwIWH8nQ",
+            "coordinates": [
+                52.2779028,
+                -113.8704152
+            ],
+            "prompt": "roads+in+Alberta"
+        },
+        {
+            "pano_id": "WXF9MLYN0oUzivJ-HqyLCg",
+            "coordinates": [
+                52.30348189999999,
+                -113.8091651
+            ],
+            "prompt": "roads+in+Alberta"
+        },
+        {
+            "pano_id": "5Uo-OT0A4dTP8qKLOJjklw",
+            "coordinates": [
+                53.5690689,
+                -113.1715229
+            ],
+            "prompt": "roads+in+Alberta"
+        },
+        {
+            "pano_id": "5kTfmjZN3vSeK4K_7jZbng",
+            "coordinates": [
+                56.7199244,
+                -111.3557856
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "awgy8MUcu6exkI-4fsInQw",
+            "coordinates": [
+                52.2081633,
+                -113.8169275
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "lUsT83M3gOIQ4fJwvjcSyw",
+            "coordinates": [
+                55.0689586,
+                -117.2852602
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "Sbj4LMEKgv5W_loQFZrUlQ",
+            "coordinates": [
+                53.9904437,
+                -111.2949078
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "lwFua11-JtbFbx78T8YdUg",
+            "coordinates": [
+                51.4526453,
+                -112.7022928
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "Lh0IdgqqV49zVQRIVQZn5g",
+            "coordinates": [
+                51.0506432,
+                -114.0629234
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "4-yWpAB0sOJTD0fKTb7QiQ",
+            "coordinates": [
+                53.22159569999999,
+                -114.9891967
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "AxvXzjgWMsZx9nk5v-9FbA",
+            "coordinates": [
+                52.6398278,
+                -114.239785
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "6qNGjE34xhTjkOzeaM49-w",
+            "coordinates": [
+                52.2906614,
+                -113.8331394
+            ],
+            "prompt": "alleys+in+Alberta"
+        },
+        {
+            "pano_id": "eWQhD3AKKGiA6HE10eWylw",
+            "coordinates": [
+                51.300041,
+                -56.7278099
+            ],
+            "prompt": "highways+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "DWm6gcu6X1-gDbpBXj_meg",
+            "coordinates": [
+                49.2450384,
+                -55.05915479999999
+            ],
+            "prompt": "highways+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "kmZp5FhRM4WdB-PPiqAWTQ",
+            "coordinates": [
+                47.1147287,
+                -53.5060009
+            ],
+            "prompt": "highways+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "eWQhD3AKKGiA6HE10eWylw",
+            "coordinates": [
+                51.300041,
+                -56.7278099
+            ],
+            "prompt": "roads+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "DWm6gcu6X1-gDbpBXj_meg",
+            "coordinates": [
+                49.2450384,
+                -55.05915479999999
+            ],
+            "prompt": "roads+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "AF1QipON9h9IuulkHhEiZRzKuLkGsrdnAXYhTrUizShk",
+            "coordinates": [
+                47.5569646,
+                -52.7356236
+            ],
+            "prompt": "alleys+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "BiPmMG7BbhnvhVzH7XED3Q",
+            "coordinates": [
+                48.9579801,
+                -54.6142017
+            ],
+            "prompt": "alleys+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "-TV5Wc0JBpGcGEEMMsg56Q",
+            "coordinates": [
+                49.2506103,
+                -55.0652923
+            ],
+            "prompt": "alleys+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "AF1QipOjhk5_yIFaC36vAjv2ETyjCcjChavqeMsRu3kx",
+            "coordinates": [
+                47.5516491,
+                -52.72995239999999
+            ],
+            "prompt": "alleys+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "AF1QipP6f7NKCX6ffptkvtwRoygWRnUliLiSJuHAgWFz",
+            "coordinates": [
+                47.5844057,
+                -52.7092495
+            ],
+            "prompt": "alleys+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "_2Ym3Azx7d8r9yaeKxD_gg",
+            "coordinates": [
+                49.1697481,
+                -57.430456
+            ],
+            "prompt": "alleys+in+Newfoundland+and+Labrador"
+        },
+        {
+            "pano_id": "vuzUbfAAbi1OZmP7bU-P2Q",
+            "coordinates": [
+                52.13365899999999,
+                -106.5953815
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "tjpyjDcv4eAqtrnC43d-LQ",
+            "coordinates": [
+                52.1936936,
+                -106.6471349
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "812x0leH_Kik8745xUtNwQ",
+            "coordinates": [
+                50.4469094,
+                -104.6076071
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "o97-WJY7AArkhvSXyJCcBA",
+            "coordinates": [
+                52.9292339,
+                -105.7765564
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "BMYvscoVrLu0xD-U0c2dEQ",
+            "coordinates": [
+                52.1635,
+                -103.529487
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "XgohU38sqEm_ZJjmWpDN4w",
+            "coordinates": [
+                52.2022202,
+                -106.6602026
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "eao5rWpFmzImMRheDx2G5g",
+            "coordinates": [
+                54.1307082,
+                -108.431382
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "0la40DxEvBOMpOCYWHjEIA",
+            "coordinates": [
+                55.10823,
+                -105.2859889
+            ],
+            "prompt": "highways+in+Saskatchewan"
+        },
+        {
+            "pano_id": "UydHrQnPxKDLJs2kpME8PA",
+            "coordinates": [
+                50.2830856,
+                -107.8045128
+            ],
+            "prompt": "roads+in+Saskatchewan"
+        },
+        {
+            "pano_id": "8fguMErYx2MXVQxZSbze3Q",
+            "coordinates": [
+                51.9390471,
+                -102.5383842
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "jhUH1jo582nFLuZae8mJTg",
+            "coordinates": [
+                49.4611619,
+                -104.2960855
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "Q07Jt8QZuQHnETydLdSeXw",
+            "coordinates": [
+                50.9015799,
+                -103.8507782
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "ZbjBXoDeJkMVPeqBIlJvEg",
+            "coordinates": [
+                52.6618135,
+                -106.3333457
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "ojNYrw_gmiF7w_exXAMTpA",
+            "coordinates": [
+                52.8456222,
+                -104.0493898
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "k0A-7B1JMG1jFLjKgN0TGA",
+            "coordinates": [
+                52.5251696,
+                -106.7297163
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "UZANx9_pVzkYsJqFEFqrdg",
+            "coordinates": [
+                51.4821262,
+                -107.0449206
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "xXT3cpZfHpDrgOx7dSyveQ",
+            "coordinates": [
+                53.0865804,
+                -109.2926961
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "fMhONX9ugtSfDjpzfsb9Qg",
+            "coordinates": [
+                53.3599377,
+                -108.3548882
+            ],
+            "prompt": "alleys+in+Saskatchewan"
+        },
+        {
+            "pano_id": "HWG6qV5aYW6mSNAl9GBMYQ",
+            "coordinates": [
+                49.89170800000001,
+                -97.139482
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "-hpy0MSF7wpz8SW8okvglQ",
+            "coordinates": [
+                49.91562500000001,
+                -97.18131629999999
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "ipG7GuVX9W5IPiyxqym02Q",
+            "coordinates": [
+                55.7403662,
+                -97.8481128
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "yy-kN-FFmcWcRoHBwAypZw",
+            "coordinates": [
+                49.9741398,
+                -98.2917476
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "xggw7RFPKPX7_2npPdA0Ww",
+            "coordinates": [
+                51.2363983,
+                -101.3530357
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "qAgPbopxHWB7SEd33XDv7g",
+            "coordinates": [
+                50.0553324,
+                -96.4990268
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "oR_MOEJO9IaCnkah6RiZDw",
+            "coordinates": [
+                53.8244531,
+                -101.2496285
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "cd-V-vB_dOcXs_rRQIFjGg",
+            "coordinates": [
+                50.4219924,
+                -101.0476817
+            ],
+            "prompt": "highways+in+Manitoba"
+        },
+        {
+            "pano_id": "HWG6qV5aYW6mSNAl9GBMYQ",
+            "coordinates": [
+                49.89170800000001,
+                -97.139482
+            ],
+            "prompt": "roads+in+Manitoba"
+        },
+        {
+            "pano_id": "qAgPbopxHWB7SEd33XDv7g",
+            "coordinates": [
+                50.0553324,
+                -96.4990268
+            ],
+            "prompt": "roads+in+Manitoba"
+        },
+        {
+            "pano_id": "yy-kN-FFmcWcRoHBwAypZw",
+            "coordinates": [
+                49.9741398,
+                -98.2917476
+            ],
+            "prompt": "roads+in+Manitoba"
+        },
+        {
+            "pano_id": "ipG7GuVX9W5IPiyxqym02Q",
+            "coordinates": [
+                55.7403662,
+                -97.8481128
+            ],
+            "prompt": "roads+in+Manitoba"
+        },
+        {
+            "pano_id": "oR_MOEJO9IaCnkah6RiZDw",
+            "coordinates": [
+                53.8244531,
+                -101.2496285
+            ],
+            "prompt": "roads+in+Manitoba"
+        },
+        {
+            "pano_id": "OIhT0hwD-KDuGFvX-tVC5Q",
+            "coordinates": [
+                49.8837549,
+                -97.18367649999999
+            ],
+            "prompt": "roads+in+Manitoba"
         }
     ]
 }
