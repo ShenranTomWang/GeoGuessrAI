@@ -85,7 +85,7 @@ class StreetViewSampler:
         if (len(self.samples) < self.sample_size):
             print(f'Sampled {len(self.samples)} samples due to insufficient resources. Please add more prompts or check validity of requests')
             self.sample_size = len(self.samples)
-            
+
     def download_street_view_images(self, images_dir:str) -> None:
         """Downloads street view images. 
         Warning: 
@@ -96,17 +96,18 @@ class StreetViewSampler:
         os.makedirs(images_dir, exist_ok=True)
         while self.download_descriptor < len(self.samples):
             sample = self.samples[self.download_descriptor]
-            content = None
-            try:
-                content = sample.get_street_view_image(self.image_size, self.api_key)
-            except Exception:
-                print(f'Cannot get street view image with pano id {sample.pano_id}')
-                self.samples.pop(self.download_descriptor)
-                continue
             lat, lon = sample.coordinates
-            image_name = f"{images_dir}/{lat}_{lon}.jpg"
-            with open(image_name, 'wb') as pic:
-                pic.write(content)
+            image_name = f"{images_dir}/{lat}_{lon}_{sample.pano_id}.jpg"
+            if not os.path.exists(image_name):
+                content = None
+                try:
+                    content = sample.get_street_view_image(self.image_size, self.api_key)
+                except Exception:
+                    print(f'Cannot get street view image with pano id {sample.pano_id}')
+                    self.samples.pop(self.download_descriptor)
+                    continue
+                with open(image_name, 'wb') as pic:
+                    pic.write(content)
             self.download_descriptor += 1
 
     def download_panoramas(self, images_dir:str) -> None:
@@ -120,27 +121,28 @@ class StreetViewSampler:
         os.makedirs(images_dir, exist_ok=True)
         while self.download_descriptor < len(self.samples):
             sample = self.samples[self.download_descriptor]
-            image_data = sample.get_panorama(self.image_size, self.api_key)
-            
-            if len(image_data) != 4:
-                print(f'Request failed while trying to get panorama id {sample.pano_id}')
-                self.samples.pop(self.download_descriptor)
-                continue
-            
-            images = []
-            for data in image_data:
-                image = Image.open(io.BytesIO(data))
-                images.append(image)
-            
-            pano_w = self.image_width * 4
-            pano_h = self.image_height
-            pano = Image.new('RGB', (pano_w, pano_h))
-            for i, image in enumerate(images):
-                pano.paste(image, (i * self.image_width, 0))
-            
             lat, lon = sample.coordinates
-            image_name = f"{images_dir}/panorama_{lat}_{lon}.jpg"
-            pano.save(image_name)
+            image_name = f"{images_dir}/panorama_{lat}_{lon}_{sample.pano_id}.jpg"
+            if not os.path.exists(image_name):
+                image_data = sample.get_panorama(self.image_size, self.api_key)
+                
+                if len(image_data) != 4:
+                    print(f'Request failed while trying to get panorama id {sample.pano_id}')
+                    self.samples.pop(self.download_descriptor)
+                    continue
+                
+                images = []
+                for data in image_data:
+                    image = Image.open(io.BytesIO(data))
+                    images.append(image)
+                
+                pano_w = self.image_width * 4
+                pano_h = self.image_height
+                pano = Image.new('RGB', (pano_w, pano_h))
+                for i, image in enumerate(images):
+                    pano.paste(image, (i * self.image_width, 0))
+                
+                pano.save(image_name)
             self.download_descriptor += 1
         
     def save_sampler_status_metadata(self, metadata_dir:str, metadata_file_name:str=constants.DEFAULT_METADATA_FILE_NAME) -> None:
@@ -155,7 +157,7 @@ class StreetViewSampler:
             json.dump(self.to_json(), file, indent=4)
             
     @classmethod
-    def from_json_file(cls, metadata_dir:str, sample_size:int, api_key:str, metadata_file_name:str=constants.DEFAULT_METADATA_FILE_NAME) -> 'StreetViewSampler':
+    def from_json(cls, metadata_dir:str, sample_size:int, api_key:str, metadata_file_name:str=constants.DEFAULT_METADATA_FILE_NAME) -> 'StreetViewSampler':
         """Loads sampler status metadata from json file
 
         Args:
@@ -195,3 +197,15 @@ class StreetViewSampler:
             "image_height": self.image_height,
             "samples": [sample.to_json() for sample in self.samples]
         }
+        
+    def rename(self) -> None:
+        dir = DirUtil.get_image_dir()
+        for sample in self.samples:
+            lat, lon = sample.coordinates
+            id = sample.pano_id
+            files = os.listdir(DirUtil.get_image_dir())
+            for file in files:
+                if file == f'panorama_{lat}_{lon}.jpg':
+                    new_name = f'{dir}/panorama_{lat}_{lon}_{id}.jpg'
+                    os.rename(f'{dir}/{file}', new_name)
+                    

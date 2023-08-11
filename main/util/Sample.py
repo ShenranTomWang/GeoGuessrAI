@@ -83,3 +83,9 @@ class Sample:
             Sample
         """
         return cls(json_data['pano_id'], json_data['coordinates'], json_data['prompt'])
+    
+    def __eq__(self, __value: object) -> bool:
+        return self.coordinates == __value.coordinates
+    
+    def __hash__(self) -> int:
+        return hash((self.coordinates[0], self.coordinates[1]))

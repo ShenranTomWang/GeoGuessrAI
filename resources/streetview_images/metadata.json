@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 472,
+    "download_descriptor": 573,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 112,
+    "prompt_descriptor": 132,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -3781,6 +3781,814 @@
                 -76.8408493
             ],
             "prompt": "lanes+in+Maryland"
+        },
+        {
+            "pano_id": "jm_o9PWekB80Y9xL3ORV1w",
+            "coordinates": [
+                39.24090690000001,
+                -76.750095
+            ],
+            "prompt": "trails+in+Maryland"
+        },
+        {
+            "pano_id": "0rU0Cloch9CSxKx2VFiG5Q",
+            "coordinates": [
+                39.2946975,
+                -76.7853635
+            ],
+            "prompt": "trails+in+Maryland"
+        },
+        {
+            "pano_id": "PjksIfCDjDmGn4izZ315Sw",
+            "coordinates": [
+                39.13416489999999,
+                -76.82505440000001
+            ],
+            "prompt": "trails+in+Maryland"
+        },
+        {
+            "pano_id": "-8Au6fzFholRqzqLKrwEFw",
+            "coordinates": [
+                38.9580808,
+                -76.8246632
+            ],
+            "prompt": "trails+in+Maryland"
+        },
+        {
+            "pano_id": "DCgHXaD7I9siTkqFwx-fEg",
+            "coordinates": [
+                38.9933141,
+                -77.245502
+            ],
+            "prompt": "trails+in+Maryland"
+        },
+        {
+            "pano_id": "z-lvqx4rH23RpsmshyO3QA",
+            "coordinates": [
+                39.1603623,
+                -76.67965760000001
+            ],
+            "prompt": "roads+in+Maryland"
+        },
+        {
+            "pano_id": "Af0uypuFHzE5DnNs-4EphQ",
+            "coordinates": [
+                39.2982152,
+                -76.61258409999999
+            ],
+            "prompt": "roads+in+Maryland"
+        },
+        {
+            "pano_id": "WgEYdYxZD_s7WtPBgXCWDA",
+            "coordinates": [
+                38.77072,
+                -76.0885299
+            ],
+            "prompt": "roads+in+Maryland"
+        },
+        {
+            "pano_id": "sfiHlHiQN2NU60ak8ShuIg",
+            "coordinates": [
+                39.4327621,
+                -77.43934620000002
+            ],
+            "prompt": "roads+in+Maryland"
+        },
+        {
+            "pano_id": "MPtPEQ4-G4exbGaPdoTzKQ",
+            "coordinates": [
+                42.5426651,
+                -71.5151415
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "1zYqFp8zfByppIuGbX5csA",
+            "coordinates": [
+                42.2636825,
+                -71.4750626
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "j5UImiWjndQtVF-N8qSRig",
+            "coordinates": [
+                42.44493629999999,
+                -71.4928444
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "JwsI2KSni-rkHgijH_GCxg",
+            "coordinates": [
+                42.4628885,
+                -71.3538942
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "H-EcwQVGRgspxI-6B4jGkg",
+            "coordinates": [
+                42.2626412,
+                -71.4070079
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "r3KTMfM_uZLyjpd_jD3SNw",
+            "coordinates": [
+                42.140083,
+                -71.51328409999999
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "7jhVxY2YNb_h7i6ICnsCzA",
+            "coordinates": [
+                42.2452961,
+                -71.28269639999999
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "yvqKWDgqGUknW2A2eYbEQQ",
+            "coordinates": [
+                42.529666,
+                -71.34906149999999
+            ],
+            "prompt": "highways+in+Massachusetts"
+        },
+        {
+            "pano_id": "e5gaHoySurXAlUcIKkZ5eA",
+            "coordinates": [
+                42.4430146,
+                -71.02935839999999
+            ],
+            "prompt": "lanes+in+Massachusetts"
+        },
+        {
+            "pano_id": "lqpbHInTTU2gSacGbS5dmg",
+            "coordinates": [
+                41.6164993,
+                -70.48960090000001
+            ],
+            "prompt": "lanes+in+Massachusetts"
+        },
+        {
+            "pano_id": "cBI7lcwgCJOvtCNg32yMsw",
+            "coordinates": [
+                42.759215,
+                -71.098547
+            ],
+            "prompt": "lanes+in+Massachusetts"
+        },
+        {
+            "pano_id": "NGPoX15no0xY3jsjufZvbw",
+            "coordinates": [
+                42.6224985,
+                -70.6717415
+            ],
+            "prompt": "lanes+in+Massachusetts"
+        },
+        {
+            "pano_id": "VoNu2BHukRP6H5q9aLR6DQ",
+            "coordinates": [
+                41.9679151,
+                -71.3351469
+            ],
+            "prompt": "lanes+in+Massachusetts"
+        },
+        {
+            "pano_id": "Pycj10rBjEY5GLOHQnekCA",
+            "coordinates": [
+                42.3759577,
+                -71.0386802
+            ],
+            "prompt": "lanes+in+Massachusetts"
+        },
+        {
+            "pano_id": "c84opMZYKcMVWpyEHb1CgA",
+            "coordinates": [
+                42.3421841,
+                -72.1518382
+            ],
+            "prompt": "trails+in+Massachusetts"
+        },
+        {
+            "pano_id": "wIZm4RcoOU747T2f-uWW5w",
+            "coordinates": [
+                42.48878759999999,
+                -73.203575
+            ],
+            "prompt": "trails+in+Massachusetts"
+        },
+        {
+            "pano_id": "3XvQOvXr9Vyr57SW6mowKw",
+            "coordinates": [
+                42.2253784,
+                -71.5289717
+            ],
+            "prompt": "trails+in+Massachusetts"
+        },
+        {
+            "pano_id": "6-Gehf-hwgyYYTX9vB4EqQ",
+            "coordinates": [
+                42.6098197,
+                -72.5557733
+            ],
+            "prompt": "trails+in+Massachusetts"
+        },
+        {
+            "pano_id": "ZbSK5dgo7K9JLOjeUTx8nQ",
+            "coordinates": [
+                42.3950049,
+                -71.94134950000002
+            ],
+            "prompt": "trails+in+Massachusetts"
+        },
+        {
+            "pano_id": "oj0YARGAAjKeSmIgEcVNPw",
+            "coordinates": [
+                42.56900419999999,
+                -71.8137229
+            ],
+            "prompt": "roads+in+Massachusetts"
+        },
+        {
+            "pano_id": "UNUQsAJg5hhCncruQdgaMQ",
+            "coordinates": [
+                42.4622768,
+                -70.94728479999999
+            ],
+            "prompt": "roads+in+Massachusetts"
+        },
+        {
+            "pano_id": "MreOJSRZxutuMmjzvoKJng",
+            "coordinates": [
+                42.5520091,
+                -71.4761123
+            ],
+            "prompt": "roads+in+Massachusetts"
+        },
+        {
+            "pano_id": "TwkWflODgFdTEag8wbyt6w",
+            "coordinates": [
+                44.78149639999999,
+                -69.7240273
+            ],
+            "prompt": "highways+in+Maine"
+        },
+        {
+            "pano_id": "RNrFWsRa9FlTOJKMBv6lnA",
+            "coordinates": [
+                44.3100286,
+                -69.779984
+            ],
+            "prompt": "highways+in+Maine"
+        },
+        {
+            "pano_id": "Z09zMnDaEtvvJcM-WNJG0w",
+            "coordinates": [
+                44.3109043,
+                -69.7834426
+            ],
+            "prompt": "highways+in+Maine"
+        },
+        {
+            "pano_id": "Li9BKCkFvVmFcew7Agdk5A",
+            "coordinates": [
+                43.4107311,
+                -70.5604321
+            ],
+            "prompt": "highways+in+Maine"
+        },
+        {
+            "pano_id": "_rOO2NMBjHn7rKiEQejCNw",
+            "coordinates": [
+                44.615999,
+                -70.1775249
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "r22HB0ojYiite_MBk3DtFw",
+            "coordinates": [
+                46.6821361,
+                -68.0151683
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "TMyAmipSxpGofsDZr_AF5Q",
+            "coordinates": [
+                44.4112854,
+                -70.7908097
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "kK4ma1Pm8b1PF5n6c96jdw",
+            "coordinates": [
+                43.6783999,
+                -70.3357673
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "LTjQK2UJoV3JcaDoyTW5yA",
+            "coordinates": [
+                44.1528373,
+                -69.0861122
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "iNVn5DhlaztWxgMFuGWbCg",
+            "coordinates": [
+                44.781062,
+                -68.7428539
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "CFsa07CLTyfjF_znfesIAQ",
+            "coordinates": [
+                44.3274167,
+                -69.7409417
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "oFKtGtINzZUCAbVs0bqjBw",
+            "coordinates": [
+                44.839072,
+                -69.286705
+            ],
+            "prompt": "lanes+in+Maine"
+        },
+        {
+            "pano_id": "KAbOzoG1jM9W7GN9YqGY-A",
+            "coordinates": [
+                43.5848386,
+                -70.3333871
+            ],
+            "prompt": "trails+in+Maine"
+        },
+        {
+            "pano_id": "Nn0lsEjkCovl7Zqc0mdJcg",
+            "coordinates": [
+                44.6986539,
+                -67.1580515
+            ],
+            "prompt": "trails+in+Maine"
+        },
+        {
+            "pano_id": "l9l47EJffZfrmMiWyxRpsQ",
+            "coordinates": [
+                44.7168565,
+                -67.1366908
+            ],
+            "prompt": "trails+in+Maine"
+        },
+        {
+            "pano_id": "zt0Vej70z0B5gUdYtv93YA",
+            "coordinates": [
+                44.5469375,
+                -69.7117013
+            ],
+            "prompt": "trails+in+Maine"
+        },
+        {
+            "pano_id": "lAG8Poma3Ou4QMwzuWIg3g",
+            "coordinates": [
+                44.360662,
+                -69.86628999999999
+            ],
+            "prompt": "trails+in+Maine"
+        },
+        {
+            "pano_id": "Z09zMnDaEtvvJcM-WNJG0w",
+            "coordinates": [
+                44.3109043,
+                -69.7834426
+            ],
+            "prompt": "roads+in+Maine"
+        },
+        {
+            "pano_id": "fDMykI3S4v2CUaQnxZfbtw",
+            "coordinates": [
+                44.9488001,
+                -93.08900949999999
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "q4vhbcKv7hPgU0zOAV6_Eg",
+            "coordinates": [
+                46.5425306,
+                -93.6766407
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "z8L3py1G6X-czADmYdH_gg",
+            "coordinates": [
+                46.2790817,
+                -96.0754137
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "nBRqYM6qW-zF_W8asn-iIg",
+            "coordinates": [
+                45.597432,
+                -95.9249892
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "AtUQNuQcs2YJ1tCOJd2jcQ",
+            "coordinates": [
+                46.8194453,
+                -95.8429269
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "NmV0Z7Vkc5q7snQ-anMcQA",
+            "coordinates": [
+                47.500536,
+                -92.5104143
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "UGmuaP1qI2XH6KZ-11kZhA",
+            "coordinates": [
+                47.4935436,
+                -94.9287264
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "RwFBrp4LlGpm9lnnqb-Vuw",
+            "coordinates": [
+                47.095098,
+                -94.59397419999999
+            ],
+            "prompt": "highways+in+Minnesota"
+        },
+        {
+            "pano_id": "fLunrtdvqlrIxFxPUeSo7g",
+            "coordinates": [
+                44.7099243,
+                -96.2779668
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "7ZoN7LuJzwFuOPG2wztGJg",
+            "coordinates": [
+                44.911851,
+                -93.2227025
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "56U3V9M9VeaIvH3G-TONPA",
+            "coordinates": [
+                44.9562951,
+                -93.23499969999999
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "gUdPlXgJSQG3msVWccSwPg",
+            "coordinates": [
+                45.574768,
+                -93.56967159999999
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "Qvm1IgRmFXUXYZi_7ZhZvA",
+            "coordinates": [
+                44.6432458,
+                -93.1415957
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "VL_tRD38WFNoCd0VhKuqMA",
+            "coordinates": [
+                43.6547788,
+                -96.2080944
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "_BUCoF-d7k0mlF1o6wi4Ww",
+            "coordinates": [
+                44.4411333,
+                -93.1815376
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "yzubadoqlEmi_NGvJn9kBg",
+            "coordinates": [
+                45.026447,
+                -93.102352
+            ],
+            "prompt": "lanes+in+Minnesota"
+        },
+        {
+            "pano_id": "QyzPfSSAvkIYEbrYYF06FQ",
+            "coordinates": [
+                44.81368000000001,
+                -93.5514975
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "FwBEZXLU6z2jG4-51EnRrg",
+            "coordinates": [
+                44.9238225,
+                -93.204354
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "szyTDAnsrGIE7pzTa21HtQ",
+            "coordinates": [
+                47.139633,
+                -91.4731362
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "N8OSo2qupuXeeOjT0jOMwg",
+            "coordinates": [
+                47.3393554,
+                -91.1959925
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "mxaJqhLw1FtKHVM4tw_29A",
+            "coordinates": [
+                45.15390360000001,
+                -93.3255217
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "PRP3S9jpr9HH-rmk1E-zQw",
+            "coordinates": [
+                44.6504609,
+                -93.7160358
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "gqLSvtV6GCLTc18mDVWnuQ",
+            "coordinates": [
+                44.7995059,
+                -93.52610539999999
+            ],
+            "prompt": "trails+in+Minnesota"
+        },
+        {
+            "pano_id": "NcExh7i9zAT9SUa_1--88w",
+            "coordinates": [
+                44.9532792,
+                -93.1047847
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "z8L3py1G6X-czADmYdH_gg",
+            "coordinates": [
+                46.2790817,
+                -96.0754137
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "qiLZIQeTiX38C2wBAFZCUA",
+            "coordinates": [
+                45.01198189999999,
+                -93.16436759999999
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "pnax8dXL50faoZHj91coXg",
+            "coordinates": [
+                45.298417,
+                -93.32576309999999
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "lHD3c0SE0YfK7X9jRheuug",
+            "coordinates": [
+                43.7236366,
+                -93.4491348
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "J_kzXnH4OzFjBIrjRvnx4w",
+            "coordinates": [
+                46.6544099,
+                -92.4808376
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "Pb4msnoPAceK6qMiT5yJHA",
+            "coordinates": [
+                46.2112826,
+                -92.8373675
+            ],
+            "prompt": "roads+in+Minnesota"
+        },
+        {
+            "pano_id": "xYijIemwOYT4ew6coZaZag",
+            "coordinates": [
+                38.57812759999999,
+                -92.17185470000001
+            ],
+            "prompt": "highways+in+Missouri"
+        },
+        {
+            "pano_id": "Aa07g5Bv9WblKmQkQbJicw",
+            "coordinates": [
+                38.569494,
+                -92.2414702
+            ],
+            "prompt": "highways+in+Missouri"
+        },
+        {
+            "pano_id": "p2XRdRgIyzsJNV4zXj7xzQ",
+            "coordinates": [
+                39.3342766,
+                -91.1941318
+            ],
+            "prompt": "highways+in+Missouri"
+        },
+        {
+            "pano_id": "lTJ5J3dm0ClKF7M7na5P-g",
+            "coordinates": [
+                37.9457703,
+                -91.80494069999999
+            ],
+            "prompt": "highways+in+Missouri"
+        },
+        {
+            "pano_id": "xz4EN17VQZH6bx0RMiyblQ",
+            "coordinates": [
+                37.9462378,
+                -91.787036
+            ],
+            "prompt": "highways+in+Missouri"
+        },
+        {
+            "pano_id": "wSAY3YARrcjBrTo7Vp3R_w",
+            "coordinates": [
+                38.6289756,
+                -92.5786033
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "dP1m1nvenuMgFtVeFyyKAg",
+            "coordinates": [
+                38.7813919,
+                -90.5074362
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "ckIRbLdk_p354eLb_1UjKA",
+            "coordinates": [
+                38.57109380000001,
+                -90.3366762
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "-jYwyrNEQDWuvmUUDAaeWg",
+            "coordinates": [
+                38.6358959,
+                -90.3419806
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "fy9NCAsXE3bhqOqAmCBB2w",
+            "coordinates": [
+                38.2122453,
+                -91.17011550000001
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "UgExT1WZ-fDNFRwvaTN9Rw",
+            "coordinates": [
+                38.19977799999999,
+                -92.8326825
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "YSivNri3pkK7w7ONGLA04w",
+            "coordinates": [
+                37.6865983,
+                -92.64029049999999
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "q5uSHirE8Qzp2v4dwRR3Uw",
+            "coordinates": [
+                38.5942855,
+                -90.57974569999999
+            ],
+            "prompt": "lanes+in+Missouri"
+        },
+        {
+            "pano_id": "damZgQzO3WhIcGIbW1VF4w",
+            "coordinates": [
+                38.5498496,
+                -90.5395253
+            ],
+            "prompt": "trails+in+Missouri"
+        },
+        {
+            "pano_id": "neQXVomXbFyabZxmH6vIpA",
+            "coordinates": [
+                38.6917906,
+                -90.7245049
+            ],
+            "prompt": "trails+in+Missouri"
+        },
+        {
+            "pano_id": "45lVOIC4cbMLqNf08Oqglw",
+            "coordinates": [
+                38.5526294,
+                -90.5434537
+            ],
+            "prompt": "trails+in+Missouri"
+        },
+        {
+            "pano_id": "hfzaglGhDkjWbH2_6Qy59w",
+            "coordinates": [
+                39.6949195,
+                -91.40108479999999
+            ],
+            "prompt": "roads+in+Missouri"
+        },
+        {
+            "pano_id": "4Jq08eP1QXIJaH-jPDh6YA",
+            "coordinates": [
+                38.715838,
+                -90.29802989999999
+            ],
+            "prompt": "roads+in+Missouri"
+        },
+        {
+            "pano_id": "6HYADWqQ7zJN0mCQ8jIp0Q",
+            "coordinates": [
+                32.3008498,
+                -90.18900119999999
+            ],
+            "prompt": "highways+in+Mississippi"
+        },
+        {
+            "pano_id": "GejCwu89VXN6Gvi6ks7FyQ",
+            "coordinates": [
+                31.5752522,
+                -91.2949933
+            ],
+            "prompt": "highways+in+Mississippi"
+        },
+        {
+            "pano_id": "WSu7whIFRDo_HJa4kUf5rQ",
+            "coordinates": [
+                30.4587784,
+                -88.8888614
+            ],
+            "prompt": "lanes+in+Mississippi"
+        },
+        {
+            "pano_id": "zsI218CsWnAjsE0TUsAdDQ",
+            "coordinates": [
+                31.7540651,
+                -89.1528972
+            ],
+            "prompt": "lanes+in+Mississippi"
         }
     ]
 }
