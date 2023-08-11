@@ -53,7 +53,8 @@ class Sample:
                 content = self.get_street_view_image(image_size, api_key, heading=heading)
             except Exception as e:
                 print(f'Error {e} occurred while getting panorama id {self.pano_id} at heading {heading}')
-            image_data.append(content)
+            if content != None:
+                image_data.append(content)
         return image_data
         
     def to_json(obj:'Sample') -> dict:

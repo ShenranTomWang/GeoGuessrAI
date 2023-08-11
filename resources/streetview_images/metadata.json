@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 175,
+    "download_descriptor": 373,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 20,
+    "prompt_descriptor": 102,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -1397,6 +1397,1598 @@
                 -97.18367649999999
             ],
             "prompt": "roads+in+Manitoba"
+        },
+        {
+            "pano_id": "BxVUZgMFhtpsgyZo3DFP1A",
+            "coordinates": [
+                49.8917734,
+                -97.1923063
+            ],
+            "prompt": "alleys+in+Manitoba"
+        },
+        {
+            "pano_id": "LdT31_ZqQeN-5o9pi89Ulg",
+            "coordinates": [
+                49.89966310000001,
+                -97.07461760000001
+            ],
+            "prompt": "alleys+in+Manitoba"
+        },
+        {
+            "pano_id": "LtQU1pQVmzbnW44X5yWkpw",
+            "coordinates": [
+                49.8614347,
+                -97.13121
+            ],
+            "prompt": "alleys+in+Manitoba"
+        },
+        {
+            "pano_id": "c9bv8UTwWkp_KOHtK0nnIg",
+            "coordinates": [
+                49.8808225,
+                -97.2927199
+            ],
+            "prompt": "alleys+in+Manitoba"
+        },
+        {
+            "pano_id": "WfA_aHkS5X0gjlOh_13TtQ",
+            "coordinates": [
+                49.9005247,
+                -97.1345176
+            ],
+            "prompt": "alleys+in+Manitoba"
+        },
+        {
+            "pano_id": "uMWJ6GGoHTc-6GlMogPY_g",
+            "coordinates": [
+                44.7417247,
+                -63.2781842
+            ],
+            "prompt": "highways+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "1UpgSGiK3f8accBQ07tkhA",
+            "coordinates": [
+                44.64707749999999,
+                -63.5734438
+            ],
+            "prompt": "highways+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "FClq9Cqme9f76mcYMzsIpw",
+            "coordinates": [
+                45.3622349,
+                -63.2779699
+            ],
+            "prompt": "highways+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "vpxbQ80b3vTK2qCrbvnUSA",
+            "coordinates": [
+                45.3775916,
+                -63.2558547
+            ],
+            "prompt": "highways+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "uMWJ6GGoHTc-6GlMogPY_g",
+            "coordinates": [
+                44.7417247,
+                -63.2781842
+            ],
+            "prompt": "roads+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "64vD_zrqAHgcRguy8F9BXw",
+            "coordinates": [
+                45.558165,
+                -62.632631
+            ],
+            "prompt": "roads+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "NxC1SQDrzAs0H2DQwgTVtQ",
+            "coordinates": [
+                44.6545432,
+                -63.6273146
+            ],
+            "prompt": "roads+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "qc5uIAwlqlkldmzU3JWHRw",
+            "coordinates": [
+                44.9943189,
+                -64.1241455
+            ],
+            "prompt": "alleys+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "2HUbR_RDnpRRsIBKPBmudA",
+            "coordinates": [
+                44.3057082,
+                -65.9212656
+            ],
+            "prompt": "alleys+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "w8M8E1VsML6UKm9wbmeG9w",
+            "coordinates": [
+                44.7603473,
+                -63.673057
+            ],
+            "prompt": "alleys+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "sOR5XdO2mPV8TdwYXHtAjA",
+            "coordinates": [
+                45.3793104,
+                -63.2517258
+            ],
+            "prompt": "alleys+in+Nova+Scotia"
+        },
+        {
+            "pano_id": "qCTdHqnLrVaGug6VKXXDJw",
+            "coordinates": [
+                45.9256602,
+                -66.72243519999999
+            ],
+            "prompt": "highways+in+New+Brunswick"
+        },
+        {
+            "pano_id": "wNZS5tQhvd2hJ8NAYnkPqQ",
+            "coordinates": [
+                47.622437,
+                -64.871968
+            ],
+            "prompt": "highways+in+New+Brunswick"
+        },
+        {
+            "pano_id": "wNZS5tQhvd2hJ8NAYnkPqQ",
+            "coordinates": [
+                47.622437,
+                -64.871968
+            ],
+            "prompt": "roads+in+New+Brunswick"
+        },
+        {
+            "pano_id": "HOsiSMwwLZ13RoAfYX2X9g",
+            "coordinates": [
+                46.027389,
+                -66.699028
+            ],
+            "prompt": "roads+in+New+Brunswick"
+        },
+        {
+            "pano_id": "6rkIpGdM7zL2Xxud2-Xiyg",
+            "coordinates": [
+                45.9467745,
+                -66.689019
+            ],
+            "prompt": "roads+in+New+Brunswick"
+        },
+        {
+            "pano_id": "WI_58SAMxtt5XqNVWwSQbw",
+            "coordinates": [
+                45.26208500000001,
+                -65.9708799
+            ],
+            "prompt": "roads+in+New+Brunswick"
+        },
+        {
+            "pano_id": "VR6d232CZXpn0YAS56cRfw",
+            "coordinates": [
+                45.9754411,
+                -66.6457417
+            ],
+            "prompt": "alleys+in+New+Brunswick"
+        },
+        {
+            "pano_id": "TGcUl2PghvWLeNO7gG4l1A",
+            "coordinates": [
+                46.10091449999999,
+                -64.81413049999999
+            ],
+            "prompt": "alleys+in+New+Brunswick"
+        },
+        {
+            "pano_id": "gauxZM4fz28NRYPU3MHQ6A",
+            "coordinates": [
+                46.3363449,
+                -64.62716089999999
+            ],
+            "prompt": "alleys+in+New+Brunswick"
+        },
+        {
+            "pano_id": "cEML6m9F8_2Dg8_Yr09Wdw",
+            "coordinates": [
+                46.0619745,
+                -64.8178104
+            ],
+            "prompt": "alleys+in+New+Brunswick"
+        },
+        {
+            "pano_id": "SLW1c4a6BK4csd3CHx-UPA",
+            "coordinates": [
+                45.2781095,
+                -66.0786944
+            ],
+            "prompt": "alleys+in+New+Brunswick"
+        },
+        {
+            "pano_id": "lmezdyGVSyQuRAlRtzXLLw",
+            "coordinates": [
+                46.28947480000001,
+                -63.1389825
+            ],
+            "prompt": "highways+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "3wTcgY-8S1V1jiAWuyFfNQ",
+            "coordinates": [
+                46.23282890000001,
+                -63.1333776
+            ],
+            "prompt": "highways+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "lmezdyGVSyQuRAlRtzXLLw",
+            "coordinates": [
+                46.28947480000001,
+                -63.1389825
+            ],
+            "prompt": "roads+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "dN1HLZwxXhYMgQoMDgej_Q",
+            "coordinates": [
+                46.376401,
+                -63.351782
+            ],
+            "prompt": "roads+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "Lzo7fCasbBxjYRURcRevqg",
+            "coordinates": [
+                46.331038,
+                -63.134612
+            ],
+            "prompt": "roads+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "au_wQsI6KkNEg86oxdy0ng",
+            "coordinates": [
+                46.428267,
+                -63.5311409
+            ],
+            "prompt": "roads+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "KaPDUNo0_n0PoWhKDJA4AQ",
+            "coordinates": [
+                46.235042,
+                -63.12476299999999
+            ],
+            "prompt": "alleys+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "6rhRCTzg1jI9Gdh4Ydd6gQ",
+            "coordinates": [
+                46.457392,
+                -63.31527579999999
+            ],
+            "prompt": "alleys+in+Prince+Edward+Island"
+        },
+        {
+            "pano_id": "XbZWLT5kJkFzbZFen9Ld2g",
+            "coordinates": [
+                38.5824933,
+                -121.4941738
+            ],
+            "prompt": "highways+in+California"
+        },
+        {
+            "pano_id": "TSVSYRf3YpjUjmPSh42Ffg",
+            "coordinates": [
+                38.5777916,
+                -121.4998612
+            ],
+            "prompt": "highways+in+California"
+        },
+        {
+            "pano_id": "qw4tQ7CcHD95eAebwVGC7g",
+            "coordinates": [
+                36.3261126,
+                -119.3462659
+            ],
+            "prompt": "highways+in+California"
+        },
+        {
+            "pano_id": "tcI_I9eROcCD_iijl4fYYg",
+            "coordinates": [
+                36.9710955,
+                -121.8713775
+            ],
+            "prompt": "highways+in+California"
+        },
+        {
+            "pano_id": "rbtkobxAYWNbGW5-zMwNMA",
+            "coordinates": [
+                37.3371618,
+                -119.6679831
+            ],
+            "prompt": "highways+in+California"
+        },
+        {
+            "pano_id": "TY4QROu2QvpKPEavlXPcQw",
+            "coordinates": [
+                33.632022,
+                -117.717561
+            ],
+            "prompt": "lanes+in+California"
+        },
+        {
+            "pano_id": "GqrFDgiIii4AwPSJe8y7lg",
+            "coordinates": [
+                33.5173606,
+                -117.1633377
+            ],
+            "prompt": "lanes+in+California"
+        },
+        {
+            "pano_id": "Olre4Q2uQPktyjnGCj0BMQ",
+            "coordinates": [
+                36.5968703,
+                -121.8599435
+            ],
+            "prompt": "lanes+in+California"
+        },
+        {
+            "pano_id": "3HpIn26zKcysmFe0rxWzXA",
+            "coordinates": [
+                37.9894596,
+                -121.2845312
+            ],
+            "prompt": "lanes+in+California"
+        },
+        {
+            "pano_id": "EBwiSjwWtA6or-oU-E1YVw",
+            "coordinates": [
+                34.2554074,
+                -117.3056338
+            ],
+            "prompt": "trails+in+California"
+        },
+        {
+            "pano_id": "rdmLo505Z8lOTz57dbrz0w",
+            "coordinates": [
+                33.3439128,
+                -117.5150948
+            ],
+            "prompt": "trails+in+California"
+        },
+        {
+            "pano_id": "Wq-E5fAmlMcBv5WryCTE9w",
+            "coordinates": [
+                37.4304353,
+                -122.4373132
+            ],
+            "prompt": "trails+in+California"
+        },
+        {
+            "pano_id": "54YAP85mHrua2JY3zi-Btg",
+            "coordinates": [
+                33.6612573,
+                -117.7531978
+            ],
+            "prompt": "roads+in+California"
+        },
+        {
+            "pano_id": "xgghQ8jhGdT3nCg2S3yXRQ",
+            "coordinates": [
+                29.8902292,
+                -97.9135625
+            ],
+            "prompt": "highways+in+Texas"
+        },
+        {
+            "pano_id": "ye0KeMBuw1k450gvpIN42g",
+            "coordinates": [
+                31.7118932,
+                -98.9796461
+            ],
+            "prompt": "lanes+in+Texas"
+        },
+        {
+            "pano_id": "CeKioCmeg89pA4EYIsCPwQ",
+            "coordinates": [
+                29.501668,
+                -98.561035
+            ],
+            "prompt": "lanes+in+Texas"
+        },
+        {
+            "pano_id": "cyyLil5WuQzXq-_qlpAIyA",
+            "coordinates": [
+                32.3191426,
+                -96.6532874
+            ],
+            "prompt": "lanes+in+Texas"
+        },
+        {
+            "pano_id": "ur5Rg_4Qozyv0QdMktuSKA",
+            "coordinates": [
+                33.2324753,
+                -97.1166839
+            ],
+            "prompt": "lanes+in+Texas"
+        },
+        {
+            "pano_id": "kkw3OHc612df_5sSnBmwQA",
+            "coordinates": [
+                33.1622981,
+                -96.35875050000001
+            ],
+            "prompt": "trails+in+Texas"
+        },
+        {
+            "pano_id": "xAIQPXZOLIevLq8JAHnrrQ",
+            "coordinates": [
+                30.3569113,
+                -97.8641322
+            ],
+            "prompt": "trails+in+Texas"
+        },
+        {
+            "pano_id": "2vqWRHjy7XaAm_ivA25AVw",
+            "coordinates": [
+                30.5776961,
+                -95.2577061
+            ],
+            "prompt": "trails+in+Texas"
+        },
+        {
+            "pano_id": "iysfgtPpFU2hB_MACQl_fA",
+            "coordinates": [
+                33.2318281,
+                -97.0022908
+            ],
+            "prompt": "roads+in+Texas"
+        },
+        {
+            "pano_id": "T6_vn1R2S74KeLRcahwn8w",
+            "coordinates": [
+                39.2025233,
+                -84.7236229
+            ],
+            "prompt": "highways+in+Ohio"
+        },
+        {
+            "pano_id": "KG8hCt9rUln0QjvwOqbBRg",
+            "coordinates": [
+                40.1225303,
+                -83.53308249999999
+            ],
+            "prompt": "highways+in+Ohio"
+        },
+        {
+            "pano_id": "OyOU35jjKWebvVBBzNUlwQ",
+            "coordinates": [
+                40.0121396,
+                -81.6201815
+            ],
+            "prompt": "highways+in+Ohio"
+        },
+        {
+            "pano_id": "LkA9GQJAoswAiYf0uIyIPg",
+            "coordinates": [
+                41.3180961,
+                -80.7327346
+            ],
+            "prompt": "lanes+in+Ohio"
+        },
+        {
+            "pano_id": "Aum6YbHaD6vjrSJJyGdMeg",
+            "coordinates": [
+                40.8027828,
+                -83.8230148
+            ],
+            "prompt": "lanes+in+Ohio"
+        },
+        {
+            "pano_id": "Dk7rgnXEeBD8I8HW-FuL9A",
+            "coordinates": [
+                40.2460862,
+                -82.8455652
+            ],
+            "prompt": "trails+in+Ohio"
+        },
+        {
+            "pano_id": "TElsNVrrNg3u4v4zjmwx6Q",
+            "coordinates": [
+                41.189589,
+                -81.7991618
+            ],
+            "prompt": "roads+in+Ohio"
+        },
+        {
+            "pano_id": "trKXyxvIkZ0AyG2Pyll1LA",
+            "coordinates": [
+                40.6335799,
+                -83.1415968
+            ],
+            "prompt": "roads+in+Ohio"
+        },
+        {
+            "pano_id": "18xuHV-Qvp-fAYjs3IreEA",
+            "coordinates": [
+                39.9591801,
+                -83.05459619999999
+            ],
+            "prompt": "roads+in+Ohio"
+        },
+        {
+            "pano_id": "cyirnznCfKoiBMPyUa4h9g",
+            "coordinates": [
+                55.4080786,
+                -131.721044
+            ],
+            "prompt": "highways+in+Alaska"
+        },
+        {
+            "pano_id": "pMaaAycVJvZSe1boIJMxkA",
+            "coordinates": [
+                58.30146070000001,
+                -134.4203643
+            ],
+            "prompt": "highways+in+Alaska"
+        },
+        {
+            "pano_id": "7a7CUDvLG6oX4AAEa5miyw",
+            "coordinates": [
+                61.58377949999999,
+                -149.3682254
+            ],
+            "prompt": "lanes+in+Alaska"
+        },
+        {
+            "pano_id": "6wN9wEkThZnpn0bzIhp0Aw",
+            "coordinates": [
+                58.30099999999999,
+                -134.418
+            ],
+            "prompt": "lanes+in+Alaska"
+        },
+        {
+            "pano_id": "wuWScZZOV0QEMbTp21gRYQ",
+            "coordinates": [
+                61.2185003,
+                -149.9063873
+            ],
+            "prompt": "trails+in+Alaska"
+        },
+        {
+            "pano_id": "Vclt_TiPN0mlPcCUtO2Gpw",
+            "coordinates": [
+                60.51898749999999,
+                -150.1887321
+            ],
+            "prompt": "trails+in+Alaska"
+        },
+        {
+            "pano_id": "u5MkRwX0nhIXQxnTqIcCRg",
+            "coordinates": [
+                61.44913750000001,
+                -149.3703505
+            ],
+            "prompt": "trails+in+Alaska"
+        },
+        {
+            "pano_id": "kJCtEdPbA07A9YrTfU8i0Q",
+            "coordinates": [
+                64.8255094,
+                -147.7773023
+            ],
+            "prompt": "roads+in+Alaska"
+        },
+        {
+            "pano_id": "pMaaAycVJvZSe1boIJMxkA",
+            "coordinates": [
+                58.30146070000001,
+                -134.4203643
+            ],
+            "prompt": "roads+in+Alaska"
+        },
+        {
+            "pano_id": "F2bMzVbWTkdbJG8jt_ljuA",
+            "coordinates": [
+                37.2697729,
+                -78.41787719999999
+            ],
+            "prompt": "highways+in+Virginia"
+        },
+        {
+            "pano_id": "gDFJOsOt0td6t78-aiLAMQ",
+            "coordinates": [
+                37.8195858,
+                -80.4133623
+            ],
+            "prompt": "highways+in+Virginia"
+        },
+        {
+            "pano_id": "Wgps9a5FGcPPp2DPyJdZ2A",
+            "coordinates": [
+                38.0151956,
+                -77.9688772
+            ],
+            "prompt": "highways+in+Virginia"
+        },
+        {
+            "pano_id": "oyUn_MaD5KeCElmgP6EPqA",
+            "coordinates": [
+                37.3571166,
+                -78.8362045
+            ],
+            "prompt": "highways+in+Virginia"
+        },
+        {
+            "pano_id": "D5aVDSN14qNUrEjYx6-V3A",
+            "coordinates": [
+                37.5380819,
+                -77.4300693
+            ],
+            "prompt": "highways+in+Virginia"
+        },
+        {
+            "pano_id": "7wkNMYcsCyK4xVcLgYha4w",
+            "coordinates": [
+                36.8112538,
+                -76.0653075
+            ],
+            "prompt": "lanes+in+Virginia"
+        },
+        {
+            "pano_id": "HPUA8GmCdPDIa2IRA2nyFw",
+            "coordinates": [
+                38.4106674,
+                -78.9029589
+            ],
+            "prompt": "lanes+in+Virginia"
+        },
+        {
+            "pano_id": "AcoclHHh5V0hLDehUu3Gnw",
+            "coordinates": [
+                36.7013359,
+                -79.90500639999999
+            ],
+            "prompt": "lanes+in+Virginia"
+        },
+        {
+            "pano_id": "sF06jjzSbaV1Td4KilK5Ug",
+            "coordinates": [
+                37.2726644,
+                -78.3997471
+            ],
+            "prompt": "lanes+in+Virginia"
+        },
+        {
+            "pano_id": "ggzi8oreztB5wbSnRIj-NQ",
+            "coordinates": [
+                37.26844,
+                -80.030343
+            ],
+            "prompt": "lanes+in+Virginia"
+        },
+        {
+            "pano_id": "D5aVDSN14qNUrEjYx6-V3A",
+            "coordinates": [
+                37.5380819,
+                -77.4300693
+            ],
+            "prompt": "roads+in+Virginia"
+        },
+        {
+            "pano_id": "D5aVDSN14qNUrEjYx6-V3A",
+            "coordinates": [
+                37.5380819,
+                -77.4300693
+            ],
+            "prompt": "roads+in+Virginia"
+        },
+        {
+            "pano_id": "rAeYORSLkMUCTUhwo6t5qw",
+            "coordinates": [
+                38.8495154,
+                -77.37442970000001
+            ],
+            "prompt": "roads+in+Virginia"
+        },
+        {
+            "pano_id": "wMXzS9zyopeQTszSBZUyWg",
+            "coordinates": [
+                40.65160940000001,
+                -74.128467
+            ],
+            "prompt": "highways+in+New+Jersey"
+        },
+        {
+            "pano_id": "f6itydQeV8kxaod2looiGw",
+            "coordinates": [
+                40.6500524,
+                -74.23112689999999
+            ],
+            "prompt": "lanes+in+New+Jerseys"
+        },
+        {
+            "pano_id": "bpNGqZ8fiHjn17dXcIToRw",
+            "coordinates": [
+                39.9394973,
+                -74.97430229999999
+            ],
+            "prompt": "lanes+in+New+Jerseys"
+        },
+        {
+            "pano_id": "_OCtDF0j1h3WjzW0s2ehGA",
+            "coordinates": [
+                40.223118,
+                -74.035011
+            ],
+            "prompt": "lanes+in+New+Jerseys"
+        },
+        {
+            "pano_id": "3dyFJPaGF0YmdHXnIro9LQ",
+            "coordinates": [
+                40.6269139,
+                -74.2693571
+            ],
+            "prompt": "lanes+in+New+Jerseys"
+        },
+        {
+            "pano_id": "LIUxlKMjoaHjj83euDM6fw",
+            "coordinates": [
+                39.4759521,
+                -75.1596069
+            ],
+            "prompt": "lanes+in+New+Jerseys"
+        },
+        {
+            "pano_id": "J3eXF8zcZkFy85hXd70Z2g",
+            "coordinates": [
+                40.7534061,
+                -74.2896523
+            ],
+            "prompt": "trails+in+New+Jersey"
+        },
+        {
+            "pano_id": "sUME5GSmM8RTQ5zHkofXLQ",
+            "coordinates": [
+                40.7950877,
+                -74.05087780000001
+            ],
+            "prompt": "trails+in+New+Jersey"
+        },
+        {
+            "pano_id": "ybnqvvQ4O9PteajvsutBxg",
+            "coordinates": [
+                40.7511417,
+                -74.7364025
+            ],
+            "prompt": "trails+in+New+Jersey"
+        },
+        {
+            "pano_id": "XU8z4fgPpA4UNy9kzhLsfA",
+            "coordinates": [
+                40.4131897,
+                -74.05035060000002
+            ],
+            "prompt": "trails+in+New+Jersey"
+        },
+        {
+            "pano_id": "aFMOSlq9YACa5orjVKugiA",
+            "coordinates": [
+                40.7511154,
+                -74.73178639999999
+            ],
+            "prompt": "trails+in+New+Jersey"
+        },
+        {
+            "pano_id": "BqN2UkCntkKmbtN2dosFcw",
+            "coordinates": [
+                40.6635314,
+                -74.2153008
+            ],
+            "prompt": "roads+in+New+Jersey"
+        },
+        {
+            "pano_id": "bLtmy-POImzeRwJDAAplNQ",
+            "coordinates": [
+                40.8027483,
+                -75.07885259999999
+            ],
+            "prompt": "roads+in+New+Jersey"
+        },
+        {
+            "pano_id": "IXM3IPzgP1-Nvr-uOKmEbA",
+            "coordinates": [
+                39.3809854,
+                -74.5462124
+            ],
+            "prompt": "roads+in+New+Jersey"
+        },
+        {
+            "pano_id": "JV2EfyYGw_fwkyO9BR-JCg",
+            "coordinates": [
+                27.9973447,
+                -82.4277541
+            ],
+            "prompt": "highways+in+Florida"
+        },
+        {
+            "pano_id": "7BsIIkWE8XYA_vlxwPjR1w",
+            "coordinates": [
+                27.3421917,
+                -80.3273683
+            ],
+            "prompt": "lanes+in+Florida"
+        },
+        {
+            "pano_id": "MgzcirIxI_NXH8qKyUCw2w",
+            "coordinates": [
+                28.5589232,
+                -80.80997909999999
+            ],
+            "prompt": "lanes+in+Florida"
+        },
+        {
+            "pano_id": "6BJhkp3pn6SFIQNeKcSVgw",
+            "coordinates": [
+                27.3368839,
+                -82.5251272
+            ],
+            "prompt": "lanes+in+Florida"
+        },
+        {
+            "pano_id": "O_T4rzGcPxLeYnee00g50Q",
+            "coordinates": [
+                27.675227,
+                -82.3489136
+            ],
+            "prompt": "trails+in+Florida"
+        },
+        {
+            "pano_id": "lcWvnXNF2jABpH6Lpc09hg",
+            "coordinates": [
+                26.1691268,
+                -81.0724528
+            ],
+            "prompt": "trails+in+Florida"
+        },
+        {
+            "pano_id": "s9DWfOF1DNTCObfWbH_3Pw",
+            "coordinates": [
+                28.7621962,
+                -81.73713289999999
+            ],
+            "prompt": "roads+in+Florida"
+        },
+        {
+            "pano_id": "nIgZP96UzY7M04NN49ZTFw",
+            "coordinates": [
+                33.7537359,
+                -84.3937495
+            ],
+            "prompt": "highways+in+Georgia"
+        },
+        {
+            "pano_id": "HjVSIOy0l7k2iYgeydzwgA",
+            "coordinates": [
+                33.7498489,
+                -84.38735419999999
+            ],
+            "prompt": "highways+in+Georgia"
+        },
+        {
+            "pano_id": "E7_6ouFC4L7MMOLwt3xW9A",
+            "coordinates": [
+                34.1107114,
+                -83.5876091
+            ],
+            "prompt": "lanes+in+Georgia"
+        },
+        {
+            "pano_id": "eM9t6xurTK3n5GE9oSDVCQ",
+            "coordinates": [
+                33.3964545,
+                -84.7337007
+            ],
+            "prompt": "lanes+in+Georgia"
+        },
+        {
+            "pano_id": "HyYHr-UrcVFPjXTEu75GUw",
+            "coordinates": [
+                33.74369739999999,
+                -84.70397299999999
+            ],
+            "prompt": "lanes+in+Georgia"
+        },
+        {
+            "pano_id": "kh0bD0kGIKBgvOXdc6nw1w",
+            "coordinates": [
+                34.9119446,
+                -83.61903269999999
+            ],
+            "prompt": "trails+in+Georgia"
+        },
+        {
+            "pano_id": "Q7ZW3cUa4SOFgY9kvbf_Hg",
+            "coordinates": [
+                34.6373716,
+                -83.7250729
+            ],
+            "prompt": "trails+in+Georgia"
+        },
+        {
+            "pano_id": "XHfBWKkHn7V1BpCV3JUmCg",
+            "coordinates": [
+                32.8376486,
+                -84.8159044
+            ],
+            "prompt": "trails+in+Georgia"
+        },
+        {
+            "pano_id": "FU7IpwLKjUCBQOQsmHa_tQ",
+            "coordinates": [
+                34.0101011,
+                -84.755493
+            ],
+            "prompt": "roads+in+Georgia"
+        },
+        {
+            "pano_id": "RHlKeRmJVNFTX8V7NPyPQA",
+            "coordinates": [
+                34.3881593,
+                -83.0201469
+            ],
+            "prompt": "roads+in+Georgia"
+        },
+        {
+            "pano_id": "A8S7cvJzSlOyABfbQAipPw",
+            "coordinates": [
+                45.7151183,
+                -121.618729
+            ],
+            "prompt": "highways+in+Washington"
+        },
+        {
+            "pano_id": "uu-cYQenmuC2RgboMcGEOw",
+            "coordinates": [
+                47.4458456,
+                -120.3282203
+            ],
+            "prompt": "highways+in+Washington"
+        },
+        {
+            "pano_id": "Djh9-tq3xViHICCRQlwuSA",
+            "coordinates": [
+                47.7573107,
+                -122.2375016
+            ],
+            "prompt": "lanes+in+Washington"
+        },
+        {
+            "pano_id": "ElZvRinFl_qKxiEjkothuw",
+            "coordinates": [
+                47.0066086,
+                -123.3906298
+            ],
+            "prompt": "lanes+in+Washington"
+        },
+        {
+            "pano_id": "swaBd2l3Qe1oFdCYEl8_dg",
+            "coordinates": [
+                47.8444645,
+                -120.0237095
+            ],
+            "prompt": "lanes+in+Washington"
+        },
+        {
+            "pano_id": "7tGsSG1-JBtSW1h2g6yIHg",
+            "coordinates": [
+                47.4529662,
+                -121.7054379
+            ],
+            "prompt": "trails+in+Washington"
+        },
+        {
+            "pano_id": "W1Au37zWSUMBx5uxSt-alA",
+            "coordinates": [
+                47.027462,
+                -122.9185391
+            ],
+            "prompt": "roads+in+Washington"
+        },
+        {
+            "pano_id": "i3A1Cs49sj6-i08YxI9QfQ",
+            "coordinates": [
+                48.8332959,
+                -122.5298477
+            ],
+            "prompt": "roads+in+Washington"
+        },
+        {
+            "pano_id": "S1B4rL1J915DGvhpLkRLEg",
+            "coordinates": [
+                46.6616925,
+                -122.9648578
+            ],
+            "prompt": "roads+in+Washington"
+        },
+        {
+            "pano_id": "yjl-gxVlUTrWvVsntran7g",
+            "coordinates": [
+                42.7343943,
+                -84.55829059999999
+            ],
+            "prompt": "highways+in+Michigan"
+        },
+        {
+            "pano_id": "5RzlWPw3CxoWw4Lq9fb9Wg",
+            "coordinates": [
+                42.9561917,
+                -83.6638756
+            ],
+            "prompt": "highways+in+Michigan"
+        },
+        {
+            "pano_id": "_dB9MxmCBSIqHPeijDVCzQ",
+            "coordinates": [
+                42.2184404,
+                -83.4926168
+            ],
+            "prompt": "lanes+in+Michigan"
+        },
+        {
+            "pano_id": "X0il-rS6UXViKYzPWa0-qg",
+            "coordinates": [
+                42.376088,
+                -85.43801049999999
+            ],
+            "prompt": "lanes+in+Michigan"
+        },
+        {
+            "pano_id": "QB58x9Eanud1Dviizoonpw",
+            "coordinates": [
+                43.6728708,
+                -84.3849664
+            ],
+            "prompt": "trails+in+Michigan"
+        },
+        {
+            "pano_id": "wiHEVLozPgOtEkF_uj5JWg",
+            "coordinates": [
+                42.7333161,
+                -84.55178459999999
+            ],
+            "prompt": "roads+in+Michigan"
+        },
+        {
+            "pano_id": "D5TmdEhJiXyVAyRgEtSnXQ",
+            "coordinates": [
+                44.3014205,
+                -84.12597029999999
+            ],
+            "prompt": "roads+in+Michigan"
+        },
+        {
+            "pano_id": "pFFPpra_w48c8kqbVmOiOw",
+            "coordinates": [
+                39.7767938,
+                -89.60484989999999
+            ],
+            "prompt": "highways+in+Illinois"
+        },
+        {
+            "pano_id": "DYjjJBfO0aqwWaOoGSjqtw",
+            "coordinates": [
+                41.9905304,
+                -89.33664979999999
+            ],
+            "prompt": "highways+in+Illinois"
+        },
+        {
+            "pano_id": "iEWw_arNt085GdeIoOZmfQ",
+            "coordinates": [
+                39.772216,
+                -89.6052929
+            ],
+            "prompt": "highways+in+Illinois"
+        },
+        {
+            "pano_id": "oiVpSCerCh6QPzmidGq79g",
+            "coordinates": [
+                41.796041,
+                -88.07761599999999
+            ],
+            "prompt": "lanes+in+Illinois"
+        },
+        {
+            "pano_id": "5VsTcgKuR3WOecTjj3Zx8A",
+            "coordinates": [
+                40.5463536,
+                -90.0255782
+            ],
+            "prompt": "lanes+in+Illinois"
+        },
+        {
+            "pano_id": "mgXs4KYfiSF9q6IwAnI7Kw",
+            "coordinates": [
+                42.4772279,
+                -88.1106425
+            ],
+            "prompt": "lanes+in+Illinois"
+        },
+        {
+            "pano_id": "bto5DTRvs9nw_iYubx7qzA",
+            "coordinates": [
+                41.7229593,
+                -87.9725431
+            ],
+            "prompt": "trails+in+Illinois"
+        },
+        {
+            "pano_id": "pFFPpra_w48c8kqbVmOiOw",
+            "coordinates": [
+                39.7767938,
+                -89.60484989999999
+            ],
+            "prompt": "roads+in+Illinois"
+        },
+        {
+            "pano_id": "lvc7mM5P5md0eB-7Pvcm-A",
+            "coordinates": [
+                39.738236,
+                -105.023738
+            ],
+            "prompt": "highways+in+Colorado"
+        },
+        {
+            "pano_id": "dtLLLvyU3_-7CPxu_g3R7A",
+            "coordinates": [
+                38.8808826,
+                -104.7596935
+            ],
+            "prompt": "lanes+in+Colorado"
+        },
+        {
+            "pano_id": "NAoU1Y1biuJFqfBayz3rnQ",
+            "coordinates": [
+                39.7406753,
+                -105.0867356
+            ],
+            "prompt": "lanes+in+Colorado"
+        },
+        {
+            "pano_id": "V6kaFWB_yxuuiyGOqhr-QQ",
+            "coordinates": [
+                39.5977939,
+                -104.8054848
+            ],
+            "prompt": "lanes+in+Colorado"
+        },
+        {
+            "pano_id": "eFyq-fQuo8WT0XZVNv08YA",
+            "coordinates": [
+                39.78309,
+                -105.2300029
+            ],
+            "prompt": "trails+in+Colorado"
+        },
+        {
+            "pano_id": "2eBsPWYAMLvadPK_kv-kbQ",
+            "coordinates": [
+                39.5823195,
+                -105.3610606
+            ],
+            "prompt": "trails+in+Colorado"
+        },
+        {
+            "pano_id": "r0FAnkPI_GZbB8sAeS6fDg",
+            "coordinates": [
+                39.5192341,
+                -105.3054303
+            ],
+            "prompt": "roads+in+Colorado"
+        },
+        {
+            "pano_id": "xPUyP4zNe5gOhCWnmEU1HQ",
+            "coordinates": [
+                39.4405124,
+                -107.2537324
+            ],
+            "prompt": "roads+in+Colorado"
+        },
+        {
+            "pano_id": "lvc7mM5P5md0eB-7Pvcm-A",
+            "coordinates": [
+                39.738236,
+                -105.023738
+            ],
+            "prompt": "roads+in+Colorado"
+        },
+        {
+            "pano_id": "vsKlfEWZCJEf6x_AuYxSOQ",
+            "coordinates": [
+                35.4365286,
+                -83.44908509999999
+            ],
+            "prompt": "highways+in+North+Carolina"
+        },
+        {
+            "pano_id": "tBkZo9ozUngSpCSfAjViiQ",
+            "coordinates": [
+                35.2541767,
+                -81.0264476
+            ],
+            "prompt": "lanes+in+North+Carolina"
+        },
+        {
+            "pano_id": "qykwFhKLYKdTDtdxRQj3LA",
+            "coordinates": [
+                35.6397257,
+                -78.4788305
+            ],
+            "prompt": "lanes+in+North+Carolina"
+        },
+        {
+            "pano_id": "01qCDyw74xSUp_M0qYzbBg",
+            "coordinates": [
+                35.8629575,
+                -78.58822260000001
+            ],
+            "prompt": "lanes+in+North+Carolina"
+        },
+        {
+            "pano_id": "tsY2DELr9KyFuQtGoTTeag",
+            "coordinates": [
+                36.1040754,
+                -81.8181518
+            ],
+            "prompt": "trails+in+North+Carolina"
+        },
+        {
+            "pano_id": "uOS_mcq7dlicMkBiwzVpog",
+            "coordinates": [
+                35.3203173,
+                -82.8472137
+            ],
+            "prompt": "trails+in+North+Carolina"
+        },
+        {
+            "pano_id": "ITjh-YXiEFwhtSlXIWoTEg",
+            "coordinates": [
+                33.4744624,
+                -112.1038063
+            ],
+            "prompt": "highways+in+Arizona"
+        },
+        {
+            "pano_id": "SvDA4By9qbzuosKgCS0cxA",
+            "coordinates": [
+                33.436015,
+                -111.9989636
+            ],
+            "prompt": "highways+in+Arizona"
+        },
+        {
+            "pano_id": "IWp4HIsRGGW87UfpEty2nA",
+            "coordinates": [
+                33.333754,
+                -111.842668
+            ],
+            "prompt": "lanes+in+Arizona"
+        },
+        {
+            "pano_id": "huUGd_7IgTM_zgrU7Mj4Cg",
+            "coordinates": [
+                33.4577364,
+                -112.0710584
+            ],
+            "prompt": "lanes+in+Arizona"
+        },
+        {
+            "pano_id": "fjWh5uW0IV3dcuDWJx3qHQ",
+            "coordinates": [
+                33.38472,
+                -111.92461
+            ],
+            "prompt": "lanes+in+Arizona"
+        },
+        {
+            "pano_id": "vxhfUU6Pxmt16IM-h4tL-g",
+            "coordinates": [
+                33.6494278,
+                -111.8584667
+            ],
+            "prompt": "trails+in+Arizona"
+        },
+        {
+            "pano_id": "_-u1uY-pLq9DKDhAynMoVA",
+            "coordinates": [
+                33.5213895,
+                -111.9735617
+            ],
+            "prompt": "trails+in+Arizona"
+        },
+        {
+            "pano_id": "ara2NGVtnPaYo8vCjJ18sw",
+            "coordinates": [
+                34.6712172,
+                -92.382853
+            ],
+            "prompt": "highways+in+Arkansas"
+        },
+        {
+            "pano_id": "jUER2Vum17H-zPHA12li9w",
+            "coordinates": [
+                35.6150882,
+                -94.19335629999999
+            ],
+            "prompt": "highways+in+Arkansas"
+        },
+        {
+            "pano_id": "ZDZu7ud4K_84VlIWqe9B_Q",
+            "coordinates": [
+                34.4589022,
+                -93.0610059
+            ],
+            "prompt": "lanes+in+Arkansas"
+        },
+        {
+            "pano_id": "iMR0DYEOOEuT2c6yaSBQ4Q",
+            "coordinates": [
+                36.2561863,
+                -91.56941200000001
+            ],
+            "prompt": "lanes+in+Arkansas"
+        },
+        {
+            "pano_id": "QW259XlN9TurC1yY7tn6iA",
+            "coordinates": [
+                36.4718824,
+                -94.2609679
+            ],
+            "prompt": "trails+in+Arkansas"
+        },
+        {
+            "pano_id": "ara2NGVtnPaYo8vCjJ18sw",
+            "coordinates": [
+                34.6712172,
+                -92.382853
+            ],
+            "prompt": "roads+in+Arkansas"
+        },
+        {
+            "pano_id": "XfN4Gt2WnbNIUxLUNONeFw",
+            "coordinates": [
+                34.7651271,
+                -92.33980179999999
+            ],
+            "prompt": "roads+in+Arkansas"
+        },
+        {
+            "pano_id": "ebTYH9XZAPJYZvVdLEelag",
+            "coordinates": [
+                34.7218051,
+                -92.3112587
+            ],
+            "prompt": "roads+in+Arkansas"
+        },
+        {
+            "pano_id": "nVY8RLY9gCpdOa-9F9FouQ",
+            "coordinates": [
+                41.6654196,
+                -73.0787036
+            ],
+            "prompt": "highways+in+Connecticut"
+        },
+        {
+            "pano_id": "xRZHYQWm4R1U3BZFxRNLig",
+            "coordinates": [
+                41.7613805,
+                -72.6734969
+            ],
+            "prompt": "highways+in+Connecticut"
+        },
+        {
+            "pano_id": "BRe3GXTawX990vL7Va1r9Q",
+            "coordinates": [
+                41.6766662,
+                -72.84931940000001
+            ],
+            "prompt": "lanes+in+Connecticut"
+        },
+        {
+            "pano_id": "Y86p8mqaHWNBUFvRqOVF0g",
+            "coordinates": [
+                41.76612,
+                -72.61161
+            ],
+            "prompt": "lanes+in+Connecticut"
+        },
+        {
+            "pano_id": "xRZHYQWm4R1U3BZFxRNLig",
+            "coordinates": [
+                41.7613805,
+                -72.6734969
+            ],
+            "prompt": "roads+in+Connecticut"
+        },
+        {
+            "pano_id": "BRAE5Vx7CY_Hrk78oMtbsQ",
+            "coordinates": [
+                41.4442792,
+                -72.8341839
+            ],
+            "prompt": "roads+in+Connecticut"
+        },
+        {
+            "pano_id": "KXHoyTmpxPxGRJSaREFvrQ",
+            "coordinates": [
+                41.1855223,
+                -73.1413914
+            ],
+            "prompt": "roads+in+Connecticut"
+        },
+        {
+            "pano_id": "hk8Z2dG3XQErI_IwPHdrAw",
+            "coordinates": [
+                42.7156733,
+                -92.43538509999999
+            ],
+            "prompt": "highways+in+Iowa"
+        },
+        {
+            "pano_id": "Fh5ze7yzyfwK7esaOoJr_g",
+            "coordinates": [
+                42.0211999,
+                -93.6219002
+            ],
+            "prompt": "highways+in+Iowa"
+        },
+        {
+            "pano_id": "o7jTU00pevWZ5mhnwG36-A",
+            "coordinates": [
+                42.0271059,
+                -93.610793
+            ],
+            "prompt": "highways+in+Iowa"
+        },
+        {
+            "pano_id": "QjM6RekBhHHNuX2q1Ywk0g",
+            "coordinates": [
+                42.27067940000001,
+                -95.0928417
+            ],
+            "prompt": "lanes+in+Iowa"
+        },
+        {
+            "pano_id": "UuyXeYTo_gHWke-LNn4_dg",
+            "coordinates": [
+                41.630946,
+                -91.544358
+            ],
+            "prompt": "lanes+in+Iowa"
+        },
+        {
+            "pano_id": "ximMcPdgQaj31tH-5gDZOw",
+            "coordinates": [
+                41.72495,
+                -91.54236
+            ],
+            "prompt": "trails+in+Iowa"
+        },
+        {
+            "pano_id": "d5nGAlsm5jwYCNMUkTxzvg",
+            "coordinates": [
+                41.6183962,
+                -91.5492287
+            ],
+            "prompt": "trails+in+Iowa"
+        },
+        {
+            "pano_id": "sFkE9nH3NdgA31kwknf-qg",
+            "coordinates": [
+                41.6156858,
+                -94.01297559999999
+            ],
+            "prompt": "roads+in+Iowa"
+        },
+        {
+            "pano_id": "NyhjJ-Kc_ZUmnnKdSR3gBQ",
+            "coordinates": [
+                42.0253142,
+                -93.4482958
+            ],
+            "prompt": "roads+in+Iowa"
+        },
+        {
+            "pano_id": "liQ6HPk_WETTQHhkSZ0nhQ",
+            "coordinates": [
+                31.2950326,
+                -92.5435272
+            ],
+            "prompt": "highways+in+Louisiana"
+        },
+        {
+            "pano_id": "mpUW52bkdq_VmHdr8XObLA",
+            "coordinates": [
+                29.2169126,
+                -90.19247879999999
+            ],
+            "prompt": "highways+in+Louisiana"
+        },
+        {
+            "pano_id": "RBFyC7ax-P7f_ebidwR9fA",
+            "coordinates": [
+                30.400437,
+                -91.10839519999999
+            ],
+            "prompt": "highways+in+Louisiana"
+        },
+        {
+            "pano_id": "Ux1yIiMSRfm6pQt4D_lucg",
+            "coordinates": [
+                31.1305883,
+                -93.26538149999999
+            ],
+            "prompt": "lanes+in+Louisiana"
+        },
+        {
+            "pano_id": "Y2-MicuoJZBzSc4B_u_wNw",
+            "coordinates": [
+                30.1849463,
+                -92.0738353
+            ],
+            "prompt": "lanes+in+Louisiana"
+        },
+        {
+            "pano_id": "C7OhO7OVs2y6n4Qg73AB5w",
+            "coordinates": [
+                30.24499999999999,
+                -90.9183333
+            ],
+            "prompt": "lanes+in+Louisiana"
+        },
+        {
+            "pano_id": "RMx0lsXLGMUiPAxUHtXs1Q",
+            "coordinates": [
+                31.1558937,
+                -92.5241669
+            ],
+            "prompt": "trails+in+Louisiana"
+        },
+        {
+            "pano_id": "GnBhEaPPbwvxhwzLBDdOWA",
+            "coordinates": [
+                30.2037034,
+                -91.9010741
+            ],
+            "prompt": "trails+in+Louisiana"
+        },
+        {
+            "pano_id": "-A3xKIvw65Bg-lyBEI4kGw",
+            "coordinates": [
+                32.4038177,
+                -92.981056
+            ],
+            "prompt": "trails+in+Louisiana"
+        },
+        {
+            "pano_id": "RVqWbGKAvED13gqVX1CrUg",
+            "coordinates": [
+                30.7015741,
+                -91.4362242
+            ],
+            "prompt": "roads+in+Louisiana"
         }
     ]
 }

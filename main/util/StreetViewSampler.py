@@ -94,14 +94,15 @@ class StreetViewSampler:
             images_dir (str): directory to save images to
         """
         os.makedirs(images_dir, exist_ok=True)
-        for i in range(self.download_descriptor, len(self.samples)):
-            sample = self.samples[i]
+        while self.download_descriptor < len(self.samples):
+            sample = self.samples[self.download_descriptor]
             content = None
             try:
                 content = sample.get_street_view_image(self.image_size, self.api_key)
             except Exception:
                 print(f'Cannot get street view image with pano id {sample.pano_id}')
-                break
+                self.samples.pop(self.download_descriptor)
+                continue
             lat, lon = sample.coordinates
             image_name = f"{images_dir}/{lat}_{lon}.jpg"
             with open(image_name, 'wb') as pic:
@@ -117,13 +118,13 @@ class StreetViewSampler:
             images_dir (str): directory to save images to
         """
         os.makedirs(images_dir, exist_ok=True)
-        for i in range(self.download_descriptor, len(self.samples)):
-            sample = self.samples[i]
+        while self.download_descriptor < len(self.samples):
+            sample = self.samples[self.download_descriptor]
             image_data = sample.get_panorama(self.image_size, self.api_key)
             
             if len(image_data) != 4:
                 print(f'Request failed while trying to get panorama id {sample.pano_id}')
-                self.samples.pop(i)
+                self.samples.pop(self.download_descriptor)
                 continue
             
             images = []
