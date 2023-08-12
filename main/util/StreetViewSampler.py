@@ -200,7 +200,7 @@ class StreetViewSampler:
             "samples": [sample.to_json() for sample in self.samples]
         }
         
-    def removeDuplicate(self):
+    def remove_duplicate(self):
         """Removes duplicate samples in self.samples
         """
         myMap = {key.pano_id: 0 for key in self.samples}

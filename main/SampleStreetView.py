@@ -12,6 +12,6 @@ else:
     sampler = StreetViewSampler(sample_size, constants.API_KEY)
     
 sampler.sample(size_per_prompt=10)
-sampler.removeDuplicate()
+sampler.remove_duplicate()
 sampler.download_panoramas(DirUtil.get_image_dir())
 sampler.save_sampler_status_metadata(DirUtil.get_image_dir())
