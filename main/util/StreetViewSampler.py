@@ -74,13 +74,13 @@ class StreetViewSampler:
                         pano_id = panos[0].pano_id
                         coordinates = [lat, lon]
                         sample = Sample(pano_id, coordinates, curr_prompt)
-                        if sample in self.samples:
+                        if sample not in self.samples:
                             self.samples.append(sample)
                     else:
-                        print(f'No panorama found at {lat}, {lon}')
+                        print(f'Prompt {curr_prompt}: No panorama found at {lat}, {lon}')
                     j += 1
                 if j < num_collected_samples_per_prompt:
-                    print(f'Insufficient places found: wanted {num_collected_samples_per_prompt} but only found {j}')
+                    print(f'Prompt {curr_prompt}: Insufficient places found: wanted {num_collected_samples_per_prompt} but only found {j}')
             else:
                 print(f'Prompt {self.prompts[self.prompt_descriptor]} responded with error code {results.status_code}')
             self.prompt_descriptor += 1
@@ -105,7 +105,7 @@ class StreetViewSampler:
                 try:
                     content = sample.get_street_view_image(self.image_size, self.api_key)
                 except Exception:
-                    print(f'Cannot get street view image with pano id {sample.pano_id}')
+                    print(f'Cannot get street view image with pano id {sample.pano_id}, prompt {sample.prompt}')
                     self.samples.pop(self.download_descriptor)
                     continue
                 with open(image_name, 'wb') as pic:
@@ -129,7 +129,7 @@ class StreetViewSampler:
                 image_data = sample.get_panorama(self.image_size, self.api_key)
                 
                 if len(image_data) != 4:
-                    print(f'Request failed while trying to get panorama id {sample.pano_id}')
+                    print(f'Request failed while trying to get panorama id {sample.pano_id}, prompt {sample.prompt}')
                     self.samples.pop(self.download_descriptor)
                     continue
                 
