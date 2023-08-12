@@ -5,7 +5,6 @@ import json
 import requests
 from PIL import Image
 from . import StreetViewSamplerConstants as constants
-from . import DirUtil
 from .Sample import Sample
 
 class StreetViewSampler:
