@@ -155,5 +155,13 @@ DEFAULT_PROMPTS = [
     'roads+in+Belgium', 'streets+in+Belgium', 'highways+in+Belgium',
     'roads+in+Hungary', 'streets+in+Hungary', 'lanes+in+Hungary',
     'roads+in+Austria', 'streets+in+Austria', 'highways+in+Austria',
-    'alleys+in+Rumania', 'lanes+in+Rumania'
+    'alleys+in+Rumania', 'lanes+in+Rumania',
+    
+    'lanes+in+Western+Australia', 'highways+in+Western+Australia', 'streets+in+Western+Australia', 'roads+in+Western+Australia',
+    'lanes+in+Northern+Territory+Australia', 'highways+in+Northern+Territory+Australia', 'streets+in+Northern+Territory+Australia', 'roads+in+Northern+Territory+Australia',
+    'lanes+in+South+Australia', 'highways+in+South+Australia', 'streets+in+South+Australia', 'roads+in+South+Australia',
+    'lanes+in+Queensland', 'highways+in+Queensland', 'streets+in+Queensland', 'roads+in+Queensland',
+    'lanes+in+Western+New+South+Wales', 'highways+in+New+South+Wales', 'streets+in+New+South+Wales', 'roads+in+New+South+Wales',
+    'lanes+in+Victoria+Australia', 'highways+in+Victoria+Australia', 'streets+in+Victoria+Australia', 'roads+in+Victoria+Australia',
+    'lanes+in+Tasmania', 'highways+in+Tasmania', 'streets+in+Tasmania', 'roads+in+Tasmania'
     ]

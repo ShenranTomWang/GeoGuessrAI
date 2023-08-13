@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 629,
+    "download_descriptor": 728,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 156,
+    "prompt_descriptor": 210,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -5037,6 +5037,798 @@
                 -62.2769754
             ],
             "prompt": "lanes+in+Argentina"
+        },
+        {
+            "pano_id": "TjEBXpX9sEH1-fzi01jxDA",
+            "coordinates": [
+                -26.8197436,
+                -65.2051572
+            ],
+            "prompt": "streets+in+Argentina"
+        },
+        {
+            "pano_id": "okx95BcKVFsRoKi79IyU1Q",
+            "coordinates": [
+                -33.4237624,
+                -70.6094568
+            ],
+            "prompt": "lanes+in+Chile"
+        },
+        {
+            "pano_id": "yfv7IlLqcEKsVx0mqUonfQ",
+            "coordinates": [
+                -14.739027,
+                -75.130005
+            ],
+            "prompt": "lanes+in+Peru"
+        },
+        {
+            "pano_id": "nj0mH9KjZQoAJkt3fVx3bQ",
+            "coordinates": [
+                -12.1250456,
+                -77.02353389999999
+            ],
+            "prompt": "lanes+in+Peru"
+        },
+        {
+            "pano_id": "OBhIy4zPndUgi4tKWQ0reA",
+            "coordinates": [
+                -12.1261996,
+                -77.0197469
+            ],
+            "prompt": "lanes+in+Peru"
+        },
+        {
+            "pano_id": "OpSNDSGEOnUcaBysZjE1Vg",
+            "coordinates": [
+                -12.4627947,
+                -76.7506049
+            ],
+            "prompt": "road+in+Peru"
+        },
+        {
+            "pano_id": "nDpbFHCWOL70-u156Pc5Lw",
+            "coordinates": [
+                -12.1651626,
+                -76.96647159999999
+            ],
+            "prompt": "road+in+Peru"
+        },
+        {
+            "pano_id": "G5Ne3njDlxK33UeOKd3Gxw",
+            "coordinates": [
+                -12.0708313,
+                -77.0492803
+            ],
+            "prompt": "road+in+Peru"
+        },
+        {
+            "pano_id": "yZX30v86uUSQpPwdAKLPQw",
+            "coordinates": [
+                -12.1215274,
+                -77.0269934
+            ],
+            "prompt": "road+in+Peru"
+        },
+        {
+            "pano_id": "sIxVcpKY5SnbD8ZJ8dwx8Q",
+            "coordinates": [
+                -9.2976466,
+                -76.0000202
+            ],
+            "prompt": "road+in+Peru"
+        },
+        {
+            "pano_id": "Pu9FSvWY35e4cbs0L8B0tQ",
+            "coordinates": [
+                -12.075806,
+                -77.0837366
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "gCY5gm-hZbY1bEIuFfJosg",
+            "coordinates": [
+                -12.0832931,
+                -76.9999663
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "U_UcrwtxD7PFsUUH0LGqzg",
+            "coordinates": [
+                -12.1229847,
+                -77.031616
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "9dZF-j_77dQR55EAcDsTVA",
+            "coordinates": [
+                -12.110296,
+                -77.0015078
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "s7f8nr1_5JOL6UqTXdyOFQ",
+            "coordinates": [
+                -12.0368033,
+                -77.03288189999999
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "IgUmm880DctUzAN72blidw",
+            "coordinates": [
+                -5.1782676,
+                -80.654881
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "1PF-Lv8hGUzR1raC2BzqJQ",
+            "coordinates": [
+                -12.0472593,
+                -77.0314986
+            ],
+            "prompt": "alleys+in+Peru"
+        },
+        {
+            "pano_id": "DcTrwUm9xwOOe7hEpfWDPQ",
+            "coordinates": [
+                33.9531862,
+                -80.9897122
+            ],
+            "prompt": "alleys+in+Columbia"
+        },
+        {
+            "pano_id": "0mdfCAb2AWbnuF1liOjPIg",
+            "coordinates": [
+                34.02863,
+                -81.11645
+            ],
+            "prompt": "alleys+in+Columbia"
+        },
+        {
+            "pano_id": "RLqR8HKvmgPABnbb4uszCg",
+            "coordinates": [
+                34.0071221,
+                -81.0363444
+            ],
+            "prompt": "alleys+in+Columbia"
+        },
+        {
+            "pano_id": "plwZBeSpKvvNsfWOsjRGHw",
+            "coordinates": [
+                33.987466,
+                -81.05381799999999
+            ],
+            "prompt": "alleys+in+Columbia"
+        },
+        {
+            "pano_id": "1OM08ZrEoGCBeQ9JnxHHwg",
+            "coordinates": [
+                34.0916761,
+                -81.16997669999999
+            ],
+            "prompt": "alleys+in+Columbia"
+        },
+        {
+            "pano_id": "mydDhlQ3heAuNvMBRaTw4g",
+            "coordinates": [
+                34.0088899,
+                -81.0401854
+            ],
+            "prompt": "highways+in+Columbia"
+        },
+        {
+            "pano_id": "HM2GIGWIVWa8RiHGGRRBUQ",
+            "coordinates": [
+                33.9723644,
+                -81.00882399999999
+            ],
+            "prompt": "highways+in+Columbia"
+        },
+        {
+            "pano_id": "nrPZBkbYt-mkv6qHi9LJZQ",
+            "coordinates": [
+                34.0255673,
+                -81.0254959
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "qtgBgDJJrDuvrPCLTY-DOQ",
+            "coordinates": [
+                34.0733733,
+                -81.17756519999999
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "oDNfZNqzU5Is2YueVi-UrA",
+            "coordinates": [
+                34.0660906,
+                -81.1458696
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "ctkhY81b37BL19KrrH3IKQ",
+            "coordinates": [
+                34.0418183,
+                -81.1067607
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "cDXtyDiM1lNkNBMHbt9XJA",
+            "coordinates": [
+                33.966643,
+                -81.0104206
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "jwCwukzkGFtV3XJpvy-i-A",
+            "coordinates": [
+                34.0831811,
+                -81.0246976
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "uNI9FFzvSaliTHtuSCTyVQ",
+            "coordinates": [
+                34.0425688,
+                -81.12876399999999
+            ],
+            "prompt": "roads+in+Columbia"
+        },
+        {
+            "pano_id": "sJWGB30O9ltfog-f1XHd5w",
+            "coordinates": [
+                -41.292056,
+                174.78124
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "WUWtiUIDrsIdo-9JDyypdQ",
+            "coordinates": [
+                -36.8673277,
+                174.7759641
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "C9Iwj0o3aVq3qRfMlfvf1A",
+            "coordinates": [
+                -36.8602875,
+                174.6307143
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "xxSilUUQuV360uAerG7tmw",
+            "coordinates": [
+                -36.9280682,
+                174.9135593
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "-ltouwEXAwF1Kg5DFFXitw",
+            "coordinates": [
+                -43.5417041,
+                172.6484286
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "71Nz6Xj-bBD8ox27eKvhRw",
+            "coordinates": [
+                -45.8662027,
+                170.4840105
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "vU_akjCIBDj74yO_zLtR0A",
+            "coordinates": [
+                -36.8518253,
+                174.7635759
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "PuYgu8iWEYxLjyIkO25DNA",
+            "coordinates": [
+                -36.8197642,
+                174.6133242
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "Y3C5npUtgOr4N2rqdF3T4A",
+            "coordinates": [
+                -36.765999,
+                174.7360179
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "AeCitbFFZrdkFkkM6vgM4Q",
+            "coordinates": [
+                -40.357657,
+                175.6032875
+            ],
+            "prompt": "alleys+in+New+Zealand"
+        },
+        {
+            "pano_id": "lmf3IfH-_Lu_XDBy70Ls9g",
+            "coordinates": [
+                -36.8451341,
+                174.7694788
+            ],
+            "prompt": "lanes+in+New+Zealand"
+        },
+        {
+            "pano_id": "WTOuw10kk4F3kL38uw__Nw",
+            "coordinates": [
+                -33.8626216,
+                151.210854
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "IsWvfBNeoTeeI1aVM8ysXg",
+            "coordinates": [
+                -41.4639355,
+                147.1602581
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "O6drPbTIcwGCF74lDFT2IQ",
+            "coordinates": [
+                -36.1234692,
+                146.9025497
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "owkLelPR1Loq6q_2we_U5A",
+            "coordinates": [
+                -32.0709691,
+                116.0008225
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "1B5GWhacgF5WXuWTU-iRog",
+            "coordinates": [
+                -31.7424057,
+                115.7607894
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "SA4dKNW7AMU6X1EhPbBcPg",
+            "coordinates": [
+                -37.811833,
+                144.9720718
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "fxSzjQPhwjBYJWbAwfJB1A",
+            "coordinates": [
+                -37.7022335,
+                145.0714174
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "1PSfXAeO75K8ZU8_lmTkRQ",
+            "coordinates": [
+                -34.9666979,
+                138.5913498
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "oeCYbkHFSfiSrBBSW7pZ0w",
+            "coordinates": [
+                -26.4953038,
+                153.0769917
+            ],
+            "prompt": "lanes+in+Australia"
+        },
+        {
+            "pano_id": "eQJQeycBdTRuNUmtGEF5gQ",
+            "coordinates": [
+                -37.8390561,
+                144.977748
+            ],
+            "prompt": "highways+in+Australia"
+        },
+        {
+            "pano_id": "ZTAGuRUN3-JNbSQMvEOmCg",
+            "coordinates": [
+                -27.6712949,
+                153.1810075
+            ],
+            "prompt": "highways+in+Australia"
+        },
+        {
+            "pano_id": "ZF0E2P6pPsmKRU8ABGTHXg",
+            "coordinates": [
+                -31.9590219,
+                115.8649663
+            ],
+            "prompt": "highways+in+Australia"
+        },
+        {
+            "pano_id": "Yjiq7A9yb6lwq9dvWV7CXQ",
+            "coordinates": [
+                -31.9505814,
+                115.8590273
+            ],
+            "prompt": "streets+in+Australia"
+        },
+        {
+            "pano_id": "52qawc9RvWnb3jguetQtKg",
+            "coordinates": [
+                -33.8647085,
+                151.2015441
+            ],
+            "prompt": "streets+in+Australia"
+        },
+        {
+            "pano_id": "is-4kPX5GiZSlgMulD1e4g",
+            "coordinates": [
+                -32.0546171,
+                115.7470656
+            ],
+            "prompt": "streets+in+Australia"
+        },
+        {
+            "pano_id": "1a7wGEYO2wVLOzxnciUaLw",
+            "coordinates": [
+                -37.819834,
+                144.9564871
+            ],
+            "prompt": "streets+in+Australia"
+        },
+        {
+            "pano_id": "CoPPLPrTPLqC4Oh-pPyt8A",
+            "coordinates": [
+                -37.8899487,
+                145.0680337
+            ],
+            "prompt": "streets+in+Australia"
+        },
+        {
+            "pano_id": "Bi0n7X68hpY6AIdBJ74Bdw",
+            "coordinates": [
+                -31.9568623,
+                115.8769666
+            ],
+            "prompt": "roads+in+Australia"
+        },
+        {
+            "pano_id": "HTzQrU2185hvzrSJpEOTkw",
+            "coordinates": [
+                -17.3129997,
+                123.6496731
+            ],
+            "prompt": "roads+in+Australia"
+        },
+        {
+            "pano_id": "__3SW4xGt1wN_cTJ2oZLJg",
+            "coordinates": [
+                -34.0290431,
+                18.4379519
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "9_n8P2vJcoWlK-YdulgLxw",
+            "coordinates": [
+                -26.1257584,
+                28.0933495
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "nYDZxyeh_f3jALXB-K4hVQ",
+            "coordinates": [
+                -26.2058,
+                28.0243
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "tOxlTLvmNv0B5LHg8igCnw",
+            "coordinates": [
+                -25.9672472,
+                28.1268193
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "RPq2cXtk0sPapvGdVWBHrQ",
+            "coordinates": [
+                -29.0710812,
+                26.1404588
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "yukT7sBHSV7oj8965pDZfg",
+            "coordinates": [
+                -33.09120890000001,
+                18.0310877
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "1-aojErjG8C3EhG7KkLXTg",
+            "coordinates": [
+                -26.0944914,
+                28.3077805
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "Ni_zdDh3Da7CFA2kQI7pYg",
+            "coordinates": [
+                -26.13502,
+                27.84159
+            ],
+            "prompt": "lanes+in+South+Africa"
+        },
+        {
+            "pano_id": "jeECyPWNnAKjh8NtYtsBbw",
+            "coordinates": [
+                -33.3143251,
+                26.5149601
+            ],
+            "prompt": "highways+in+South+Africa"
+        },
+        {
+            "pano_id": "Kpk-su48ZQCPOrUtjS9aJw",
+            "coordinates": [
+                -25.7467648,
+                28.2890862
+            ],
+            "prompt": "highways+in+South+Africa"
+        },
+        {
+            "pano_id": "o7CH756kFS-KAod7CO2tOg",
+            "coordinates": [
+                -26.1293509,
+                28.2000057
+            ],
+            "prompt": "highways+in+South+Africa"
+        },
+        {
+            "pano_id": "A3GJX-s7DVUEkb1uYPdxaQ",
+            "coordinates": [
+                -26.1417892,
+                28.1780919
+            ],
+            "prompt": "highways+in+South+Africa"
+        },
+        {
+            "pano_id": "jtH4SVMKjwgYyJkL2uMLTg",
+            "coordinates": [
+                -26.20244,
+                28.04649
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "CThn2MJIqa_tCGU3Nl0ATg",
+            "coordinates": [
+                -26.1813769,
+                28.0686375
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "4M34pbSiuxFMzZV_uxnvzQ",
+            "coordinates": [
+                -26.2040511,
+                28.0468572
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "UVzCWAqvh35KDh_EH5-7XQ",
+            "coordinates": [
+                -26.1820504,
+                27.7023824
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "yVskuLMmHLNVJOpBAW7aLg",
+            "coordinates": [
+                -26.205956,
+                28.0470509
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "Ea1JsgOfqv30hQSbwlW3LQ",
+            "coordinates": [
+                -26.3154395,
+                27.6534729
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "LFCGemqtiHiWSC_PhLuWtw",
+            "coordinates": [
+                -26.19422,
+                28.03511
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "nfy9ZA0qC2PGJoG-TGQLZA",
+            "coordinates": [
+                -26.201509,
+                28.0374024
+            ],
+            "prompt": "streets+in+South+Africa"
+        },
+        {
+            "pano_id": "JKLlNb2uoIug-b_KlQEq4g",
+            "coordinates": [
+                41.6698416,
+                -85.02739389999999
+            ],
+            "prompt": "roads+in+Angola"
+        },
+        {
+            "pano_id": "P3u0wzwVPRJcTjP4tHYqzA",
+            "coordinates": [
+                42.6471832,
+                -79.019075
+            ],
+            "prompt": "highways+in+Angola"
+        },
+        {
+            "pano_id": "iIdaQRP2tRHI7_7JDcS-JQ",
+            "coordinates": [
+                0.3058291,
+                32.5764582
+            ],
+            "prompt": "streets+in+Uganda"
+        },
+        {
+            "pano_id": "wFUq8_NVtZM5WnqvsICzcA",
+            "coordinates": [
+                0.2774697,
+                32.616824
+            ],
+            "prompt": "streets+in+Uganda"
+        },
+        {
+            "pano_id": "YCzkaL5YG0j_l48NFy0hrg",
+            "coordinates": [
+                0.0693099,
+                32.4751118
+            ],
+            "prompt": "streets+in+Uganda"
+        },
+        {
+            "pano_id": "_CN7RIK7GzXKJn4qTuImIw",
+            "coordinates": [
+                0.3472147,
+                32.6495993
+            ],
+            "prompt": "streets+in+Uganda"
+        },
+        {
+            "pano_id": "ykJYLocylk6hqNm94e_PMQ",
+            "coordinates": [
+                0.312202,
+                32.5487296
+            ],
+            "prompt": "streets+in+Uganda"
+        },
+        {
+            "pano_id": "7GUb4Efn5ohmGHv7-oOQXg",
+            "coordinates": [
+                0.3475783,
+                32.5825474
+            ],
+            "prompt": "streets+in+Uganda"
+        },
+        {
+            "pano_id": "oZe2etUexJP1IVOLmSjcWQ",
+            "coordinates": [
+                0.3065582,
+                32.641752
+            ],
+            "prompt": "roads+in+Uganda"
+        },
+        {
+            "pano_id": "O9bYwckmZvBNRGSB6-zNBQ",
+            "coordinates": [
+                0.3944331,
+                32.5725326
+            ],
+            "prompt": "roads+in+Uganda"
+        },
+        {
+            "pano_id": "QuGD_BLraNIArmdzBOR7rw",
+            "coordinates": [
+                0.324821,
+                32.58426
+            ],
+            "prompt": "roads+in+Uganda"
+        },
+        {
+            "pano_id": "U9pWFjWQVqeAirNxZsPh_Q",
+            "coordinates": [
+                35.6724188,
+                139.7471926
+            ],
+            "prompt": "roads+in+Japan"
+        },
+        {
+            "pano_id": "wrJdIRpZnikVIqox9u5MOA",
+            "coordinates": [
+                35.6830401,
+                139.7396959
+            ],
+            "prompt": "roads+in+Japan"
+        },
+        {
+            "pano_id": "MHh2xsqVEZ7rplyaMXqXwg",
+            "coordinates": [
+                35.690822,
+                139.6936026
+            ],
+            "prompt": "roads+in+Japan"
+        },
+        {
+            "pano_id": "9y6hfKWLdrl_t-KX9AP-Qg",
+            "coordinates": [
+                35.7354047,
+                139.7353656
+            ],
+            "prompt": "streets+in+Japan"
+        },
+        {
+            "pano_id": "uq-JssevZn6YpA914zfeHw",
+            "coordinates": [
+                36.35743739999999,
+                138.6343912
+            ],
+            "prompt": "streets+in+Japan"
+        },
+        {
+            "pano_id": "8YMjIlYU7RpGsFZB5HpUpQ",
+            "coordinates": [
+                36.066357,
+                138.0826956
+            ],
+            "prompt": "streets+in+Japan"
+        },
+        {
+            "pano_id": "DPNwFZ1DvrFLRXiIKn955g",
+            "coordinates": [
+                37.527497,
+                127.0525685
+            ],
+            "prompt": "roads+in+South+Korea"
         }
     ]
 }
