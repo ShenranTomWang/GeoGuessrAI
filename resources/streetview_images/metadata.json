@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 728,
+    "download_descriptor": 826,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 210,
+    "prompt_descriptor": 307,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -5829,6 +5829,790 @@
                 127.0525685
             ],
             "prompt": "roads+in+South+Korea"
+        },
+        {
+            "pano_id": "O_09_r9_vaX9x-15q4fCCA",
+            "coordinates": [
+                37.5529929,
+                126.9216827
+            ],
+            "prompt": "streets+in+South+Korea"
+        },
+        {
+            "pano_id": "ThNQVUUnhAOSy9bUhClMFA",
+            "coordinates": [
+                37.5621115,
+                126.9853971
+            ],
+            "prompt": "streets+in+South+Korea"
+        },
+        {
+            "pano_id": "jH_ueDVVzO4cYr9qIq4AgA",
+            "coordinates": [
+                37.5558499,
+                126.9241498
+            ],
+            "prompt": "streets+in+South+Korea"
+        },
+        {
+            "pano_id": "Ib4GSyus782fwlkA49_aKA",
+            "coordinates": [
+                24.9832497,
+                121.5372314
+            ],
+            "prompt": "roads+in+Hunan"
+        },
+        {
+            "pano_id": "Y8ojtys-VG5aFoLELUJGTA",
+            "coordinates": [
+                14.5779805,
+                120.9797899
+            ],
+            "prompt": "roads+in+Philippines"
+        },
+        {
+            "pano_id": "rdSCTxz7VfYfUOWdVc6ueg",
+            "coordinates": [
+                14.5611133,
+                121.018156
+            ],
+            "prompt": "roads+in+Philippines"
+        },
+        {
+            "pano_id": "HDbUXLL6LsrFwCWJMNmofg",
+            "coordinates": [
+                14.167535,
+                121.243282
+            ],
+            "prompt": "roads+in+Philippines"
+        },
+        {
+            "pano_id": "uEhcU-qbO-d1pJh_Q3nr9Q",
+            "coordinates": [
+                14.6751714,
+                120.9399384
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "ep_u8ufRZhA0_-wI8_U9IA",
+            "coordinates": [
+                10.3170597,
+                123.9047427
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "woEyVW0mtm5WJc0gtqOczg",
+            "coordinates": [
+                14.566183,
+                120.9925287
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "Evy1hhNWdxNMPe1Pf6487w",
+            "coordinates": [
+                14.7717882,
+                120.9932177
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "a9KHQB8F5kDP4-WRVZqtvw",
+            "coordinates": [
+                13.9404547,
+                121.6132866
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "Nn2ei6o-tp6dlbUmchc9ww",
+            "coordinates": [
+                14.6233787,
+                120.964246
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "iZYPaDfnB9vZmISJgt1BgQ",
+            "coordinates": [
+                14.6525468,
+                121.0358745
+            ],
+            "prompt": "streets+in+Philippines"
+        },
+        {
+            "pano_id": "yFX7EPXzFvRdq5zX81q_Pw",
+            "coordinates": [
+                14.5878506,
+                120.9722474
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "m7mII5aTTaerOXTUmXZn5Q",
+            "coordinates": [
+                16.5166511,
+                121.5479976
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "3ZyZBVr5qm3wrFU5AiBcTQ",
+            "coordinates": [
+                17.0921993,
+                120.9786987
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "HHg9JtEgrevN2ej0roWq9Q",
+            "coordinates": [
+                16.6107224,
+                120.3187412
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "ZAoTMPAZ5ba5KJOIbDF2Gg",
+            "coordinates": [
+                13.1627671,
+                123.7519528
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "sbfkpfGUFUhmrQuKIi40tg",
+            "coordinates": [
+                7.0733619,
+                125.6173465
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "Cjs3zhbX_M0K_ilU1GaKwQ",
+            "coordinates": [
+                9.3113077,
+                123.3016859
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "oNJ2U3SZMMn91Q5UK6wb-g",
+            "coordinates": [
+                8.5017765,
+                124.6218168
+            ],
+            "prompt": "highways+in+Philippines"
+        },
+        {
+            "pano_id": "lLZm_ri3ceyOuY-z_TcY5A",
+            "coordinates": [
+                -6.1692541,
+                106.7721998
+            ],
+            "prompt": "streets+in+Indonesia"
+        },
+        {
+            "pano_id": "UegwpD5T3AFVGXdQq4j7SQ",
+            "coordinates": [
+                -6.2477942,
+                106.9845646
+            ],
+            "prompt": "streets+in+Indonesia"
+        },
+        {
+            "pano_id": "COlO01BnnTDQfNFEFI-n2g",
+            "coordinates": [
+                -6.212499999999999,
+                106.8204649
+            ],
+            "prompt": "streets+in+Indonesia"
+        },
+        {
+            "pano_id": "sDXZ6jaLDJEU6ZuIpb5uSA",
+            "coordinates": [
+                -7.5543555,
+                112.697561
+            ],
+            "prompt": "highways+in+Indonesia"
+        },
+        {
+            "pano_id": "UYefJVWXvv-ZtkXxEVLbGQ",
+            "coordinates": [
+                3.1762354,
+                101.5312246
+            ],
+            "prompt": "roads+in+Malaysia"
+        },
+        {
+            "pano_id": "EgDKrZ3I_g7WvKCguM8CDA",
+            "coordinates": [
+                4.4733301,
+                101.3800921
+            ],
+            "prompt": "roads+in+Malaysia"
+        },
+        {
+            "pano_id": "YOKoD_d-nH-KS-gcgrpcpw",
+            "coordinates": [
+                3.1447656,
+                101.7109516
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "PoCI9pEYFVK2bdYbzlyqIA",
+            "coordinates": [
+                2.7792615,
+                101.6773316
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "pySmliYKylKd0RN4AKs4jQ",
+            "coordinates": [
+                5.365444699999999,
+                100.569317
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "2EO4gWDCh_NE7jf-AYWABw",
+            "coordinates": [
+                3.6796169,
+                101.521049
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "LpjS9FVn_Zayc4kqCCvomA",
+            "coordinates": [
+                3.1871579,
+                101.6031598
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "jvf9yRPMIV_xx-nT3Qw7Yw",
+            "coordinates": [
+                3.1203067,
+                101.6214716
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "4Dg-qBiVmptJN_2oMsgw9w",
+            "coordinates": [
+                3.146121,
+                101.7092762
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "zdm2cPbzotLOCPBvXoi0XA",
+            "coordinates": [
+                3.0476628,
+                101.6224227
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "wW-dIXqrtzq4IFsYZZYGGQ",
+            "coordinates": [
+                3.129935,
+                101.6069107
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "8qZHK9bq-iGJR6DB1GSEOw",
+            "coordinates": [
+                5.4167404,
+                100.3398899
+            ],
+            "prompt": "streets+in+Malaysia"
+        },
+        {
+            "pano_id": "hzisjcRT6BH-gBWy9WbrQg",
+            "coordinates": [
+                3.1215167,
+                101.7247474
+            ],
+            "prompt": "highways+in+Malaysia"
+        },
+        {
+            "pano_id": "km6xtF4oWzKgD4jhPrawVQ",
+            "coordinates": [
+                2.9800307,
+                101.7419772
+            ],
+            "prompt": "highways+in+Malaysia"
+        },
+        {
+            "pano_id": "KVCadL341oiWaQ9SQZLNbA",
+            "coordinates": [
+                3.0603722,
+                101.6128208
+            ],
+            "prompt": "highways+in+Malaysia"
+        },
+        {
+            "pano_id": "ma-4PKEjwoI0mrAqroNdag",
+            "coordinates": [
+                3.0816523,
+                101.5399966
+            ],
+            "prompt": "highways+in+Malaysia"
+        },
+        {
+            "pano_id": "8HzwG713ZbMuboXbhuEJZw",
+            "coordinates": [
+                3.0699762,
+                101.4166389
+            ],
+            "prompt": "highways+in+Malaysia"
+        },
+        {
+            "pano_id": "nGFeozUo13NCj-eLXkAq5Q",
+            "coordinates": [
+                3.20494,
+                101.732533
+            ],
+            "prompt": "highways+in+Malaysia"
+        },
+        {
+            "pano_id": "ptY9b_0EhYtK_ELXoyPzzQ",
+            "coordinates": [
+                1.323784,
+                103.810236
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "yxxVIjzOXej2PL0FWbHV2Q",
+            "coordinates": [
+                1.361795,
+                103.8444058
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "Y8JTys9YcJDcgc4mGkc-Sg",
+            "coordinates": [
+                1.2961284,
+                103.8546936
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "Hvbeh1JXSN479htuREsaEg",
+            "coordinates": [
+                1.2984153,
+                103.9028993
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "pXTIm-qsflfemx0YYAiLzA",
+            "coordinates": [
+                1.2821877,
+                103.8507038
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "s0S9F4kpbFTBwF_3NZlnAQ",
+            "coordinates": [
+                1.2943428,
+                103.8524123
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "4KFIiZOUt4iQpoL5-wmkKg",
+            "coordinates": [
+                1.2864334,
+                103.84914
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "fcuwJVcGBq3UjAGyk3hB1g",
+            "coordinates": [
+                1.3083473,
+                103.8908205
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "0xu88MrDL1CsQaJrocNSkg",
+            "coordinates": [
+                1.3053683,
+                103.8325366
+            ],
+            "prompt": "roads+in+Singapore"
+        },
+        {
+            "pano_id": "MXwD-oTEBnr0hmu2RmEXcg",
+            "coordinates": [
+                1.3348751,
+                103.9594817
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "yF_7QVjkeepocEzCyCh5CA",
+            "coordinates": [
+                1.3351011,
+                103.746606
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "8EXYo-CKMcieTndZI4UhVQ",
+            "coordinates": [
+                1.297415,
+                103.7875037
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "TNnxBDDOFxHDMwnLIjAH_Q",
+            "coordinates": [
+                1.3189895,
+                103.8925107
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "pKOcwfShnQ0AAARDCEmuOQ",
+            "coordinates": [
+                1.3734542,
+                103.9516557
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "xwK3xY3v0njzWkAwuoTIAw",
+            "coordinates": [
+                1.3364168,
+                103.755683
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "xWKZ3jVbqKgAAARFFMubVA",
+            "coordinates": [
+                1.286753,
+                103.8082893
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "DqVZmVD2ah6L7eL8LxcT-g",
+            "coordinates": [
+                1.3006613,
+                103.8549626
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "1ecW6iAjqm30aKdy27j7IA",
+            "coordinates": [
+                1.2819896,
+                103.8457538
+            ],
+            "prompt": "streets+in+Singapore"
+        },
+        {
+            "pano_id": "5YLh2Ez0TGwgIVPuA2wYmg",
+            "coordinates": [
+                1.3335767,
+                103.7484052
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "1dqc65ClmJJNuVZotOAFnA",
+            "coordinates": [
+                1.3157707,
+                103.8557968
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "e9rXpZ3UN-dheVONMOsy_Q",
+            "coordinates": [
+                1.3021918,
+                103.876502
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "1PmOyuzydlRQcjGpneRdvg",
+            "coordinates": [
+                1.3301305,
+                103.7447131
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "v8pgDNrNG-4_QXSVyLHTOg",
+            "coordinates": [
+                1.3008856,
+                103.8383582
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "tKDptZaJKpHrrbUkq9L18w",
+            "coordinates": [
+                1.4148709,
+                103.8313522
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "LJwMlAaIYJPBPk2sxIj-5w",
+            "coordinates": [
+                1.3217804,
+                103.8251412
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "2RQIWrZZM2S7n6iSC4b2hQ",
+            "coordinates": [
+                1.3447522,
+                103.9416718
+            ],
+            "prompt": "lanes+in+Singapore"
+        },
+        {
+            "pano_id": "cs6uzihTru0mbe1dAIUbkQ",
+            "coordinates": [
+                13.8616678,
+                100.5879488
+            ],
+            "prompt": "roads+in+Thailand"
+        },
+        {
+            "pano_id": "V9SJebXudjz2ZeKhj14bpQ",
+            "coordinates": [
+                13.7250499,
+                100.5228937
+            ],
+            "prompt": "streets+in+Thailand"
+        },
+        {
+            "pano_id": "B8BVsfLo_woXpfLGtz2Hng",
+            "coordinates": [
+                13.7444559,
+                100.5028107
+            ],
+            "prompt": "streets+in+Thailand"
+        },
+        {
+            "pano_id": "9jHuHlEBa2XPGQ-TnEQXgw",
+            "coordinates": [
+                14.0217225,
+                99.53270429999999
+            ],
+            "prompt": "streets+in+Thailand"
+        },
+        {
+            "pano_id": "Mc-aWFxEgWQLAgZzMKShlg",
+            "coordinates": [
+                13.7236442,
+                100.5788726
+            ],
+            "prompt": "streets+in+Thailand"
+        },
+        {
+            "pano_id": "tSizGSSroGahvwgPMVixag",
+            "coordinates": [
+                13.7410326,
+                100.5564238
+            ],
+            "prompt": "streets+in+Thailand"
+        },
+        {
+            "pano_id": "bDh12SwwcaL2q4O6eYx_Cw",
+            "coordinates": [
+                13.7600902,
+                100.4962266
+            ],
+            "prompt": "streets+in+Thailand"
+        },
+        {
+            "pano_id": "sHKrthLkqAj9j8-mOckqeg",
+            "coordinates": [
+                13.9216609,
+                100.5383195
+            ],
+            "prompt": "highways+in+Thailand"
+        },
+        {
+            "pano_id": "7L_1VF1D01gwFMNG8fgkRA",
+            "coordinates": [
+                13.0943384,
+                77.59520979999999
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "yYjO4Zuyr-qtFVcVvkSrtw",
+            "coordinates": [
+                23.2240864,
+                77.4029185
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "NxJBDQA67hln0ELCn-hQ-w",
+            "coordinates": [
+                12.951455,
+                77.577454
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "h-KaFJSctctIwzOlqIZD3g",
+            "coordinates": [
+                12.9489404,
+                80.1919458
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "SJdNRNZchjllk8hX3Glq_A",
+            "coordinates": [
+                26.865263,
+                81.01228979999999
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "NzxVX-UPhf4A052IG7aWdA",
+            "coordinates": [
+                21.2071705,
+                81.31397
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "jcRlqg2noUPmWWaviRVsOQ",
+            "coordinates": [
+                28.4693597,
+                77.0623842
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "yf1IPTON3DnpiVa0poTi5Q",
+            "coordinates": [
+                17.4532615,
+                78.3853199
+            ],
+            "prompt": "streets+in+India"
+        },
+        {
+            "pano_id": "5dfQQWJUkIu6jxjeBeCxMQ",
+            "coordinates": [
+                26.8534343,
+                80.9889656
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "Al8i9gFDx3bCH57q_N-Wcw",
+            "coordinates": [
+                23.5124976,
+                87.34459269999999
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "JViitlcHhjioPW951c4vyA",
+            "coordinates": [
+                26.4140393,
+                80.31783829999999
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "_w3aQ6RiP34penU0WX-CSg",
+            "coordinates": [
+                28.433121,
+                77.318818
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "7pghUTUD4PaRh30Mf4Lh_g",
+            "coordinates": [
+                23.222565,
+                77.43593899999999
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "Z6EsD92f0l6KNoXWmOrstw",
+            "coordinates": [
+                10.791626,
+                78.6757027
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "hUBORFfwm3iumF4_QlWLMg",
+            "coordinates": [
+                14.3977603,
+                79.94654109999999
+            ],
+            "prompt": "highways+in+India"
+        },
+        {
+            "pano_id": "x_UpOqZQPgXvNB7QAeol4Q",
+            "coordinates": [
+                17.9683419,
+                102.6067259
+            ],
+            "prompt": "roads+in+Laos"
+        },
+        {
+            "pano_id": "gGEYfoDxUaQPHk6GoONHsA",
+            "coordinates": [
+                17.959885,
+                102.6175606
+            ],
+            "prompt": "streets+in+Laos"
+        },
+        {
+            "pano_id": "ZYdVG5ZEzr1W9KVpqz4LLw",
+            "coordinates": [
+                17.9674318,
+                102.6040542
+            ],
+            "prompt": "streets+in+Laos"
+        },
+        {
+            "pano_id": "0hy_iwY4rGrha9SrP0jtkw",
+            "coordinates": [
+                17.9636035,
+                102.6038987
+            ],
+            "prompt": "streets+in+Laos"
+        },
+        {
+            "pano_id": "4IoOmmrR0V6YtD1sAWBOYw",
+            "coordinates": [
+                17.9643313,
+                102.6044146
+            ],
+            "prompt": "streets+in+Laos"
         }
     ]
 }
