@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 1024,
+    "download_descriptor": 1115,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 371,
+    "prompt_descriptor": 396,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -8197,6 +8197,734 @@
                 61.2978789
             ],
             "prompt": "lanes+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "2_fnHBdkOf24v2Oc0mKfCg",
+            "coordinates": [
+                49.8200462,
+                23.9173015
+            ],
+            "prompt": "roads+in+Ukraine"
+        },
+        {
+            "pano_id": "CdG5q24EGX1Aap6ec44tEw",
+            "coordinates": [
+                50.90509669999999,
+                34.7945864
+            ],
+            "prompt": "streets+in+Ukraine"
+        },
+        {
+            "pano_id": "wXXXLd4YoAg_gBws7hhuag",
+            "coordinates": [
+                50.4373449,
+                30.4754866
+            ],
+            "prompt": "streets+in+Ukraine"
+        },
+        {
+            "pano_id": "OEwUjHfmqyRaQC9YqUEj-A",
+            "coordinates": [
+                50.4388667,
+                30.5230665
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "qYPJi_Sfc35hf4JDxRpEjw",
+            "coordinates": [
+                50.44096,
+                30.5482203
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "-n86XvSbQNFxwClENuih5A",
+            "coordinates": [
+                50.44434709999999,
+                30.5381451
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "DU0A3tCl_8ZingMm28_0Ig",
+            "coordinates": [
+                46.3911969,
+                30.7213076
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "5G2SMpOqVPm7WA4G1cImwg",
+            "coordinates": [
+                46.4848896,
+                30.7355596
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "hOwQMmMXhIWtVoR_CEl8Sw",
+            "coordinates": [
+                50.376318,
+                30.5402837
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "CfaKWUJho_vggdEd5Y_AGg",
+            "coordinates": [
+                49.9858096,
+                36.2012119
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "NOYdxxKxDJO0zaFnL4XdCw",
+            "coordinates": [
+                46.4926916,
+                30.72637439999999
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "xNs1GZNkVz5hDQ68h1UXGw",
+            "coordinates": [
+                50.43132139999999,
+                30.5419415
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "ACTE0dfBVAGtZEGNdP0E7Q",
+            "coordinates": [
+                46.4815108,
+                30.7362689
+            ],
+            "prompt": "lanes+in+Ukraine"
+        },
+        {
+            "pano_id": "RiYCJSu1m0XkaaBsQ-e2pw",
+            "coordinates": [
+                48.1458827,
+                17.1868
+            ],
+            "prompt": "roads+in+Slovakia"
+        },
+        {
+            "pano_id": "kfCbKn5nnCUX49EfvhV0IA",
+            "coordinates": [
+                48.1461403,
+                17.1241338
+            ],
+            "prompt": "streets+in+Slovakia"
+        },
+        {
+            "pano_id": "SQ7gRLFOUsJGXpHWJppm4w",
+            "coordinates": [
+                48.1413586,
+                17.1168805
+            ],
+            "prompt": "streets+in+Slovakia"
+        },
+        {
+            "pano_id": "FCwhCs5gJpuSWvrnbAavqQ",
+            "coordinates": [
+                48.71411440000001,
+                21.2557702
+            ],
+            "prompt": "streets+in+Slovakia"
+        },
+        {
+            "pano_id": "M5EsvRL8ToDB-ZJdgio28A",
+            "coordinates": [
+                48.733196,
+                19.1405092
+            ],
+            "prompt": "streets+in+Slovakia"
+        },
+        {
+            "pano_id": "gsO81aIbd7x-j9dMVRPK_Q",
+            "coordinates": [
+                49.0822736,
+                19.6088221
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "bx6XZMpzNmiiBfGABT_7LQ",
+            "coordinates": [
+                48.172756,
+                17.1569706
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "QaZ17ma8HzsY7J6-OOmNkA",
+            "coordinates": [
+                49.06228249999999,
+                18.9125271
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "HcpLgjLxQkPdpQIZA0simA",
+            "coordinates": [
+                48.7242641,
+                21.2590931
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "Jplycrs317lFiubUl7va3g",
+            "coordinates": [
+                48.9854354,
+                21.243542
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "t0eEi9L_EDFUqxpZ8yyU-A",
+            "coordinates": [
+                48.7172966,
+                21.2592716
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "uRwLP2zTYX3Fqhsu29UdCw",
+            "coordinates": [
+                48.3907531,
+                17.5982105
+            ],
+            "prompt": "lanes+in+Slovakia"
+        },
+        {
+            "pano_id": "urClrq-3goLO-y1GEv15LQ",
+            "coordinates": [
+                46.0562123,
+                14.5014602
+            ],
+            "prompt": "roads+in+Slovenia"
+        },
+        {
+            "pano_id": "dXGvefm7rhzboT-CRRN5fw",
+            "coordinates": [
+                46.0635678,
+                14.5449734
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "yHJfnufxJMU8uCK-Zj0S5A",
+            "coordinates": [
+                46.0472996,
+                14.5060324
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "LIs56oK5x9wqshiEtbD6oA",
+            "coordinates": [
+                46.0534617,
+                14.5069608
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "PHjOEcokWrEjPRFzmMx3JA",
+            "coordinates": [
+                46.0524193,
+                14.5105909
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "55rWLZ6hmX4Uc64_4MyRoQ",
+            "coordinates": [
+                46.2744536,
+                15.0879038
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "vuMT2GY1ryrSL_txkkjyPA",
+            "coordinates": [
+                46.0634394,
+                14.5448243
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "ygNKBigUhRNRaNAvgBkvDA",
+            "coordinates": [
+                46.2365205,
+                14.3744905
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "iG-CHParYsfTNZKv2C6-LQ",
+            "coordinates": [
+                46.1327581,
+                14.8395211
+            ],
+            "prompt": "streets+in+Slovenia"
+        },
+        {
+            "pano_id": "rsOUsTz-lwwL0WwNRUey0Q",
+            "coordinates": [
+                46.0241912,
+                14.5367306
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "wi-UVB7MDUDK0g6bgTN6mA",
+            "coordinates": [
+                46.0089321,
+                15.3038481
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "wkV2qusfzu-Ck2ZjGkLQNw",
+            "coordinates": [
+                46.35302129999999,
+                14.1668622
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "7KY8-xq-tNr7e31xYxdyYg",
+            "coordinates": [
+                46.0554371,
+                14.5299881
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "_nkRJovzsI72qd3olOLP1g",
+            "coordinates": [
+                46.1409586,
+                14.4135312
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "4NV3VLhT_hFNZTs3ahVe7Q",
+            "coordinates": [
+                46.057396,
+                14.497454
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "1vImIFBbyIwAyTVM4r3Ayg",
+            "coordinates": [
+                45.9531928,
+                13.6695312
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "S2FN9KFFO4mnI29fAKuwKw",
+            "coordinates": [
+                46.0648238,
+                14.5484449
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "YmL-9daLTEBQ2dmGSPDZ3g",
+            "coordinates": [
+                46.2721009,
+                13.9566798
+            ],
+            "prompt": "lanes+in+Slovenia"
+        },
+        {
+            "pano_id": "9U5xRfJeBEsz6Nodx-6eFA",
+            "coordinates": [
+                44.7843011,
+                20.4516595
+            ],
+            "prompt": "roads+in+Serbia"
+        },
+        {
+            "pano_id": "j5Gmx-9fwb_fQOYHn8I6TA",
+            "coordinates": [
+                44.8143604,
+                20.459089
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "_yps94JeD6jEgVnWSBe2fw",
+            "coordinates": [
+                44.8049887,
+                20.4757955
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "B8ZPEEErlpIvWy1wRIYVXw",
+            "coordinates": [
+                44.803877,
+                20.518271
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "wKxrguq_w577iaywo_euaQ",
+            "coordinates": [
+                44.8106832,
+                20.4620657
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "as6C3ccdTOuxFfuK1BLC9g",
+            "coordinates": [
+                44.8025431,
+                20.4830127
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "ludcCdrvrsnieNBZGM4SXA",
+            "coordinates": [
+                44.7886517,
+                20.4057752
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "l824pNMT56JSyW36rXQI4A",
+            "coordinates": [
+                44.8175715,
+                20.4950459
+            ],
+            "prompt": "streets+in+Serbia"
+        },
+        {
+            "pano_id": "vwvEPAXtvGkwrCb0liFDqQ",
+            "coordinates": [
+                43.1600007,
+                22.5825188
+            ],
+            "prompt": "lanes+in+Serbia"
+        },
+        {
+            "pano_id": "R5g5yqQ4IFT2kouNhblutQ",
+            "coordinates": [
+                44.8406841,
+                20.4110785
+            ],
+            "prompt": "lanes+in+Serbia"
+        },
+        {
+            "pano_id": "NVYcsZ68-Q9MDP1IVXAllA",
+            "coordinates": [
+                44.8485861,
+                20.3986899
+            ],
+            "prompt": "lanes+in+Serbia"
+        },
+        {
+            "pano_id": "Bi26JgiGru_-Vkue02c_cg",
+            "coordinates": [
+                44.8293654,
+                20.4120037
+            ],
+            "prompt": "lanes+in+Serbia"
+        },
+        {
+            "pano_id": "gvR8nkMFVzanBwXkxiPOkg",
+            "coordinates": [
+                52.1524613,
+                18.2777531
+            ],
+            "prompt": "roads+in+Poland"
+        },
+        {
+            "pano_id": "DH66VlHbjie3m3Kdaa_Fnw",
+            "coordinates": [
+                52.2360963,
+                21.0533735
+            ],
+            "prompt": "streets+in+Poland"
+        },
+        {
+            "pano_id": "7j5t5U2jZj4XEYHe_MSDaQ",
+            "coordinates": [
+                52.1771184,
+                20.9919572
+            ],
+            "prompt": "streets+in+Poland"
+        },
+        {
+            "pano_id": "dsDwDrieR9qPrZtaKb_KRg",
+            "coordinates": [
+                50.3523769,
+                18.1531103
+            ],
+            "prompt": "highways+in+Poland"
+        },
+        {
+            "pano_id": "zXY0RlCqs_y5-es5C3gFyw",
+            "coordinates": [
+                41.4076584,
+                2.2057884
+            ],
+            "prompt": "roads+in+Spain"
+        },
+        {
+            "pano_id": "pFmETwmGrVbnzYupm9yw-g",
+            "coordinates": [
+                39.4780737,
+                -0.3653793
+            ],
+            "prompt": "roads+in+Spain"
+        },
+        {
+            "pano_id": "_PAA_k058gNyA5nQcexssw",
+            "coordinates": [
+                40.4384345,
+                -3.6960461
+            ],
+            "prompt": "roads+in+Spain"
+        },
+        {
+            "pano_id": "Y-tWtjT4sOG95GmDtn25jg",
+            "coordinates": [
+                40.4683089,
+                -3.685546
+            ],
+            "prompt": "streets+in+Spain"
+        },
+        {
+            "pano_id": "XNNVgJvH80f75HeYTjwTxg",
+            "coordinates": [
+                37.9204267,
+                -0.7554472
+            ],
+            "prompt": "streets+in+Spain"
+        },
+        {
+            "pano_id": "YEJymb_Su7IgVHskwEXYQg",
+            "coordinates": [
+                40.3849003,
+                -3.7061443
+            ],
+            "prompt": "streets+in+Spain"
+        },
+        {
+            "pano_id": "a3_RcjBCnMIqrC1qHwEmiQ",
+            "coordinates": [
+                41.6617548,
+                -0.8972597999999999
+            ],
+            "prompt": "highways+in+Spain"
+        },
+        {
+            "pano_id": "W5erS6FK84_Z2gRiDk8Q7w",
+            "coordinates": [
+                41.27881360000001,
+                -8.0955968
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "B8agSk0e_LHzvr4R3L9bkg",
+            "coordinates": [
+                37.122803,
+                -8.584806700000001
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "9CaDx-kPVpQOKM0Dpva8iQ",
+            "coordinates": [
+                37.0850097,
+                -8.2677427
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "c0G_CiENUfS24jFr3tUXeA",
+            "coordinates": [
+                40.15479699999999,
+                -8.829774
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "pgoyybHhV0y3nSM9NtJIog",
+            "coordinates": [
+                39.7613839,
+                -8.8232673
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "tojZ0oW0Qvn7v9VY8tgC7A",
+            "coordinates": [
+                41.5626649,
+                -8.450703899999999
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "Az-l3CKTIh8-M-7VLAxWaQ",
+            "coordinates": [
+                39.8154665,
+                -7.520540599999999
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "wLnw-9kSRi3oXp8_77QViQ",
+            "coordinates": [
+                39.9393136,
+                -8.6659449
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "TLNEzltarhTL_jm3FFoi_w",
+            "coordinates": [
+                37.0904476,
+                -8.1211676
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "wUhrMZiFfBWm3qp5vWx4KQ",
+            "coordinates": [
+                41.6911253,
+                -8.847881899999999
+            ],
+            "prompt": "alleys+in+Portugal"
+        },
+        {
+            "pano_id": "fWv4n1jtHcvLfOkc9716GA",
+            "coordinates": [
+                38.7324288,
+                -9.1324186
+            ],
+            "prompt": "streets+in+Portugal"
+        },
+        {
+            "pano_id": "i7uaOoi-aE8DF7d7QMIPLA",
+            "coordinates": [
+                38.7091476,
+                -9.3375072
+            ],
+            "prompt": "highways+in+Portugal"
+        },
+        {
+            "pano_id": "hVzw8k-7mNqVMqLVlfVHmg",
+            "coordinates": [
+                42.6419077,
+                18.108441
+            ],
+            "prompt": "streets+in+Croatia"
+        },
+        {
+            "pano_id": "Me7ajsxPDKWnqCnvZD9qug",
+            "coordinates": [
+                45.74783660000001,
+                15.9944442
+            ],
+            "prompt": "streets+in+Croatia"
+        },
+        {
+            "pano_id": "oWuMPJipenb9yLzFDOo90w",
+            "coordinates": [
+                43.5091587,
+                16.4378955
+            ],
+            "prompt": "streets+in+Croatia"
+        },
+        {
+            "pano_id": "TxHVJv3vTyQbvnhyCmVXuA",
+            "coordinates": [
+                43.1713021,
+                16.4417592
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "LyNbcWRd1LvCBV-UJInjJQ",
+            "coordinates": [
+                45.3188969,
+                14.4670205
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "qHna5mc1euFBzU166t-8GA",
+            "coordinates": [
+                45.8014144,
+                15.9606008
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "diP80IjJtiNnHLKTSiGSHQ",
+            "coordinates": [
+                44.1009027,
+                15.2718855
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "hkAxaNBJ9k1DC6s6d-ieIQ",
+            "coordinates": [
+                45.8131864,
+                15.985044
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "IZy-U4ggB1ty8No6yxk8Ag",
+            "coordinates": [
+                45.8134611,
+                15.9701372
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "y7TlXgCvV6Gmw3CBV9MM1A",
+            "coordinates": [
+                45.3927586,
+                14.043825
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "MQfXVJVDyS8yHhSSVJ-lBA",
+            "coordinates": [
+                44.7575046,
+                14.7600873
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "3_QXI6KnnPD14peNdzvGhQ",
+            "coordinates": [
+                44.1758094,
+                15.1898858
+            ],
+            "prompt": "lanes+in+Croatia"
+        },
+        {
+            "pano_id": "8TFfvndxNNSDBhBwb4izyQ",
+            "coordinates": [
+                46.9395382,
+                8.2764163
+            ],
+            "prompt": "roads+in+Switzerland"
         }
     ]
 }
