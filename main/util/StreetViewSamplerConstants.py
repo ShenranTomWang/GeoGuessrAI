@@ -156,6 +156,7 @@ DEFAULT_PROMPTS = [
     'roads+in+Hungary', 'streets+in+Hungary', 'lanes+in+Hungary',
     'roads+in+Austria', 'streets+in+Austria', 'highways+in+Austria',
     'alleys+in+Rumania', 'lanes+in+Rumania',
+    'roads+in+Greenland', 'streets+in+Greenland', 'highways+in+Greenland',
     
     'lanes+in+Western+Australia', 'highways+in+Western+Australia', 'streets+in+Western+Australia', 'roads+in+Western+Australia',
     'lanes+in+Northern+Territory+Australia', 'highways+in+Northern+Territory+Australia', 'streets+in+Northern+Territory+Australia', 'roads+in+Northern+Territory+Australia',
