@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 924,
+    "download_descriptor": 1024,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 357,
+    "prompt_descriptor": 371,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -7397,6 +7397,806 @@
                 82.87208609999999
             ],
             "prompt": "roads+in+Novosibirsk"
+        },
+        {
+            "pano_id": "5cESf_tyKR47l6zVF074fQ",
+            "coordinates": [
+                55.026114,
+                82.917912
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "_32AlrPzBa4BOcU5KQomwg",
+            "coordinates": [
+                55.0435262,
+                82.9223574
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "bXCfW5yTZqu-JYRn8O4txw",
+            "coordinates": [
+                55.108998,
+                82.99010419999999
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "2Yy238sFcMZ2Sn8P4a8QjA",
+            "coordinates": [
+                55.0302549,
+                82.93547710000001
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "P-nHRZOTRNIgxpOsGa6i9A",
+            "coordinates": [
+                55.0305192,
+                82.9121093
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "YZOB8JqzmIhmh8j_Rwuk2w",
+            "coordinates": [
+                55.0456126,
+                82.91173739999999
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "kw261BXb4bNS1G-gzKoStw",
+            "coordinates": [
+                55.0519508,
+                82.9411377
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "NcrbRjVJMqBaY7FBPrBuzQ",
+            "coordinates": [
+                54.9915302,
+                82.90234170000001
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "-mFH6Zm0CPFV_dRG_ZhwRQ",
+            "coordinates": [
+                55.0194144,
+                82.9124104
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "R0jsgixC9oTM7LqRp76-YA",
+            "coordinates": [
+                54.9912684,
+                82.9105753
+            ],
+            "prompt": "streets+in+Novosibirsk"
+        },
+        {
+            "pano_id": "j41kovmBZ80i-nLrG8vx1A",
+            "coordinates": [
+                56.88062499999999,
+                60.62786699999999
+            ],
+            "prompt": "roads+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "GU-xPQB45XvleM6FZUA6MQ",
+            "coordinates": [
+                56.8333333,
+                60.59999999999999
+            ],
+            "prompt": "roads+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "nO1mTyk5ZCMr9O-Me83VIw",
+            "coordinates": [
+                56.838449,
+                60.6323121
+            ],
+            "prompt": "roads+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "g8bpPzbapD6Nxfnw9C_GaQ",
+            "coordinates": [
+                56.8479967,
+                60.61792999999999
+            ],
+            "prompt": "roads+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "ywCnDgUl1bboBGxEdVasuA",
+            "coordinates": [
+                56.8552212,
+                60.598732
+            ],
+            "prompt": "roads+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "JWJ3hE9o7QlI5M2FyNp49Q",
+            "coordinates": [
+                56.842287,
+                60.630993
+            ],
+            "prompt": "roads+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "xOtzxvRgHASQZUBW6iV1Nw",
+            "coordinates": [
+                56.835969,
+                60.59657310000001
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "uGxDDU-TdWYeauUsDSduLg",
+            "coordinates": [
+                56.8374415,
+                60.6322202
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "WX5jWTzvVXSL4jonvhqCWw",
+            "coordinates": [
+                56.831131,
+                60.6004926
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "OMmJ7LJKX9uE6F9SvXUtKA",
+            "coordinates": [
+                56.8383374,
+                60.62075239999999
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "o695l8hetKwjtKLcKSNVew",
+            "coordinates": [
+                56.8298301,
+                60.59812069999999
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "EDg3cbeDNcuE7ZyAUODr5g",
+            "coordinates": [
+                56.8934276,
+                60.6152769
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "SOCqQPtCmidNW2GcjsvF2Q",
+            "coordinates": [
+                56.79756829999999,
+                60.642859
+            ],
+            "prompt": "streets+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "Yav5cjMrGKihx1v31puzLA",
+            "coordinates": [
+                56.78795299999999,
+                60.625073
+            ],
+            "prompt": "lanes+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "j_DaSrKOUsYxwbyL__jjQw",
+            "coordinates": [
+                56.8243325,
+                60.6068599
+            ],
+            "prompt": "lanes+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "195nETCqo-381klPwQvfdA",
+            "coordinates": [
+                56.8219331,
+                60.62123260000001
+            ],
+            "prompt": "lanes+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "JC-FgArldNH0aSpwqNWWZw",
+            "coordinates": [
+                56.8582097,
+                60.63748219999999
+            ],
+            "prompt": "lanes+in+Yekaterinburg"
+        },
+        {
+            "pano_id": "TxaCCCR1Lcs4vN7ZXedyKg",
+            "coordinates": [
+                55.78326,
+                49.1149656
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "SBQxRUSA4gFJcg_NWvKVGg",
+            "coordinates": [
+                55.8189562,
+                49.1380612
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "lRiipdQ8t8YmaS9LGrUszQ",
+            "coordinates": [
+                55.78821929999999,
+                49.1429352
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "GdEX-sMKfiLRwAHy2TlZVQ",
+            "coordinates": [
+                55.81646629999999,
+                49.1124665
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "eEKaOqPVZ0dq-EZqCZ5feQ",
+            "coordinates": [
+                55.7765771,
+                49.1163343
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "juR5s4P_TujOhKZ5Y7CTWw",
+            "coordinates": [
+                55.8069326,
+                49.0630499
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "uhcx0npG7lZBzPxfVvjSZQ",
+            "coordinates": [
+                55.7813412,
+                49.146086
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "K_e7_7BQ8BYvt4yQFRlJjA",
+            "coordinates": [
+                55.83348909999999,
+                49.0507834
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "7h2hRj61T_I8HRLMc_1IVQ",
+            "coordinates": [
+                55.7789301,
+                49.1065118
+            ],
+            "prompt": "roads+in+Kazan"
+        },
+        {
+            "pano_id": "XHfkHmWkeM-9P6zOUqEkAA",
+            "coordinates": [
+                55.7889952,
+                49.1238145
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "1ke6sRIe0lAVmWpjEPaKjg",
+            "coordinates": [
+                55.796388,
+                49.138835
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "OcU4stMunPXP4_p3-Lkygw",
+            "coordinates": [
+                55.791314,
+                49.1159366
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "ed-D8EgygA8WYpqsJj1uRQ",
+            "coordinates": [
+                55.79304879999999,
+                49.1175688
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "H31Xd-iCZpFML08yGeNhKw",
+            "coordinates": [
+                55.7930802,
+                49.1167819
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "ZAigxohy1LXvLq4bH9o_cg",
+            "coordinates": [
+                55.7898142,
+                49.1164375
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "nbMPtskcB4HbMVbNgBrPLA",
+            "coordinates": [
+                55.7968418,
+                49.1242014
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "1yZFVuOWtRT5laYmtCa_ag",
+            "coordinates": [
+                55.7882863,
+                49.1233599
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "_IiyD4apQ-dyxfPprx-lKw",
+            "coordinates": [
+                55.79194940000001,
+                49.1118299
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "a9TiWcM2qiw54OcQ4xlOrg",
+            "coordinates": [
+                55.7924003,
+                49.1111869
+            ],
+            "prompt": "streets+in+Kazan"
+        },
+        {
+            "pano_id": "XCccKZgtEkzf7XeXhL9t2A",
+            "coordinates": [
+                55.79935620000001,
+                49.1059989
+            ],
+            "prompt": "lanes+in+Kazan"
+        },
+        {
+            "pano_id": "0keex_o9ymdBU1n_qsAEtQ",
+            "coordinates": [
+                55.7794058,
+                49.1288754
+            ],
+            "prompt": "lanes+in+Kazan"
+        },
+        {
+            "pano_id": "0I6_BKPr6XgCexuKm_HeGQ",
+            "coordinates": [
+                55.7934399,
+                49.1098949
+            ],
+            "prompt": "lanes+in+Kazan"
+        },
+        {
+            "pano_id": "7WZ1rLDyFufopThP0nFekQ",
+            "coordinates": [
+                55.7878944,
+                49.1233294
+            ],
+            "prompt": "lanes+in+Kazan"
+        },
+        {
+            "pano_id": "I7LSvorX3e8bmNUgqDr4SA",
+            "coordinates": [
+                55.7815449,
+                49.1336051
+            ],
+            "prompt": "lanes+in+Kazan"
+        },
+        {
+            "pano_id": "NA6Q9_EnC38uNhGACjoNHQ",
+            "coordinates": [
+                55.7777509,
+                49.1187092
+            ],
+            "prompt": "lanes+in+Kazan"
+        },
+        {
+            "pano_id": "Z8W16oYhOvzY_6n02GJnvA",
+            "coordinates": [
+                56.31909530000001,
+                44.0103149
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "AeJVhe5VvwJoTd63svJwWA",
+            "coordinates": [
+                56.3324709,
+                43.9641897
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "IPelBBurzoXleItwPwqP6g",
+            "coordinates": [
+                56.33298689999999,
+                43.9096696
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "OW4exrYghRU_rnjDgSdf0A",
+            "coordinates": [
+                56.2844417,
+                43.9556988
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "RaqpyObAUzX5V2J2Zf954g",
+            "coordinates": [
+                56.316205,
+                43.9861688
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "P6MlHK_IPTVC4hJm1cV43A",
+            "coordinates": [
+                56.3268684,
+                44.0058793
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "EjtkcEuUfRXNhhdCkj5UGg",
+            "coordinates": [
+                56.31889,
+                43.9268361
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "0FGfpDbzmsS1_XJ-vcjdTA",
+            "coordinates": [
+                56.3273269,
+                43.9850846
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "-P0ayt-FA28tXwy61GgRYg",
+            "coordinates": [
+                56.306456,
+                43.982363
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "Za4sO-e9tSHn-BTHawysug",
+            "coordinates": [
+                56.334274,
+                43.9214139
+            ],
+            "prompt": "roads+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "QhnvxO7XpCAZ0eg6HfsA4w",
+            "coordinates": [
+                56.3147385,
+                43.9884178
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "De-ImziZPPEieUbJSi1n7w",
+            "coordinates": [
+                56.3238889,
+                44.0041667
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "bk3vyhh3-__FrfsObLYegQ",
+            "coordinates": [
+                56.3232863,
+                44.0019496
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "IOykSkAkCZsWCw1_507aXA",
+            "coordinates": [
+                56.3282323,
+                44.0151548
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "vq_f5BUKiGpvCbn3Oumrjw",
+            "coordinates": [
+                56.3161412,
+                43.993359
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "yt3ONJBvlbmr7ZUbg3OBhw",
+            "coordinates": [
+                56.3254516,
+                44.0042554
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "_wgIoLTuI32Pv6awxvsqNw",
+            "coordinates": [
+                56.3295778,
+                43.99444889999999
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "LsIdHWwjucYH9mbkOjTc_w",
+            "coordinates": [
+                56.32952179999999,
+                43.9923412
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "-Aw6aBfZjUSq-6Syve6yzw",
+            "coordinates": [
+                56.32794759999999,
+                43.9873603
+            ],
+            "prompt": "streets+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "Ek_UTA5-Df909HMcBkATJw",
+            "coordinates": [
+                56.2923288,
+                44.0060382
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "j_6c581H2rSVLB6m-kBihQ",
+            "coordinates": [
+                56.3474493,
+                43.8708508
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "RPBu2WGSKZa6IubexKsfLA",
+            "coordinates": [
+                56.2938194,
+                43.9800339
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "LXA2oA9AwjdEF_YHr6nIGg",
+            "coordinates": [
+                56.32988229999999,
+                44.0232959
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "o6WGjbb3kU7YzFKssB7RNg",
+            "coordinates": [
+                56.3208816,
+                43.9283518
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "FXg3pvIIEUjRPIYiVqEgmQ",
+            "coordinates": [
+                56.2923695,
+                44.0061026
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "F6KpDw_UoAd-2IaCsfOfmw",
+            "coordinates": [
+                56.3202218,
+                43.9266679
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "39BK3U8I9kLm97DghxXN1Q",
+            "coordinates": [
+                56.3225053,
+                43.9792569
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "t4yVfNZCszDchRWIiY9LWA",
+            "coordinates": [
+                56.3211704,
+                43.9299366
+            ],
+            "prompt": "lanes+in+Nizhny+Novgorod"
+        },
+        {
+            "pano_id": "I-TE48vGnLnEOKbrQYiNcQ",
+            "coordinates": [
+                55.1928006,
+                61.3823569
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "WRZmFsF6ZGG3JrHTTLDBIw",
+            "coordinates": [
+                55.1902662,
+                61.3586242
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "HP9x8CbpqWoBX4An3YpJAw",
+            "coordinates": [
+                55.17689,
+                61.388311
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "LJxxTbUBIcbI1Otaox3GsA",
+            "coordinates": [
+                55.1915672,
+                61.38323380000001
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "fTR11Y_hh5pH-RH4AbzNkQ",
+            "coordinates": [
+                55.1972733,
+                61.36344330000001
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "-NLAaoiUgZ9US7S-5dU52w",
+            "coordinates": [
+                55.159208,
+                61.3762898
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "jeMfSNPMNK3xAq0T6Msafw",
+            "coordinates": [
+                55.1707462,
+                61.45189740000001
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "EH4F-H-4MdNjEBwjbpQSGw",
+            "coordinates": [
+                55.1668269,
+                61.4590217
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "Vi4MHUKG9vcn3rZvxqFfCw",
+            "coordinates": [
+                55.1693594,
+                61.3773752
+            ],
+            "prompt": "roads+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "QtPWgtB7cHsFYYv4Q9voWg",
+            "coordinates": [
+                55.16594809999999,
+                61.45760130000001
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "5fDpjD0QQFH_nx70CSltmQ",
+            "coordinates": [
+                55.181093,
+                61.29256760000001
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "N6faqECaNkOKnnYC55XmxQ",
+            "coordinates": [
+                55.17093999999999,
+                61.3552
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "WRrTbz2veog8Od1gtwSlAA",
+            "coordinates": [
+                55.1614417,
+                61.2967941
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "4oIVIkL_aEe8efe05cqDYA",
+            "coordinates": [
+                55.1606755,
+                61.4234156
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "cp445R9pQFvIwwmzxP2MMQ",
+            "coordinates": [
+                55.1600505,
+                61.3691471
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "qKR2wZVX-phBCAU0LxbMRw",
+            "coordinates": [
+                55.159462,
+                61.3839881
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "R1vVWb4Q6ryiX4Dw-YEbIA",
+            "coordinates": [
+                55.1698081,
+                61.4433814
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "joSnnSb0jMyQWtngKLr3eA",
+            "coordinates": [
+                55.1701095,
+                61.5321947
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "1hZhOtTxmjiWAz-oHO9A0A",
+            "coordinates": [
+                55.1557064,
+                61.3654339
+            ],
+            "prompt": "streets+in+Chelyabinsk"
+        },
+        {
+            "pano_id": "8ZG0pyXrmCDWJuFX84ecpg",
+            "coordinates": [
+                55.2078929,
+                61.2978789
+            ],
+            "prompt": "lanes+in+Chelyabinsk"
         }
     ]
 }
