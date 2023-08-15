@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 1115,
+    "download_descriptor": 1214,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 396,
+    "prompt_descriptor": 432,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -8925,6 +8925,798 @@
                 8.2764163
             ],
             "prompt": "roads+in+Switzerland"
+        },
+        {
+            "pano_id": "WSfbcwwZzosXbYC2dyfyFg",
+            "coordinates": [
+                47.4784256,
+                6.897087
+            ],
+            "prompt": "streets+in+Switzerland"
+        },
+        {
+            "pano_id": "tbqnjYVMJQIBhLREprhrJQ",
+            "coordinates": [
+                46.3826692,
+                6.238918
+            ],
+            "prompt": "streets+in+Switzerland"
+        },
+        {
+            "pano_id": "IX9hysm6G14BZ66Pf_3FXw",
+            "coordinates": [
+                46.2203488,
+                6.0975839
+            ],
+            "prompt": "highways+in+Switzerland"
+        },
+        {
+            "pano_id": "U8iquluQVLpC84xfwYaR_Q",
+            "coordinates": [
+                59.5075213,
+                15.9932625
+            ],
+            "prompt": "roads+in+Sweden"
+        },
+        {
+            "pano_id": "sm2-eS-RWYS2FAkG8zA28Q",
+            "coordinates": [
+                58.4210973,
+                15.6222106
+            ],
+            "prompt": "roads+in+Sweden"
+        },
+        {
+            "pano_id": "r5okZ3wGUJbUCFSHP2p-LA",
+            "coordinates": [
+                59.3230076,
+                18.0727666
+            ],
+            "prompt": "streets+in+Sweden"
+        },
+        {
+            "pano_id": "ADazKUpDxi3kHkAO59k07A",
+            "coordinates": [
+                57.6936907,
+                11.9894429
+            ],
+            "prompt": "streets+in+Sweden"
+        },
+        {
+            "pano_id": "3Yi_zvBfS15OTHV9BS4JPw",
+            "coordinates": [
+                60.6734076,
+                17.1426712
+            ],
+            "prompt": "streets+in+Sweden"
+        },
+        {
+            "pano_id": "_H_3MlBZ2igwpDeo3Z24rQ",
+            "coordinates": [
+                58.4328689,
+                15.6118869
+            ],
+            "prompt": "highways+in+Sweden"
+        },
+        {
+            "pano_id": "wnSwhd0cPNqPqel-iQ2kwg",
+            "coordinates": [
+                59.7987228,
+                10.821669
+            ],
+            "prompt": "roads+in+Norway"
+        },
+        {
+            "pano_id": "qeVIz8DEyTH7pMKGSyL5qA",
+            "coordinates": [
+                61.9622484,
+                7.390409099999999
+            ],
+            "prompt": "roads+in+Norway"
+        },
+        {
+            "pano_id": "spoYOKSCObKsWzDtzsql6A",
+            "coordinates": [
+                59.92081090000001,
+                10.6821409
+            ],
+            "prompt": "roads+in+Norway"
+        },
+        {
+            "pano_id": "RjcGwdBQPYu78XRxs58yEA",
+            "coordinates": [
+                59.90825100000001,
+                10.814321
+            ],
+            "prompt": "roads+in+Norway"
+        },
+        {
+            "pano_id": "W0KFNYAg1uTxRXhyLuu17g",
+            "coordinates": [
+                59.4353145,
+                10.6649636
+            ],
+            "prompt": "roads+in+Norway"
+        },
+        {
+            "pano_id": "lRTcR17fnQmw-LUl8pspGg",
+            "coordinates": [
+                60.6356206,
+                25.322014
+            ],
+            "prompt": "roads+in+Finland"
+        },
+        {
+            "pano_id": "bnk7wFI4jbQGVj7MiEXaww",
+            "coordinates": [
+                60.16945800000001,
+                24.933253
+            ],
+            "prompt": "avenue+in+Finland"
+        },
+        {
+            "pano_id": "I9OpwU27eA85_Udy0sP1uw",
+            "coordinates": [
+                60.16496189999999,
+                24.9425934
+            ],
+            "prompt": "avenue+in+Finland"
+        },
+        {
+            "pano_id": "0UL-Vd6bSi_ybaMQBtF4Jw",
+            "coordinates": [
+                60.99569509999999,
+                24.4647283
+            ],
+            "prompt": "avenue+in+Finland"
+        },
+        {
+            "pano_id": "59aCWwbbSf4YLqxVzF3gIQ",
+            "coordinates": [
+                60.39513449999999,
+                25.6618122
+            ],
+            "prompt": "highways+in+Finland"
+        },
+        {
+            "pano_id": "y2FbiFMtofhKyn87diDDRQ",
+            "coordinates": [
+                68.4207517,
+                27.4112849
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "azZctQbo6rFMu9A0_ZhvrA",
+            "coordinates": [
+                60.18194140000001,
+                24.924966
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "DUdrRnXenUutwPmZqcv0gw",
+            "coordinates": [
+                65.03336329999999,
+                25.4653891
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "2VipGa_mcsfv9rNVcwgUsQ",
+            "coordinates": [
+                60.21036309999999,
+                24.8792337
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "t4ZTr-eIR_HEVNqA2hR_Pg",
+            "coordinates": [
+                62.78356109999999,
+                22.8523674
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "pVGx2d7ThVEJwJQkkjR9MA",
+            "coordinates": [
+                62.26525530000001,
+                25.7966384
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "8p-296BCWLjWsHyMKMTADA",
+            "coordinates": [
+                64.220079,
+                27.7254275
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "_caEkBixluVDLwZohRy-tA",
+            "coordinates": [
+                61.5514755,
+                23.5915966
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "3ammhLWUq06BgmXk30g__A",
+            "coordinates": [
+                60.18666009999999,
+                24.9475581
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "6pQjE_95-YuqkHxwb9wJ2w",
+            "coordinates": [
+                61.1320735,
+                21.4984525
+            ],
+            "prompt": "alleys+in+Finland"
+        },
+        {
+            "pano_id": "FdP4hDbmUOVukGI-8nn1Hg",
+            "coordinates": [
+                56.4174847,
+                10.9223237
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "7opqb2zVqqBXEAVAiWOnrw",
+            "coordinates": [
+                56.380311,
+                8.617286
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "XBFokQpl7Xf60Ar6kGPUGQ",
+            "coordinates": [
+                55.794816,
+                9.677626
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "R3PosTc3VSCh0KJ0rVkW2Q",
+            "coordinates": [
+                55.6777861,
+                12.5709047
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "7k2tPqNVIh56X_8Ch7WsRQ",
+            "coordinates": [
+                56.0684364,
+                9.8665354
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "XGPbfwhichC3Ba3F3VbyDA",
+            "coordinates": [
+                55.4753218,
+                11.5448146
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "4OgpMsuPVnCyTrvTCx3jdA",
+            "coordinates": [
+                55.46465629999999,
+                8.4359184
+            ],
+            "prompt": "roads+in+Denmark"
+        },
+        {
+            "pano_id": "OETUXDtzwOhWlUtFb3t3eQ",
+            "coordinates": [
+                55.6847874,
+                12.5526399
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "KYu94uTtvmo0qyloRZJAhg",
+            "coordinates": [
+                55.6777233,
+                12.5334087
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "oz7YKHYMi841Q-cE0-P9Zg",
+            "coordinates": [
+                55.613962,
+                12.3558622
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "_2dtnNiGhR9QnSwD7-MnZA",
+            "coordinates": [
+                55.70676599999999,
+                12.552224
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "CwlXO8VR-ue5qNXO4pnweQ",
+            "coordinates": [
+                55.69635419999999,
+                12.5805077
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "xKWhfbcqkX4pBk7KZ-wqIA",
+            "coordinates": [
+                56.142666,
+                10.20209
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "Eujhjj6e7JCyXKLuvOQ-2w",
+            "coordinates": [
+                56.1401208,
+                10.2045252
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "bDIBbXXj7NbIf1ceSvuiaQ",
+            "coordinates": [
+                55.6557884,
+                12.3946133
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "MK9PBIH-P-IivZcfZIswdg",
+            "coordinates": [
+                55.7004263,
+                12.538835
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "zj8wXA2md5t-AD94LqqH2Q",
+            "coordinates": [
+                55.679681,
+                12.457771
+            ],
+            "prompt": "avenue+in+Denmark"
+        },
+        {
+            "pano_id": "E6-wrK5s368cxnBFuvvAng",
+            "coordinates": [
+                55.6642561,
+                12.5183153
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "BNXZ6sgA0_PAqSrVdsSK4A",
+            "coordinates": [
+                55.6698731,
+                12.5637846
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "bki5rtp5pqLSGquq6et_Gw",
+            "coordinates": [
+                55.6998462,
+                12.5153173
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "LhdozR38bGd3d1lyV_mrPA",
+            "coordinates": [
+                55.6670196,
+                12.3874261
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "F9lohE6IxU48usqsrS9saQ",
+            "coordinates": [
+                56.1867482,
+                9.548204199999999
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "p3OUztFoVoQf66gtl2-QAA",
+            "coordinates": [
+                55.7065042,
+                9.5296832
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "9QtYFZ2FIIVJddtPvdRa0A",
+            "coordinates": [
+                54.9233065,
+                9.8092048
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "RY92SgEZcUHZ1S9JxRTy1Q",
+            "coordinates": [
+                55.2541214,
+                9.5043509
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "1PbhVRj3Fdp3eHEjVSG9_Q",
+            "coordinates": [
+                55.32900739999999,
+                11.9574026
+            ],
+            "prompt": "alleys+in+Denmark"
+        },
+        {
+            "pano_id": "Yzu3LZuKJOSJg1WUpHixhQ",
+            "coordinates": [
+                52.3603272,
+                4.9297454
+            ],
+            "prompt": "roads+in+Netherlands"
+        },
+        {
+            "pano_id": "TNLX36Xa_oSmw0CVw6HxMg",
+            "coordinates": [
+                52.3601434,
+                4.9386448
+            ],
+            "prompt": "roads+in+Netherlands"
+        },
+        {
+            "pano_id": "Pcd7VdvGx1sUM9AkrVq1fw",
+            "coordinates": [
+                52.3153411,
+                4.8505988
+            ],
+            "prompt": "roads+in+Netherlands"
+        },
+        {
+            "pano_id": "RXBXp2vtWKFzDro7Jir2Ug",
+            "coordinates": [
+                52.2965325,
+                4.9772626
+            ],
+            "prompt": "roads+in+Netherlands"
+        },
+        {
+            "pano_id": "YdMcn8PVcLJTjW8qQTgaRQ",
+            "coordinates": [
+                52.3701969,
+                4.8860511
+            ],
+            "prompt": "streets+in+Netherlands"
+        },
+        {
+            "pano_id": "v5MEFtLckYbff5QfTyDuIA",
+            "coordinates": [
+                52.37230419999999,
+                4.8891365
+            ],
+            "prompt": "streets+in+Netherlands"
+        },
+        {
+            "pano_id": "QtAaUbY1SvijtndRVmg8_Q",
+            "coordinates": [
+                43.4706189,
+                11.8463146
+            ],
+            "prompt": "roads+in+Italy"
+        },
+        {
+            "pano_id": "hv2NUr9PVUk2yYoXuwWWFQ",
+            "coordinates": [
+                41.07657349999999,
+                14.3021253
+            ],
+            "prompt": "highways+in+Italy"
+        },
+        {
+            "pano_id": "Nntlu2bBILEQQ2A_NysYUQ",
+            "coordinates": [
+                44.4816845,
+                11.4263624
+            ],
+            "prompt": "highways+in+Italy"
+        },
+        {
+            "pano_id": "gMMM7pkO9aXaUpYyFke3tg",
+            "coordinates": [
+                64.1463661,
+                -21.9378766
+            ],
+            "prompt": "streets+in+Iceland"
+        },
+        {
+            "pano_id": "LHd49iKDd5saIiq3OseSKA",
+            "coordinates": [
+                64.1433418,
+                -21.9168154
+            ],
+            "prompt": "streets+in+Iceland"
+        },
+        {
+            "pano_id": "3-RVfh4-qJxz6gPlWpwm8A",
+            "coordinates": [
+                64.1459395,
+                -21.9328167
+            ],
+            "prompt": "streets+in+Iceland"
+        },
+        {
+            "pano_id": "K7OJOEyszyKnkgRxXZlY-Q",
+            "coordinates": [
+                37.9906574,
+                23.7311993
+            ],
+            "prompt": "roads+in+Greece"
+        },
+        {
+            "pano_id": "StpQJzaefsn_VNXKeGfRQw",
+            "coordinates": [
+                39.7269224,
+                19.9049345
+            ],
+            "prompt": "streets+in+Greece"
+        },
+        {
+            "pano_id": "Zqdlykrj4b5dXcxLOq9qbQ",
+            "coordinates": [
+                37.9667442,
+                23.7282947
+            ],
+            "prompt": "streets+in+Greece"
+        },
+        {
+            "pano_id": "62YxiiPzUaFARKSUke1S8g",
+            "coordinates": [
+                37.9755008,
+                23.6696295
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "lBxXQ5gjU9OOmX_6Evle0A",
+            "coordinates": [
+                37.8121835,
+                20.8732314
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "6cAddfgVFTtUi1UdUnmQSg",
+            "coordinates": [
+                38.0203473,
+                23.7988332
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "RWsYyxXUx0uqr6AmHV2SBg",
+            "coordinates": [
+                39.501971,
+                20.263787
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "kmMlE8zCiMW4E59UDkACcQ",
+            "coordinates": [
+                37.8618205,
+                23.7493631
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "sNQcUF85N_9eLhK_Vm0uag",
+            "coordinates": [
+                38.0089548,
+                23.70613
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "iyD5N-UF2oFwIXVT_6dFkw",
+            "coordinates": [
+                37.9976642,
+                23.732925
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "DCvoodjm7GsqItIaYurOzQ",
+            "coordinates": [
+                35.3391039,
+                25.142348
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "e9StQjDQAUfHYq8_maxqKQ",
+            "coordinates": [
+                37.4427937,
+                24.942098
+            ],
+            "prompt": "lanes+in+Greece"
+        },
+        {
+            "pano_id": "GyTApVTiNF2f0naIJ1KOdg",
+            "coordinates": [
+                50.08067699999999,
+                8.230079000000002
+            ],
+            "prompt": "streets+in+Germany"
+        },
+        {
+            "pano_id": "oe3NIzvHOPAboin3pq1kyw",
+            "coordinates": [
+                49.4620527,
+                8.4939237
+            ],
+            "prompt": "highways+in+Germany"
+        },
+        {
+            "pano_id": "pPfargFKDJNJtDuC-AEafg",
+            "coordinates": [
+                49.2019211,
+                3.7640804
+            ],
+            "prompt": "roads+in+France"
+        },
+        {
+            "pano_id": "cOE1pesqvUYbIe3IHlMSdA",
+            "coordinates": [
+                43.6042463,
+                3.895897199999999
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "aRvJwzj7lTLB-24MlQscpA",
+            "coordinates": [
+                48.8924295,
+                2.3209683
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "AOuAs5sab_5bwvL8Sj_f1Q",
+            "coordinates": [
+                48.8659002,
+                2.2028051
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "fts2XXCFcVWEwEG086V2bg",
+            "coordinates": [
+                49.1819892,
+                -0.3751632
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "TScO_uqr11hhr3pzWtZGSg",
+            "coordinates": [
+                48.6056275,
+                7.756144199999999
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "NZ9BRkeo4Nd9KXQliLFwRQ",
+            "coordinates": [
+                49.2881897,
+                -0.116607
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "jkuiSFUGSNeU9TEQWc9DBQ",
+            "coordinates": [
+                48.8706332,
+                2.3418131
+            ],
+            "prompt": "streets+in+France"
+        },
+        {
+            "pano_id": "MaVPuuiXsoQj2PwhYxtPPw",
+            "coordinates": [
+                45.5890121,
+                2.4030812
+            ],
+            "prompt": "highways+in+France"
+        },
+        {
+            "pano_id": "O2xMwmS34BF_jO25FAT82A",
+            "coordinates": [
+                45.5597911,
+                4.2430255
+            ],
+            "prompt": "highways+in+France"
+        },
+        {
+            "pano_id": "KbOU7eQrVop0bRIWjp0wug",
+            "coordinates": [
+                53.5155579,
+                -8.2222287
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "Y6b9ghwZPo4attcjeU7S-A",
+            "coordinates": [
+                53.55136,
+                -6.21244
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "rCsEX1KspjuzJM_iP9n4FA",
+            "coordinates": [
+                54.9883993,
+                -7.300134799999999
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "pxJwxF8bInRasZq4t8JGsw",
+            "coordinates": [
+                53.75274,
+                -6.88023
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "LCUw2iUZrXedCR2bEs4GvQ",
+            "coordinates": [
+                52.65024,
+                -8.41226
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "961J04ctF3EYN_37DLGHnA",
+            "coordinates": [
+                53.5487,
+                -8.898719999999999
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "k3JFNJ9V5GUaCjPPxjYEpw",
+            "coordinates": [
+                53.2310588,
+                -6.6415555
+            ],
+            "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "rfuxamRi9rRQIF6nUqicGA",
+            "coordinates": [
+                54.6393688,
+                -5.6647377
+            ],
+            "prompt": "roads+in+Ireland"
         }
     ]
 }
