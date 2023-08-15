@@ -4,6 +4,8 @@ import io
 import json
 import requests
 from PIL import Image
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
 from . import StreetViewSamplerConstants as constants
 from .Sample import Sample
 
@@ -211,3 +213,16 @@ class StreetViewSampler:
                 self.samples.pop(i)
             else:
                 i += 1
+    
+    def draw_samples(self):
+        """Draws samples on world map
+        """
+        map = Basemap(projection='mill', llcrnrlat=-90, urcrnrlat=90, llcrnrlon=-180, urcrnrlon=180)
+        map.drawcoastlines()
+        map.drawcountries()
+        coordinates = [sample.coordinates for sample in self.samples]
+        for lat, lon in coordinates:
+            x, y = map(lon, lat)
+            map.plot(x, y, 'ro', markersize=1)
+        plt.title('Samples')
+        plt.show()

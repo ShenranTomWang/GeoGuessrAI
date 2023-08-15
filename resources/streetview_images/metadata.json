@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 826,
+    "download_descriptor": 924,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 307,
+    "prompt_descriptor": 357,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -6613,6 +6613,790 @@
                 102.6044146
             ],
             "prompt": "streets+in+Laos"
+        },
+        {
+            "pano_id": "oqWF6z7pvicVSYry0OLcRw",
+            "coordinates": [
+                17.9579391,
+                102.6299896
+            ],
+            "prompt": "lanes+in+Laos"
+        },
+        {
+            "pano_id": "8MmzvlmZ9J4A8mM0h1LN5w",
+            "coordinates": [
+                17.9673127,
+                102.6243943
+            ],
+            "prompt": "lanes+in+Laos"
+        },
+        {
+            "pano_id": "4notSGzLcbFCOlc2v4SoQQ",
+            "coordinates": [
+                19.8919047,
+                102.1369727
+            ],
+            "prompt": "lanes+in+Laos"
+        },
+        {
+            "pano_id": "ptOVcdlYi8mFAvP0eTMuQw",
+            "coordinates": [
+                17.9721501,
+                102.6160698
+            ],
+            "prompt": "lanes+in+Laos"
+        },
+        {
+            "pano_id": "TN07y-7UM6OvTAcQ6ivA9g",
+            "coordinates": [
+                23.7911355,
+                90.40056620000001
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "UlZExAfTKSgcGhv1FJphkg",
+            "coordinates": [
+                23.7275553,
+                90.4148911
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "LF21g80CgFHxUhn_h4EU4g",
+            "coordinates": [
+                23.7666371,
+                90.3895929
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "Eoe5WnGRelLn1RolGx0REA",
+            "coordinates": [
+                23.755907,
+                90.3668472
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "bV_J1LRi5NSoN2mYbHHHLw",
+            "coordinates": [
+                23.98979,
+                90.3829698
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "ETGdHfKYnURblke92ixCMw",
+            "coordinates": [
+                23.7659592,
+                90.4077969
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "wz3lIQYvcbytF9ntQ8EBUg",
+            "coordinates": [
+                23.6839586,
+                90.4229019
+            ],
+            "prompt": "roads+in+Bangladesh"
+        },
+        {
+            "pano_id": "swDQywPtdXTife5kXMei8A",
+            "coordinates": [
+                23.7902023,
+                90.405137
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "A1Nk-WJeMCuDxtTEyKrNCA",
+            "coordinates": [
+                23.7032713,
+                90.44850339999999
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "HbhcbhsegCBhHDi798xTGg",
+            "coordinates": [
+                23.7438254,
+                90.4425644
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "sQ2AQPeulPmTfXr68JQljw",
+            "coordinates": [
+                23.7614236,
+                90.41763340000001
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "Oq8bnNMx_T1jvlc5igVeSg",
+            "coordinates": [
+                23.7743103,
+                90.36535909999999
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "rEyKQGx53PCSx7FZEbCP4Q",
+            "coordinates": [
+                23.7420332,
+                90.4102661
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "JpJOUCcfw1woL23Ph1P9dw",
+            "coordinates": [
+                23.763815,
+                90.3623471
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "G_Tvn-_nC0tkuk06qjd16g",
+            "coordinates": [
+                23.7446619,
+                90.3720769
+            ],
+            "prompt": "streets+in+Bangladesh"
+        },
+        {
+            "pano_id": "ooady7YMLzrOfkvgkJaKbg",
+            "coordinates": [
+                23.6209127,
+                90.3367044
+            ],
+            "prompt": "highways+in+Bangladesh"
+        },
+        {
+            "pano_id": "iwMtVscOp8FC4nneqJeDtw",
+            "coordinates": [
+                22.8798011,
+                89.51889249999999
+            ],
+            "prompt": "highways+in+Bangladesh"
+        },
+        {
+            "pano_id": "kbFRlE_UQ-FQglQEDUYsqw",
+            "coordinates": [
+                23.927358,
+                90.7011515
+            ],
+            "prompt": "highways+in+Bangladesh"
+        },
+        {
+            "pano_id": "v2qmu2mET9OaKrK_VPSwrQ",
+            "coordinates": [
+                24.7653193,
+                90.39521049999999
+            ],
+            "prompt": "highways+in+Bangladesh"
+        },
+        {
+            "pano_id": "DPV5eB7rUQW1x2c8dioeOw",
+            "coordinates": [
+                31.78123309999999,
+                35.2211278
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "-w7DjMb9msuRPL3uiiBjZg",
+            "coordinates": [
+                32.021004,
+                34.8607933
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "FvDr3Ijxaa9SHZQb_jTRuQ",
+            "coordinates": [
+                32.0054633,
+                34.7555918
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "VNCoJgLOLrOFZA4FRStcGA",
+            "coordinates": [
+                32.1637558,
+                34.8145283
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "N7psZiH7xL4FTEgCoyYeuw",
+            "coordinates": [
+                31.6673231,
+                34.5624766
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "Bll8ysYS268BqnLUaMZNwg",
+            "coordinates": [
+                32.1503041,
+                34.8293795
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "Wic4RObihckIEPnn7metkw",
+            "coordinates": [
+                31.7993619,
+                34.6530115
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "RVk9Y6dZxZgY-z3FHRwobg",
+            "coordinates": [
+                32.0368156,
+                34.7579969
+            ],
+            "prompt": "roads+in+Israel"
+        },
+        {
+            "pano_id": "FV6YIsF9PKFkp8lWQvj8JQ",
+            "coordinates": [
+                32.0760441,
+                34.776927
+            ],
+            "prompt": "streets+in+Israel"
+        },
+        {
+            "pano_id": "uNutaqXm3BdDaeO0CxJExg",
+            "coordinates": [
+                31.7842999,
+                35.2142304
+            ],
+            "prompt": "highways+in+Israel"
+        },
+        {
+            "pano_id": "x72D4FWBxH8deYEAN8FqwA",
+            "coordinates": [
+                25.3119288,
+                55.5428882
+            ],
+            "prompt": "roads+in+The+United+Arab+Emirates"
+        },
+        {
+            "pano_id": "L4dN0WYfoK2k_u6Nqd80ig",
+            "coordinates": [
+                25.2341284,
+                55.3564564
+            ],
+            "prompt": "roads+in+The+United+Arab+Emirates"
+        },
+        {
+            "pano_id": "EQgZONf8AIQf-kz0Z-TVYA",
+            "coordinates": [
+                25.2827149,
+                55.3514476
+            ],
+            "prompt": "streets+in+The+United+Arab+Emirates"
+        },
+        {
+            "pano_id": "1D8pCa8keDPuixTPSA4zng",
+            "coordinates": [
+                25.2673924,
+                55.3183328
+            ],
+            "prompt": "streets+in+The+United+Arab+Emirates"
+        },
+        {
+            "pano_id": "5Ce0jSwHwnVYhA-ytOfaNA",
+            "coordinates": [
+                25.1339282,
+                55.1863533
+            ],
+            "prompt": "streets+in+The+United+Arab+Emirates"
+        },
+        {
+            "pano_id": "tAspUFns4XHfowSAITNLHg",
+            "coordinates": [
+                47.9144213,
+                106.8315015
+            ],
+            "prompt": "roads+in+Mongolia"
+        },
+        {
+            "pano_id": "7iUxduOemS3SQuEjfKhL9g",
+            "coordinates": [
+                47.9090045,
+                106.9116526
+            ],
+            "prompt": "roads+in+Mongolia"
+        },
+        {
+            "pano_id": "ljzR3Rf_Savm4fdsABfhRg",
+            "coordinates": [
+                47.91616759999999,
+                106.9188649
+            ],
+            "prompt": "streets+in+Mongolia"
+        },
+        {
+            "pano_id": "wBeN71j924XVhgFBqV04NA",
+            "coordinates": [
+                47.9136409,
+                106.9217528
+            ],
+            "prompt": "streets+in+Mongolia"
+        },
+        {
+            "pano_id": "1aScXSlQ9lIvnxsIBJEFug",
+            "coordinates": [
+                47.9268048,
+                106.9446505
+            ],
+            "prompt": "streets+in+Mongolia"
+        },
+        {
+            "pano_id": "KJORtNwSOFx26onIcbZFKA",
+            "coordinates": [
+                47.91646859999999,
+                106.9198536
+            ],
+            "prompt": "streets+in+Mongolia"
+        },
+        {
+            "pano_id": "DPAM04_VB_cJam776C7puw",
+            "coordinates": [
+                47.9253369,
+                106.9180228
+            ],
+            "prompt": "streets+in+Mongolia"
+        },
+        {
+            "pano_id": "xw_FPQxJuIMozVA2DHzQDg",
+            "coordinates": [
+                47.9090071,
+                106.9234786
+            ],
+            "prompt": "lanes+in+Mongolia"
+        },
+        {
+            "pano_id": "jcYsc5dlvZAKqvAQtkBNkA",
+            "coordinates": [
+                47.8943488,
+                106.8810075
+            ],
+            "prompt": "lanes+in+Mongolia"
+        },
+        {
+            "pano_id": "rXSaDF9DEvp6uEF7YRgd0g",
+            "coordinates": [
+                46.2619868,
+                102.779876
+            ],
+            "prompt": "lanes+in+Mongolia"
+        },
+        {
+            "pano_id": "fdsJOW4qn-Gwct5v_Icatw",
+            "coordinates": [
+                34.144221,
+                -83.2385273
+            ],
+            "prompt": "roads+in+Georgia"
+        },
+        {
+            "pano_id": "97Qy_bUhteuWMWIM0fUVTQ",
+            "coordinates": [
+                33.7409036,
+                -84.41308099999999
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "DgxkzR0wfVXXGdaNACj8qA",
+            "coordinates": [
+                33.7726046,
+                -84.4037706
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "LtYl7xtwBCMUW-_x1ZipvA",
+            "coordinates": [
+                33.7716005,
+                -84.3863767
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "0dEkX8ItMsdx9JiFb6xC-g",
+            "coordinates": [
+                33.5313636,
+                -82.12369489999999
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "KkAN-yEkFftK1fCIk0tbUA",
+            "coordinates": [
+                33.8026468,
+                -84.42152449999999
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "-bgNxfwTrp3ENd4kFwywVw",
+            "coordinates": [
+                32.0008721,
+                -83.8607923
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "oRqg-mVw72wqtbXcA-XZhg",
+            "coordinates": [
+                33.8429233,
+                -84.3793008
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "mkQp2tHnk3VsMYbjY6kicg",
+            "coordinates": [
+                33.8145961,
+                -84.31065620000001
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "iExRmZ8fLBBPRfQSw1dO-w",
+            "coordinates": [
+                32.0037679,
+                -81.1016167
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "tlUoSHQMW1_xTshwSUNSIw",
+            "coordinates": [
+                32.5575846,
+                -84.2371084
+            ],
+            "prompt": "streets+in+Georgia"
+        },
+        {
+            "pano_id": "jHnM5Q5dRCxCPbqRvpqSvA",
+            "coordinates": [
+                36.8562435,
+                30.7441403
+            ],
+            "prompt": "streets+in+Turkey"
+        },
+        {
+            "pano_id": "AjAngZroJ6LQatJQB69VXA",
+            "coordinates": [
+                38.4589189,
+                27.0964686
+            ],
+            "prompt": "streets+in+Turkey"
+        },
+        {
+            "pano_id": "0M7XBlK-NhjJ7SQE4vWNvw",
+            "coordinates": [
+                38.7233315,
+                35.49791
+            ],
+            "prompt": "streets+in+Turkey"
+        },
+        {
+            "pano_id": "3DkhVOfuzDXAfmkE47wY7g",
+            "coordinates": [
+                55.812075,
+                37.62598699999999
+            ],
+            "prompt": "roads+in+Moscow"
+        },
+        {
+            "pano_id": "vikdrZPkRtYkwXcAvJksNA",
+            "coordinates": [
+                55.7744306,
+                37.6667468
+            ],
+            "prompt": "roads+in+Moscow"
+        },
+        {
+            "pano_id": "n0QlbavvItC9sQGaH6Q9SA",
+            "coordinates": [
+                55.7316152,
+                37.5715283
+            ],
+            "prompt": "roads+in+Moscow"
+        },
+        {
+            "pano_id": "661RaYQkZTsAnZJkvyMYjA",
+            "coordinates": [
+                55.67730659999999,
+                37.509091
+            ],
+            "prompt": "roads+in+Moscow"
+        },
+        {
+            "pano_id": "jLoTDXFyK83tbMn_YqVm7A",
+            "coordinates": [
+                55.8017572,
+                37.5301194
+            ],
+            "prompt": "roads+in+Moscow"
+        },
+        {
+            "pano_id": "8qFEr0Awaer-VcXY_pzWDQ",
+            "coordinates": [
+                55.7376573,
+                37.5957443
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "FTkxlrHA2F-l4Ao5s2SF6g",
+            "coordinates": [
+                55.7341145,
+                37.5644498
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "rGRDNot4LyhEGr8Seak5bQ",
+            "coordinates": [
+                55.7782458,
+                37.598667
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "V4sf3d4Pd3LBYZ6iXd71hg",
+            "coordinates": [
+                55.661251,
+                37.5774859
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "GfeJHbOc1eYw_4fvVg1lbg",
+            "coordinates": [
+                55.7563089,
+                37.6213044
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "uDKtzv92uth_KqNdWDCeXA",
+            "coordinates": [
+                55.805527,
+                37.539485
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "R9oHnaxezIr3XSmuiyi98A",
+            "coordinates": [
+                55.7758432,
+                37.6771981
+            ],
+            "prompt": "streets+in+Moscow"
+        },
+        {
+            "pano_id": "Jm_BNRz41O4E3klAtMi4CA",
+            "coordinates": [
+                55.8041838,
+                37.5617493
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "gc4259BMzZkfRgkBXYC4sQ",
+            "coordinates": [
+                55.74950639999999,
+                37.6054745
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "4FjlfSFFHA9h9h--oovGQg",
+            "coordinates": [
+                55.74450880000001,
+                37.5883361
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "Cz3oVk-dYu1Y5yr4XGlKtw",
+            "coordinates": [
+                55.7513334,
+                37.6072542
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "RbH_f4QeAHYx5EP9gsqtsw",
+            "coordinates": [
+                55.75374919999999,
+                37.6056607
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "zLDNYuH-ElS7T3x0XbCaOw",
+            "coordinates": [
+                55.7477123,
+                37.588294
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "moLckWVxgc1a6khU8QNT3Q",
+            "coordinates": [
+                55.755047,
+                37.606144
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "cC79sgJ4KMSMgemJ0LsITw",
+            "coordinates": [
+                55.758945,
+                37.6396316
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "m0Sts-J56_ijOh-LgRKBaA",
+            "coordinates": [
+                55.7410635,
+                37.6267169
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "cGOel6dxQTGq_snnZwsPLw",
+            "coordinates": [
+                55.7459895,
+                37.6022092
+            ],
+            "prompt": "lanes+in+Moscow"
+        },
+        {
+            "pano_id": "QvwX7sgXYRVu0CS6oX6S8w",
+            "coordinates": [
+                27.7848672,
+                -82.68019749999999
+            ],
+            "prompt": "roads+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "V7CeIogshUZc2CXf3_4SWA",
+            "coordinates": [
+                27.7710417,
+                -82.636262
+            ],
+            "prompt": "roads+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "sAIbhFvgojQaQT29Ao-mTg",
+            "coordinates": [
+                27.7773668,
+                -82.63739249999999
+            ],
+            "prompt": "roads+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "gIKkzUSVJrrW7WXd0wMhzA",
+            "coordinates": [
+                27.8300717,
+                -82.6458069
+            ],
+            "prompt": "lanes+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "EiihjbfdzYx3KgVLzjBxCw",
+            "coordinates": [
+                27.8641537,
+                -82.62768849999999
+            ],
+            "prompt": "lanes+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "iA1f6a3OPqBc6_FZsxuvGQ",
+            "coordinates": [
+                27.75468,
+                -82.7379832
+            ],
+            "prompt": "lanes+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "xoRBaOyn6fG08A3jvi8vrw",
+            "coordinates": [
+                27.8654797,
+                -82.6285612
+            ],
+            "prompt": "lanes+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "24dG-dly2lwAAAQqr7ZZsQ",
+            "coordinates": [
+                27.7760616,
+                -82.6320356
+            ],
+            "prompt": "lanes+in+Saint+Petersburg"
+        },
+        {
+            "pano_id": "Xz8QDOs5OKSapqHd29EpEg",
+            "coordinates": [
+                54.9538005,
+                82.902114
+            ],
+            "prompt": "roads+in+Novosibirsk"
+        },
+        {
+            "pano_id": "VVzlLdpw2J1cFb24YXMFHA",
+            "coordinates": [
+                55.02630259999999,
+                82.9207473
+            ],
+            "prompt": "roads+in+Novosibirsk"
+        },
+        {
+            "pano_id": "bfqQiJqO7SISjXL7goVy3Q",
+            "coordinates": [
+                54.997917,
+                82.85190999999999
+            ],
+            "prompt": "roads+in+Novosibirsk"
+        },
+        {
+            "pano_id": "kyLUGt9XLTpRoA8601fmWA",
+            "coordinates": [
+                54.969052,
+                82.801082
+            ],
+            "prompt": "roads+in+Novosibirsk"
+        },
+        {
+            "pano_id": "_YjWG1jsHrB720FrE5b0PQ",
+            "coordinates": [
+                55.02693559999999,
+                82.9290291
+            ],
+            "prompt": "roads+in+Novosibirsk"
+        },
+        {
+            "pano_id": "n6_6boreW3CqsxiFq0qfIg",
+            "coordinates": [
+                54.9770623,
+                82.87208609999999
+            ],
+            "prompt": "roads+in+Novosibirsk"
         }
     ]
 }
