@@ -1,8 +1,8 @@
 {
-    "download_descriptor": 1214,
+    "download_descriptor": 1376,
     "image_size": "640x640",
     "fov": 120,
-    "prompt_descriptor": 432,
+    "prompt_descriptor": 482,
     "image_width": 640,
     "image_height": 640,
     "samples": [
@@ -9717,6 +9717,1302 @@
                 -5.6647377
             ],
             "prompt": "roads+in+Ireland"
+        },
+        {
+            "pano_id": "j4MNS50XJTune69zXz2cYg",
+            "coordinates": [
+                53.6806823,
+                -7.4914985
+            ],
+            "prompt": "streets+in+Ireland"
+        },
+        {
+            "pano_id": "Gg5RiYuDJwWaAeyJv2Jeug",
+            "coordinates": [
+                53.3326862,
+                -6.252876199999999
+            ],
+            "prompt": "streets+in+Ireland"
+        },
+        {
+            "pano_id": "J2vPcw6EmoleZBFC5K4D9Q",
+            "coordinates": [
+                53.30496540000001,
+                -6.245361
+            ],
+            "prompt": "streets+in+Ireland"
+        },
+        {
+            "pano_id": "h0DLt1G3BEpqhtwCCTgQ2Q",
+            "coordinates": [
+                53.38496379999999,
+                -6.888160399999999
+            ],
+            "prompt": "highways+in+Ireland"
+        },
+        {
+            "pano_id": "6V9RccBxsyWm32Wr3LAi7Q",
+            "coordinates": [
+                56.0796624,
+                -3.4905584
+            ],
+            "prompt": "roads+in+United+Kingdom"
+        },
+        {
+            "pano_id": "YtLAkBCZOzvqCwtWLt0sNw",
+            "coordinates": [
+                51.2365327,
+                -0.5793265
+            ],
+            "prompt": "highways+in+United+Kingdom"
+        },
+        {
+            "pano_id": "3YUNSIQB9xwWXWensWBdbw",
+            "coordinates": [
+                51.4968489,
+                -0.2125358
+            ],
+            "prompt": "highways+in+United+Kingdom"
+        },
+        {
+            "pano_id": "JKvEJ3ZJ6N5tE9QRgA1pUA",
+            "coordinates": [
+                50.3699782,
+                15.6353843
+            ],
+            "prompt": "roads+in+Czech"
+        },
+        {
+            "pano_id": "QtC9iS8vkCFc0_YXVFw7Gg",
+            "coordinates": [
+                50.0835622,
+                14.4165642
+            ],
+            "prompt": "streets+in+Czech"
+        },
+        {
+            "pano_id": "ch2N9gwoFBefctMKILIBnw",
+            "coordinates": [
+                50.0299777,
+                14.4909747
+            ],
+            "prompt": "streets+in+Czech"
+        },
+        {
+            "pano_id": "pXW-Aeaf9NiFAxUMAJmrag",
+            "coordinates": [
+                50.0017959,
+                14.4746356
+            ],
+            "prompt": "streets+in+Czech"
+        },
+        {
+            "pano_id": "Gh-7812d1Q_l1ep9IAS4-g",
+            "coordinates": [
+                25.02732,
+                121.557105
+            ],
+            "prompt": "lanes+in+Czech"
+        },
+        {
+            "pano_id": "ZOAEVJTQwWUy751nC4NHmw",
+            "coordinates": [
+                25.054181,
+                121.5435903
+            ],
+            "prompt": "lanes+in+Czech"
+        },
+        {
+            "pano_id": "NLkJ40bi3dFAgor-OVFMqQ",
+            "coordinates": [
+                50.8424538,
+                4.3695955
+            ],
+            "prompt": "roads+in+Belgium"
+        },
+        {
+            "pano_id": "BdjE_09cLDFjuTDXYSSH0A",
+            "coordinates": [
+                51.05541419999999,
+                3.7232251
+            ],
+            "prompt": "streets+in+Belgium"
+        },
+        {
+            "pano_id": "s1pshvNKj5DxHjejh85fuw",
+            "coordinates": [
+                47.9033216,
+                20.3684334
+            ],
+            "prompt": "roads+in+Hungary"
+        },
+        {
+            "pano_id": "i3xSirZGyLOCOnpU0CdTsw",
+            "coordinates": [
+                47.5111803,
+                19.0299349
+            ],
+            "prompt": "roads+in+Hungary"
+        },
+        {
+            "pano_id": "XMTz8LGw6eSffbZF1QVvQA",
+            "coordinates": [
+                47.5042713,
+                19.0622328
+            ],
+            "prompt": "streets+in+Hungary"
+        },
+        {
+            "pano_id": "Pa24C_xjlGgOQTR4tuSxIA",
+            "coordinates": [
+                47.4906324,
+                19.0591712
+            ],
+            "prompt": "streets+in+Hungary"
+        },
+        {
+            "pano_id": "78Rj0m-46o543olVRHv9ag",
+            "coordinates": [
+                47.4886107,
+                19.0235383
+            ],
+            "prompt": "lanes+in+Hungary"
+        },
+        {
+            "pano_id": "NHm-BHIciyMhAkIx5XpE-Q",
+            "coordinates": [
+                47.5439669,
+                19.0286464
+            ],
+            "prompt": "lanes+in+Hungary"
+        },
+        {
+            "pano_id": "AeCZa2D_dM4VWbMe886d3A",
+            "coordinates": [
+                47.46730059999999,
+                19.1628623
+            ],
+            "prompt": "lanes+in+Hungary"
+        },
+        {
+            "pano_id": "9eqcXx3i0eCjUM39WJkk1A",
+            "coordinates": [
+                47.4625721,
+                19.0524715
+            ],
+            "prompt": "lanes+in+Hungary"
+        },
+        {
+            "pano_id": "5zsxb212wzWXAbmrkfzIXQ",
+            "coordinates": [
+                47.6248309,
+                19.1558686
+            ],
+            "prompt": "lanes+in+Hungary"
+        },
+        {
+            "pano_id": "w2cLJUijKqoHcL59cdP1Bw",
+            "coordinates": [
+                47.0803149,
+                15.4102852
+            ],
+            "prompt": "streets+in+Austria"
+        },
+        {
+            "pano_id": "GbBoWhzIFjzT35GUX29p1A",
+            "coordinates": [
+                48.24745919999999,
+                16.5677102
+            ],
+            "prompt": "highways+in+Austria"
+        },
+        {
+            "pano_id": "jYC83YrLz9Wj_sgeE9F1DQ",
+            "coordinates": [
+                44.4785615,
+                26.1028151
+            ],
+            "prompt": "alleys+in+Rumania"
+        },
+        {
+            "pano_id": "HXBdbGE-0Y5Mo1rAX-OXJg",
+            "coordinates": [
+                45.943161,
+                24.96676
+            ],
+            "prompt": "lanes+in+Rumania"
+        },
+        {
+            "pano_id": "xyvUj81ttHp_gY1Tr0s7bg",
+            "coordinates": [
+                44.4451496,
+                26.060152
+            ],
+            "prompt": "lanes+in+Rumania"
+        },
+        {
+            "pano_id": "c_yEwAd6mFonJJECRDg-MQ",
+            "coordinates": [
+                45.7914704,
+                24.1514672
+            ],
+            "prompt": "lanes+in+Rumania"
+        },
+        {
+            "pano_id": "gxJ8efP9haucgZfpI-zoCw",
+            "coordinates": [
+                70.6754892,
+                -52.1239469
+            ],
+            "prompt": "streets+in+Greenland"
+        },
+        {
+            "pano_id": "kqkM24bM1Rp_joPhCtDQzQ",
+            "coordinates": [
+                -31.95234379999999,
+                115.8558271
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "PazSAZO49d1uy45lMr-Rjg",
+            "coordinates": [
+                -31.9515398,
+                115.8550462
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "U089eNqnEKFRr4ZtR_jVbg",
+            "coordinates": [
+                -31.9523138,
+                115.85346
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "e9IEuxoJ_e5JLIiCXYnvaA",
+            "coordinates": [
+                -31.9523403,
+                115.8607304
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "EjfwV3RajQMwPkOdH5Q-XQ",
+            "coordinates": [
+                -31.9307031,
+                115.8593757
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "jPm-j9haq8rvaBHDStmnRg",
+            "coordinates": [
+                -31.9474138,
+                115.8403134
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "KdTEBeNIoAY3dCC_oO70Og",
+            "coordinates": [
+                -31.9487434,
+                115.8571586
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "ZJIkaqRNc57z5o3SucboQg",
+            "coordinates": [
+                -33.6884956,
+                117.5582885
+            ],
+            "prompt": "lanes+in+Western+Australia"
+        },
+        {
+            "pano_id": "g1Ug1v4X-lri-gx97V3-uw",
+            "coordinates": [
+                -31.9891201,
+                115.9194523
+            ],
+            "prompt": "highways+in+Western+Australia"
+        },
+        {
+            "pano_id": "EhKKmZo9Yy_34yt_v2Tudg",
+            "coordinates": [
+                -33.3519137,
+                115.6679638
+            ],
+            "prompt": "roads+in+Western+Australia"
+        },
+        {
+            "pano_id": "0Zk_ORVDRIEyKhjJkAgUSg",
+            "coordinates": [
+                -31.9646814,
+                115.8993801
+            ],
+            "prompt": "roads+in+Western+Australia"
+        },
+        {
+            "pano_id": "a4ywGyX7f7182LiVmDcrKQ",
+            "coordinates": [
+                -31.651688,
+                116.6882219
+            ],
+            "prompt": "roads+in+Western+Australia"
+        },
+        {
+            "pano_id": "EFs4_R7Xmwifk2pXZvX7_w",
+            "coordinates": [
+                -28.7781554,
+                114.6283143
+            ],
+            "prompt": "roads+in+Western+Australia"
+        },
+        {
+            "pano_id": "bXkulL13ce-vnEMu9yuWdg",
+            "coordinates": [
+                -14.476804,
+                132.287018
+            ],
+            "prompt": "lanes+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "SjtvUvz-4xyOl2yyvhwI5w",
+            "coordinates": [
+                -12.4648502,
+                130.8426842
+            ],
+            "prompt": "lanes+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "9UFWn2Pven5AXFnfXdylSA",
+            "coordinates": [
+                -12.4640515,
+                130.8435326
+            ],
+            "prompt": "lanes+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "vzG_Tex6i87fDefIUWhdtw",
+            "coordinates": [
+                -23.6946284,
+                133.8820989
+            ],
+            "prompt": "lanes+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "ziCrvAFuKyUB1QhXChbmbg",
+            "coordinates": [
+                -12.4505681,
+                130.8230799
+            ],
+            "prompt": "lanes+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "U2oZJVzQ7znUu_DedlB2xg",
+            "coordinates": [
+                -12.4621453,
+                130.8416175
+            ],
+            "prompt": "lanes+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "es2tZaQKpek-hwo6m1yQgQ",
+            "coordinates": [
+                -19.4366823,
+                134.2081132
+            ],
+            "prompt": "highways+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "MAzcbZma8f31NvcYmFcmIQ",
+            "coordinates": [
+                -16.307616,
+                133.385232
+            ],
+            "prompt": "highways+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "M-2Yhyp0mneHknxXFYG8HA",
+            "coordinates": [
+                -17.375509,
+                133.4394338
+            ],
+            "prompt": "highways+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "vrZuKKBYFNqWfMhR9_6wBw",
+            "coordinates": [
+                -12.45639,
+                130.838276
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "ThNFSLOjUMz4vhSiFvsAuw",
+            "coordinates": [
+                -12.4610691,
+                130.8425225
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "TTl9a25RGe5Nr5bGLBDdig",
+            "coordinates": [
+                -12.4647077,
+                130.843764
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "VuZvIA7uw-cVgQmmTKrLxw",
+            "coordinates": [
+                -12.4623382,
+                130.8392542
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "ySV8a0VwRF4kIRdXxS0iXQ",
+            "coordinates": [
+                -12.4608769,
+                130.837345
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "avIfD8KhzWLBHOOIK0tp-w",
+            "coordinates": [
+                -12.4637008,
+                130.8424975
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "L9BM5JKNEQnlgukE-yv2fA",
+            "coordinates": [
+                -12.4624411,
+                130.8389499
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "pgKnsKNYA8DcnJUtmbE5hQ",
+            "coordinates": [
+                -12.4721503,
+                130.9830651
+            ],
+            "prompt": "streets+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "VRTHtfhHf6UbotwmU3jpeQ",
+            "coordinates": [
+                -13.6313057,
+                131.6306294
+            ],
+            "prompt": "roads+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "_DzlcbnsPqL5WA0rxhooGQ",
+            "coordinates": [
+                -12.4324379,
+                130.8427194
+            ],
+            "prompt": "roads+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "vymsVMXS_AbjqYJggk0n6g",
+            "coordinates": [
+                -22.6443529,
+                133.3455204
+            ],
+            "prompt": "roads+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "mIut1_0d6mJHQ9gJiBF5uw",
+            "coordinates": [
+                -19.7106971,
+                135.8278118
+            ],
+            "prompt": "roads+in+Northern+Territory+Australia"
+        },
+        {
+            "pano_id": "dhxdnqpNcEnFu_7PbT52vA",
+            "coordinates": [
+                -34.8782855,
+                138.5327638
+            ],
+            "prompt": "lanes+in+South+Australia"
+        },
+        {
+            "pano_id": "a-NZhVs9sl1I7OvOuCXwvg",
+            "coordinates": [
+                -34.7116584,
+                138.6627499
+            ],
+            "prompt": "lanes+in+South+Australia"
+        },
+        {
+            "pano_id": "dnQ-lXT5XaoHU5Ar_39Qkg",
+            "coordinates": [
+                -33.19395799999999,
+                138.0093382
+            ],
+            "prompt": "lanes+in+South+Australia"
+        },
+        {
+            "pano_id": "H3Vv28_UOOx_AcT4aFo8Iw",
+            "coordinates": [
+                -34.9165758,
+                138.6311503
+            ],
+            "prompt": "lanes+in+South+Australia"
+        },
+        {
+            "pano_id": "HJ5TXkhArCAW2dKhbq63YA",
+            "coordinates": [
+                -34.9780034,
+                138.5931335
+            ],
+            "prompt": "lanes+in+South+Australia"
+        },
+        {
+            "pano_id": "xsepOH3wb_VW5i-v_5c0hg",
+            "coordinates": [
+                -34.5158271,
+                138.9777724
+            ],
+            "prompt": "lanes+in+South+Australia"
+        },
+        {
+            "pano_id": "OzRMg6HJ1fiPjggi-2w2wA",
+            "coordinates": [
+                -34.9647222,
+                138.5544444
+            ],
+            "prompt": "highways+in+South+Australia"
+        },
+        {
+            "pano_id": "hyzj5ZlFnGcxEsHtRPO7ig",
+            "coordinates": [
+                -34.9257322,
+                138.6026967
+            ],
+            "prompt": "highways+in+South+Australia"
+        },
+        {
+            "pano_id": "vYuc7iu1aRvfB7CzUIkCyA",
+            "coordinates": [
+                -34.8378342,
+                138.6248969
+            ],
+            "prompt": "highways+in+South+Australia"
+        },
+        {
+            "pano_id": "WV2H_cUGQzHskKKqCi-nMQ",
+            "coordinates": [
+                -34.9313756,
+                138.6125748
+            ],
+            "prompt": "streets+in+South+Australia"
+        },
+        {
+            "pano_id": "k953HXvt-_CntuqlNbNdRg",
+            "coordinates": [
+                -34.9522622,
+                138.6145438
+            ],
+            "prompt": "streets+in+South+Australia"
+        },
+        {
+            "pano_id": "YcJARmeNjV_OC5phF0JCIA",
+            "coordinates": [
+                -34.061231,
+                137.6116718
+            ],
+            "prompt": "roads+in+South+Australia"
+        },
+        {
+            "pano_id": "2D6RZtOUXwWmYb6MFH8x-Q",
+            "coordinates": [
+                -34.884841,
+                138.5937443
+            ],
+            "prompt": "roads+in+South+Australia"
+        },
+        {
+            "pano_id": "tGEwrRjxUfbbT2_TCNuLBw",
+            "coordinates": [
+                -34.8359022,
+                138.6245951
+            ],
+            "prompt": "roads+in+South+Australia"
+        },
+        {
+            "pano_id": "sBnRpynWC4RnQoeyUQEx6A",
+            "coordinates": [
+                -34.8530937,
+                138.5085061
+            ],
+            "prompt": "roads+in+South+Australia"
+        },
+        {
+            "pano_id": "kA4F6wC9x36K5fXvrHZfCw",
+            "coordinates": [
+                -34.9192377,
+                138.5809007
+            ],
+            "prompt": "roads+in+South+Australia"
+        },
+        {
+            "pano_id": "UBWB-fhaiQjaA5Vu7ljDDQ",
+            "coordinates": [
+                -34.9237263,
+                138.6027484
+            ],
+            "prompt": "roads+in+South+Australia"
+        },
+        {
+            "pano_id": "CrnphV8bs_5T-DWwQLxaeg",
+            "coordinates": [
+                -23.8410208,
+                151.2529672
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "LPWjXZpeFDcgfwg6lCY4zw",
+            "coordinates": [
+                -16.9146305,
+                145.7405145
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "6TGnSzK8nKeemNyRS_k9zw",
+            "coordinates": [
+                -27.4672003,
+                153.0278731
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "Yqz3scG2ITypWPk0I_4KCg",
+            "coordinates": [
+                -27.7380796,
+                152.9834433
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "Fyqr1MKUE87pn7YatLiqig",
+            "coordinates": [
+                -28.028447,
+                153.431044
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "4bGWLLOfUsd7b1hBuW0Z0w",
+            "coordinates": [
+                -27.3608142,
+                153.0075119
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "ewWSuATRJrLEiP34k0G7Xw",
+            "coordinates": [
+                -28.0308108,
+                153.432537
+            ],
+            "prompt": "lanes+in+Queensland"
+        },
+        {
+            "pano_id": "0TXPlG1iIlCyyT9ShxZvYw",
+            "coordinates": [
+                -27.4665277,
+                153.0181008
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "TUG69WGHXipOQAnPof1UTA",
+            "coordinates": [
+                -26.6838454,
+                153.1221251
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "pRtmqpG3AcRLydC4TIdSWQ",
+            "coordinates": [
+                -27.417963,
+                152.9829712
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "zNE0z4-Cb1JxS5hbv7m3AQ",
+            "coordinates": [
+                -16.8125006,
+                145.7006829
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "ndXqaCpfbmsLWl3NbAdmlA",
+            "coordinates": [
+                -16.894862,
+                145.7544479
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "c6CXTxGlCyNgioEjNWRBBw",
+            "coordinates": [
+                -24.8664,
+                152.34852
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "TeI4Ul9x_1K79JkviPrqeg",
+            "coordinates": [
+                -21.1429083,
+                149.1783425
+            ],
+            "prompt": "streets+in+Queensland"
+        },
+        {
+            "pano_id": "c7oqjl4007KGmSi-9y2PtQ",
+            "coordinates": [
+                -28.009224,
+                153.4099556
+            ],
+            "prompt": "roads+in+Queensland"
+        },
+        {
+            "pano_id": "bw66wU33CtD27ZbL58UGDQ",
+            "coordinates": [
+                -34.3619091,
+                150.9002669
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "YojiXMdS0cx-GZ4RaOCCDQ",
+            "coordinates": [
+                -34.84507920000001,
+                150.5927227
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "ujMc1zvxwkYX9Fpy7H6FGQ",
+            "coordinates": [
+                -33.7686713,
+                150.6862959
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "3K4-VtBxZ8xRfUUCSYmWCw",
+            "coordinates": [
+                -33.62520629999999,
+                150.8065082
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "2ZePqDUqrWlBMmiv5d_AxA",
+            "coordinates": [
+                -34.0533676,
+                150.8248443
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "tEdxan4qrU8BIX3d3I01pw",
+            "coordinates": [
+                -33.875,
+                150.9533333
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "HMiyUsNNH75MwCAEue-IzA",
+            "coordinates": [
+                -33.7305154,
+                150.9740241
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "uiQ9DGngNrXSD1rZOWepoQ",
+            "coordinates": [
+                -33.8495802,
+                151.0478942
+            ],
+            "prompt": "lanes+in+Western+New+South+Wales"
+        },
+        {
+            "pano_id": "eJQuTHdyterFQFVg5lbyYQ",
+            "coordinates": [
+                -32.6525657,
+                151.8661805
+            ],
+            "prompt": "highways+in+New+South+Wales"
+        },
+        {
+            "pano_id": "l9jlZBdDJh9bVzNh6wt4vg",
+            "coordinates": [
+                -33.9120569,
+                151.1544619
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "SoXS7EaWKj-EJiQPkYGrnw",
+            "coordinates": [
+                -29.7733153,
+                151.1110696
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "ftVsNATUU0ItY9Bmk2Yz2Q",
+            "coordinates": [
+                -33.877704,
+                151.206226
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "hu17SG_6OX3UCFT6oEeyxg",
+            "coordinates": [
+                -33.893278,
+                151.184048
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "1Z6Qf4v7L99KvkTwx_xNNw",
+            "coordinates": [
+                -33.2800825,
+                149.0916424
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "nUsAQxF9gstfbA96QJLBbQ",
+            "coordinates": [
+                -32.1803671,
+                152.5118661
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "mvao7fw7nmObu0mIj8PKxQ",
+            "coordinates": [
+                -33.2818417,
+                149.1124361
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "Yu5HC8ObwbMcpXzVslAyDQ",
+            "coordinates": [
+                -32.5555608,
+                148.9452826
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "UYLgsqDA7jwi5fEG5daoOw",
+            "coordinates": [
+                -33.878082,
+                151.1033442
+            ],
+            "prompt": "streets+in+New+South+Wales"
+        },
+        {
+            "pano_id": "cUfpIBQNqiCaWwlqM4svTw",
+            "coordinates": [
+                -32.7602885,
+                151.5906498
+            ],
+            "prompt": "roads+in+New+South+Wales"
+        },
+        {
+            "pano_id": "8UYbAojoKM85yaiElQmQ1w",
+            "coordinates": [
+                -33.7000232,
+                150.5670656
+            ],
+            "prompt": "roads+in+New+South+Wales"
+        },
+        {
+            "pano_id": "uvOo9sR5zHDozRNtbZcVcg",
+            "coordinates": [
+                -33.9064665,
+                151.1724648
+            ],
+            "prompt": "roads+in+New+South+Wales"
+        },
+        {
+            "pano_id": "_MsJyJmwRD1i6buTJ5ozCw",
+            "coordinates": [
+                -33.4371664,
+                151.3846179
+            ],
+            "prompt": "roads+in+New+South+Wales"
+        },
+        {
+            "pano_id": "FHr7NwbdHNqahImaZkOG7w",
+            "coordinates": [
+                -36.7062529,
+                142.1837561
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "fGVMgiJbcm7FRZKCeIjaXg",
+            "coordinates": [
+                -37.8156191,
+                144.9647759
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "bVdnp9t7xHz-jdRoHgHDyA",
+            "coordinates": [
+                -38.21813849999999,
+                145.0378496
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "sBfnQ60aWo9DMVaeXT0Jhg",
+            "coordinates": [
+                -37.8240028,
+                144.9574294
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "u8TOyRCJQmic9ZBp4OkPqg",
+            "coordinates": [
+                -37.8103595,
+                144.963235
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "OqUD2pyxvgWItRUU77gWSQ",
+            "coordinates": [
+                -37.8108555,
+                144.9713535
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "bIEzuCuFmtnwCcDG2qyHKA",
+            "coordinates": [
+                -38.1885203,
+                144.3245502
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "tsYua4CzojkQjG1KCpqnSw",
+            "coordinates": [
+                -37.7425,
+                145.0666667
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "ojlKN6TfZovDw5n8kcpmJQ",
+            "coordinates": [
+                -37.8159471,
+                144.9601498
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "pytP2A4KJ80hXL4QOT0-5w",
+            "coordinates": [
+                -37.8113938,
+                144.9598114
+            ],
+            "prompt": "lanes+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "77zcGX52aPTdqsJaUwCqCA",
+            "coordinates": [
+                -37.8106765,
+                144.9664985
+            ],
+            "prompt": "highways+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "E8Yx54ldy1R6i-Vt1lCK-w",
+            "coordinates": [
+                -37.8115563,
+                144.9683296
+            ],
+            "prompt": "streets+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "5TC3qmzs_u85dsFtFU_KEw",
+            "coordinates": [
+                -37.7932328,
+                144.9677233
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "XLwkliBh4EvS6MP-R7ILQg",
+            "coordinates": [
+                -37.6836346,
+                145.0704736
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "T0jRuhracsPqn2j49NkOzg",
+            "coordinates": [
+                -38.1935495,
+                146.524483
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "eTF06dkprPnNvSPf8bfRQQ",
+            "coordinates": [
+                -37.683722,
+                144.9148045
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "2ClRfsQaC9-RntHTcAz8pw",
+            "coordinates": [
+                -36.75523,
+                144.2986652
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "FzmO-GP0NhI5TNWDoWKdJQ",
+            "coordinates": [
+                -37.9484828,
+                145.0808657
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "iLKeAv27iPaAaL2wh9FTwA",
+            "coordinates": [
+                -37.7826106,
+                144.7742542
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "CdcVC-V08Ql5DjXQEvD6kg",
+            "coordinates": [
+                -38.233044,
+                146.386468
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "UUYpv8Kake2LZF9RXgOLbA",
+            "coordinates": [
+                -37.8128996,
+                144.9706819
+            ],
+            "prompt": "roads+in+Victoria+Australia"
+        },
+        {
+            "pano_id": "98iHTSoPLwJ0QQigYhfX1w",
+            "coordinates": [
+                -41.18065,
+                146.3499139
+            ],
+            "prompt": "lanes+in+Tasmania"
+        },
+        {
+            "pano_id": "y7lVVxUZehYbtwFD1MaCiQ",
+            "coordinates": [
+                -41.4388766,
+                147.1393989
+            ],
+            "prompt": "lanes+in+Tasmania"
+        },
+        {
+            "pano_id": "I5tHvviAVPI2XF0wQUbEwg",
+            "coordinates": [
+                -42.8874608,
+                147.3323223
+            ],
+            "prompt": "lanes+in+Tasmania"
+        },
+        {
+            "pano_id": "3CdqWE5uFk9ntoFLDBGeAw",
+            "coordinates": [
+                -42.8849261,
+                147.3213348
+            ],
+            "prompt": "lanes+in+Tasmania"
+        },
+        {
+            "pano_id": "rnKqHvPiYQ4zsXjAm1PGmg",
+            "coordinates": [
+                -41.415392,
+                147.1339238
+            ],
+            "prompt": "lanes+in+Tasmania"
+        },
+        {
+            "pano_id": "_TBithDPEGnDA8xnuyOxSQ",
+            "coordinates": [
+                -41.59300229999999,
+                147.1186272
+            ],
+            "prompt": "highways+in+Tasmania"
+        },
+        {
+            "pano_id": "73cjifHVOGnXgyGOb7M77A",
+            "coordinates": [
+                -41.4394794,
+                147.147336
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "PsnMphlmfZXiSPDwJugPDw",
+            "coordinates": [
+                -42.8843372,
+                147.3319454
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "BI5hSDWQ33SOOx7RXs9ZTw",
+            "coordinates": [
+                -41.1485252,
+                147.8021063
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "lxo89c7-fUPlJ8l8BuubYg",
+            "coordinates": [
+                -42.892941,
+                147.315316
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "pX_LPM875hs7NRbtbCh4yA",
+            "coordinates": [
+                -42.8409123,
+                147.2694565
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "zozybOBBzQm2d5yb1p5BXw",
+            "coordinates": [
+                -41.2401226,
+                146.4177471
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "9vEmZV1s0JbdrR_YdHJ3UA",
+            "coordinates": [
+                -42.8778758,
+                147.3093501
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "8hvL4zKbgu93iIzufwQ9VQ",
+            "coordinates": [
+                -42.8815839,
+                147.3262212
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "HDgAoZIyWPuKBntwE9WJKw",
+            "coordinates": [
+                -42.8839015,
+                147.3148346
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "7UO6uc5jCeDkhwdVFNPVPA",
+            "coordinates": [
+                -42.8830199,
+                147.3282144
+            ],
+            "prompt": "streets+in+Tasmania"
+        },
+        {
+            "pano_id": "_TiizKe91SVTBG9eQ_6WDg",
+            "coordinates": [
+                -41.5232138,
+                146.6527498
+            ],
+            "prompt": "roads+in+Tasmania"
+        },
+        {
+            "pano_id": "Ni58bprCMkgwTXVb4_Chdg",
+            "coordinates": [
+                -42.8364385,
+                147.29254
+            ],
+            "prompt": "roads+in+Tasmania"
+        },
+        {
+            "pano_id": "0mHjPR_0izR24d1iaWQWVw",
+            "coordinates": [
+                -41.438388,
+                147.1371879
+            ],
+            "prompt": "roads+in+Tasmania"
+        },
+        {
+            "pano_id": "dCFWR-BLqL2sEfHm7QZn5A",
+            "coordinates": [
+                -42.87500620000001,
+                147.3191736
+            ],
+            "prompt": "roads+in+Tasmania"
+        },
+        {
+            "pano_id": "xj3kWWEjRGWA4yUbECKU8Q",
+            "coordinates": [
+                -42.7155825,
+                147.2340209
+            ],
+            "prompt": "roads+in+Tasmania"
+        },
+        {
+            "pano_id": "aBXndDJM5EcSGpe2i9cIxQ",
+            "coordinates": [
+                -41.0528379,
+                145.9041596
+            ],
+            "prompt": "roads+in+Tasmania"
         }
     ]
 }
