@@ -70,7 +70,13 @@ class StreetViewSampler:
                     )
                     url = url.format(lat, lon)
                     resp = requests.get(url)
-                    panos = streetview.search.extract_panoramas(resp.text)
+                    panos = None
+                    try:
+                        panos = streetview.search.extract_panoramas(resp.text)
+                    except IndexError:
+                        print(f'Error occurred extracting pano ids for prompt {curr_prompt}')
+                        j += 1
+                        continue
                     if len(panos) > 0:
                         pano_id = panos[0].pano_id
                         coordinates = [lat, lon]

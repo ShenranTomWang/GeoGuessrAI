@@ -136,13 +136,13 @@ DEFAULT_PROMPTS = [
     'roads+in+Serbia', 'streets+in+Serbia', 'lanes+in+Serbia',
     'roads+in+Poland', 'streets+in+Poland', 'highways+in+Poland',
     'roads+in+Spain', 'streets+in+Spain', 'highways+in+Spain',
-    'alleys+in+Portugal', 'streets+in+Portugal', 'highways+in+Portugal', 'lanes+in+Portugal'
+    'alleys+in+Portugal', 'streets+in+Portugal', 'highways+in+Portugal', 'lanes+in+Portugal',
     'roads+in+Croatia', 'streets+in+Croatia', 'lanes+in+Croatia',
     'roads+in+Switzerland', 'streets+in+Switzerland', 'highways+in+Switzerland',
     'roads+in+Sweden', 'streets+in+Sweden', 'highways+in+Sweden',
     'roads+in+Norway', 'streets+in+Norway', 'highways+in+Norway',
-    'roads+in+Finland', 'avenue+in+Finland', 'highways+in+Finland', 'alleys+in+Finland'
-    'roads+in+Denmark', 'avenue+in+Denmark', 'highways+in+Denmark', 'alleys+in+Denmark'
+    'roads+in+Finland', 'avenue+in+Finland', 'highways+in+Finland', 'alleys+in+Finland',
+    'roads+in+Denmark', 'avenue+in+Denmark', 'highways+in+Denmark', 'alleys+in+Denmark',
     'roads+in+Netherlands', 'streets+in+Netherlands', 'highways+in+Netherlands',
     'roads+in+Italy', 'streets+in+Italy', 'highways+in+Italy',
     'roads+in+Iceland', 'streets+in+Iceland', 'highways+in+Iceland',
