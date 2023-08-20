@@ -1,19 +1,21 @@
 import torch
 import torch.nn as nn
 import torchvision.models as models
+import json
 
 class Model(nn.Module):
     """Transfer learning using ViT_B_16 model
     """
     
-    def __init__(self, num_classes:int) -> None:
+    def __init__(self, scale:float) -> None:
         """
         Args:
-            num_classes (int): number of outputs
+            scale (float): scaling factor of map
         """
         super().__init__()
         self.model = models.vit_b_16(pretrained=True)
-        self.model.heads[0] = nn.Linear(768, num_classes)
+        self.scale = scale
+        self.model.heads[0] = nn.Linear(768, 180 * scale * 360 * scale)
     
     def forward(self, x:torch.Tensor) -> torch.Tensor:
         """Forward pass
@@ -22,7 +24,7 @@ class Model(nn.Module):
             x (torch.Tensor): input
 
         Returns:
-            Tensor: output
+            Tensor: output, 1d tensor
         """
         return self.model.forward(x)
     
@@ -33,6 +35,36 @@ class Model(nn.Module):
             path (str): path to save file
         """
         torch.save(self.model.state_dict(), f'{path}/ViT_B16.csv')
+        with open(f'{path}/ViT_B16.json', 'wb') as file:
+            json.dump(self.to_json(), file, indent=4)
+            
+    def to_json(self) -> dict:
+        """Converts self to json
+
+        Returns:
+            dict: parsed dictionary
+        """
+        return {
+            'scale': self.scale
+        }
+        
+    @staticmethod
+    def coords_to_tensor(scale, lat, lon) -> 'torch.Tensor':
+        """Converts coordinates to Tensor
+
+        Args:
+            scale (float): conversion scale
+            lat (float): latitude
+            lon (float): longitude
+
+        Returns:
+            torch.Tensor: converted probability map, 1d tensor
+        """
+        ret = torch.zeros((180 * scale, 360 * scale))
+        lat, lon = int(lat * scale), int(lon * scale)
+        ret[lat, lon] = 1
+        ret = ret.view(-1)
+        return ret
         
     @classmethod
     def load(cls, path:str) -> 'Model':
