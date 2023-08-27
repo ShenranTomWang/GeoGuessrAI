@@ -1,3 +1,4 @@
+import os
 import torch
 import torch.nn as nn
 import torchvision.models as models
@@ -34,8 +35,9 @@ class Model(nn.Module):
         Args:
             path (str): path to save file
         """
+        os.makedirs(path, exist_ok=True)
         torch.save(self.model.state_dict(), f'{path}/ViT_B16.csv')
-        with open(f'{path}/ViT_B16.json', 'wb') as file:
+        with open(f'{path}/ViT_B16.json', 'w') as file:
             json.dump(self.to_json(), file, indent=4)
             
     def to_json(self) -> dict:

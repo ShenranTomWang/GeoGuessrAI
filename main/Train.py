@@ -32,8 +32,7 @@ for epoch in range(num_epochs):
         optimizer.step()
         print(f'Batch: {batch_count + 1}/{batch_size}, Loss: {loss.item()}')
         batch_count += 1
-        if (batch_count + 1) % 10 == 0:
+        if (batch_count) % 10 == 0:
             batch_count = 0
-    if (epoch + 1) % 10 == 0:
-        print(f'Epoch: {epoch + 1}/{num_epochs}, Loss: {loss.item()}')
+    print(f'Epoch: {epoch + 1}/{num_epochs}, Loss: {loss.item()}')
 model.save(DirUtil.get_model_dir())
