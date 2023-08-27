@@ -75,7 +75,10 @@ class Model(nn.Module):
         Args:
             path (str): path to load file
         """
+        jo = None
+        with open(f'{path}/ViT_B16.jsons') as file:
+            jo = json.load(file)
         ckpd = torch.load(f'{path}/ViT_B16.csv')
-        model = cls()
+        model = cls(jo['scale'])
         model.model.load_state_dict(ckpd)
         return model
