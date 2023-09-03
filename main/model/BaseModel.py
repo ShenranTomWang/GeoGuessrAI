@@ -3,6 +3,9 @@ import torch
 import torch.nn as nn
 
 class BaseModel(ABC, nn.Module):
+    """Class abstracting a base model. Any model must inherit this abstract class
+    """
+    
     @abstractmethod
     def forward(self, x:torch.Tensor) -> torch.Tensor:
         """Forward pass
