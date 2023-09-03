@@ -3,8 +3,6 @@ from . import DirUtil
 from .Sample import Sample
 from PIL import Image
 import json
-from torchvision import transforms
-import torch
 import random
 from model.ViT_B16 import Model
 
@@ -39,13 +37,8 @@ class Dataset(Dataset):
             lower = self.height
             cropped_image = image.crop((left, upper, right, lower))
             cropped.append(cropped_image)
-            
-        transform = transforms.Compose([
-            transforms.Resize((224, 224)),  # Resize the image to the desired input size
-            transforms.ToTensor(),  # Convert the PIL image to a PyTorch tensor
-            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])  # Normalize the image
-        ])
-        input_image = transform(cropped[random.randint(0, 3)])
+        img = cropped[random.randint(0, 3)]
+        input_image = Model.prepareImage(img, 224, 224)
         label = Model.coords_to_tensor(self.model_scale, lat, lon)
         return input_image, label
     

@@ -3,8 +3,11 @@ import torch
 import torch.nn as nn
 import torchvision.models as models
 import json
+from torchvision import transforms
+import torch
+from .BaseModel import BaseModel as BaseModel
 
-class Model(nn.Module):
+class Model(BaseModel):
     """Transfer learning using ViT_B_16 model
     """
     
@@ -19,62 +22,39 @@ class Model(nn.Module):
         self.model.heads[0] = nn.Linear(768, 180 * scale * 360 * scale)
     
     def forward(self, x:torch.Tensor) -> torch.Tensor:
-        """Forward pass
-
-        Args:
-            x (torch.Tensor): input
-
-        Returns:
-            Tensor: output, 1d tensor
-        """
         return self.model.forward(x)
     
     def save(self, path:str) -> None:
-        """Saves model state to file
-
-        Args:
-            path (str): path to save file
-        """
         os.makedirs(path, exist_ok=True)
         torch.save(self.model.state_dict(), f'{path}/ViT_B16.csv')
         with open(f'{path}/ViT_B16.json', 'w') as file:
             json.dump(self.to_json(), file, indent=4)
             
     def to_json(self) -> dict:
-        """Converts self to json
-
-        Returns:
-            dict: parsed dictionary
-        """
         return {
             'scale': self.scale
         }
         
     @staticmethod
-    def coords_to_tensor(scale, lat, lon) -> 'torch.Tensor':
-        """Converts coordinates to Tensor
-
-        Args:
-            scale (float): conversion scale
-            lat (float): latitude
-            lon (float): longitude
-
-        Returns:
-            torch.Tensor: converted probability map, 1d tensor
-        """
+    def coords_to_tensor(scale:float, lat:float, lon:float) -> 'torch.Tensor':
         ret = torch.zeros((180 * scale, 360 * scale))
         lat, lon = int(lat * scale), int(lon * scale)
         ret[lat, lon] = 1
         ret = ret.view(-1)
         return ret
+
+    @staticmethod
+    def prepareImage(img, x, y):
+        transform = transforms.Compose([
+            transforms.Resize((x, y)),  # Resize the image to the desired input size
+            transforms.ToTensor(),  # Convert the PIL image to a PyTorch tensor
+            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])  # Normalize the image
+        ])
+        input_image = transform(img)
+        return input_image
         
     @classmethod
     def load(cls, path:str) -> 'Model':
-        """Loads model from path
-
-        Args:
-            path (str): path to load file
-        """
         jo = None
         with open(f'{path}/ViT_B16.jsons') as file:
             jo = json.load(file)
