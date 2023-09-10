@@ -7,6 +7,7 @@ import torch.nn as nn
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 num_epochs = 2
+num_directions = 4
 batch_size = 10
 
 scale = 1
@@ -22,17 +23,20 @@ criterion = nn.MSELoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=0.1)
 for epoch in range(num_epochs):
     model.train()
-    batch_count = 0
-    for inputs, labels in tr_set:
-        optimizer.zero_grad()
-        inputs, labels = inputs.to(device), labels.to(device)
-        preds = model(inputs)
-        loss = criterion(preds, labels)
-        loss.backward()
-        optimizer.step()
-        print(f'Batch: {batch_count + 1}/{batch_size}, Loss: {loss.item()}')
-        batch_count += 1
-        if (batch_count) % 10 == 0:
-            batch_count = 0
+    for direction in range(num_directions):
+        batch_count = 0
+        for inputs, labels in tr_set:
+            optimizer.zero_grad()
+            inputs, labels = inputs.to(device), labels.to(device)
+            preds = model(inputs)
+            loss = criterion(preds, labels)
+            loss.backward()
+            optimizer.step()
+            print(f'Batch: {batch_count + 1}/{batch_size}, Loss: {loss.item()}')
+            batch_count += 1
+            if (batch_count) % 10 == 0:
+                batch_count = 0
+        print(f'Direction: {direction + 1}, Loss: {loss.item()}')
+        tr_set.dataset.incrementIndex()
     print(f'Epoch: {epoch + 1}/{num_epochs}, Loss: {loss.item()}')
 model.save(DirUtil.get_model_dir())

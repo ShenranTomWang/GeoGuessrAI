@@ -3,7 +3,6 @@ from . import DirUtil
 from .Sample import Sample
 from PIL import Image
 import json
-import random
 from model.ViT_B16 import Model
 
 class Dataset(Dataset):
@@ -19,6 +18,7 @@ class Dataset(Dataset):
         self.width = width
         self.height = height
         self.model_scale = model_scale
+        self.index = 0
         
     def __len__(self) -> int:
         return len(self.data)
@@ -37,10 +37,17 @@ class Dataset(Dataset):
             lower = self.height
             cropped_image = image.crop((left, upper, right, lower))
             cropped.append(cropped_image)
-        img = cropped[random.randint(0, 3)]
+        img = cropped[self.index]
         input_image = Model.prepareImage(img, 224, 224)
         label = Model.coords_to_tensor(self.model_scale, lat, lon)
         return input_image, label
+    
+    def incrementIndex(self) -> None:
+        """Increment image get index
+        """
+        self.index += 1
+        if self.index > 3:
+            self.index = 0
     
     @classmethod
     def from_json(cls, path:str, model_scale:float, metadata_file_name:str='metadata.json') -> 'Dataset':
