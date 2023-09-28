@@ -32,11 +32,10 @@ for epoch in range(num_epochs):
             loss = criterion(preds, labels)
             loss.backward()
             optimizer.step()
-            print(f'Batch: {batch_count + 1}/{batch_size}, Loss: {loss.item()}')
+            print(f'Batch: {batch_count + 1}, Loss: {loss.item()}')
             batch_count += 1
-            if (batch_count) % 10 == 0:
-                batch_count = 0
         print(f'Direction: {direction + 1}, Loss: {loss.item()}')
         tr_set.dataset.incrementIndex()
+        batch_count = 0
     print(f'Epoch: {epoch + 1}/{num_epochs}, Loss: {loss.item()}')
 model.save(DirUtil.get_model_dir())
