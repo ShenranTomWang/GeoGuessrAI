@@ -21,6 +21,7 @@ class Model(BaseModel):
         self.scale = scale
         self.model.heads[0] = nn.Linear(768, 180 * scale * 360 * scale)
         self.model.heads.append(nn.ReLU())
+        self.model.heads.append(nn.Softmax())
     
     def forward(self, x:torch.Tensor) -> torch.Tensor:
         return self.model.forward(x)
