@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "SampleTestingStreetView",
+            "type": "python",
+            "request": "launch",
+            "program": "main/SampleTestingStreetView.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
             "name": "Train.py",
             "type": "python",
             "request": "launch",
@@ -14,10 +23,10 @@
             "justMyCode": true
         },
         {
-            "name": "SampleStreetView.py",
+            "name": "SampleTrainingingStreetView.py",
             "type": "python",
             "request": "launch",
-            "program": "main/SampleStreetView.py",
+            "program": "main/SampleTrainingStreetView.py",
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "justMyCode": true

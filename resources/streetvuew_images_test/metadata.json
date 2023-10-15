@@ -1,0 +1,1258 @@
+{
+    "download_descriptor": 156,
+    "image_size": "640x640",
+    "fov": 120,
+    "prompt_descriptor": 20,
+    "image_width": 640,
+    "image_height": 640,
+    "samples": [
+        {
+            "pano_id": "Uq9uCSqs3R1VbCGXjwlG7g",
+            "coordinates": [
+                35.6595096,
+                139.723112
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "XF2Nu5SR0e0BM4Hz9_jtJA",
+            "coordinates": [
+                35.6623165,
+                139.7178219
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "kkwAw15xmJxJGzz_BQyPbA",
+            "coordinates": [
+                35.6697761,
+                139.7619463
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "oSPR_pGItsuYQ1FzZGG0eQ",
+            "coordinates": [
+                35.664766,
+                139.7324515
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "UvKZxurLwwyMIImb4nJ__A",
+            "coordinates": [
+                35.66182939999999,
+                139.7251847
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "QizTEajrRmbKoXobVQxjaA",
+            "coordinates": [
+                35.6582505,
+                139.7187587
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "2h4HoTEgN8-X2xzs8X7pCg",
+            "coordinates": [
+                35.6703707,
+                139.7596362
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "pLf-gbx7_NU6g77D9XqUqQ",
+            "coordinates": [
+                35.6689166,
+                139.7619714
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "wZl-YvLnS7zZQceTF1p3gA",
+            "coordinates": [
+                35.6764437,
+                139.7366623
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "D7mAoAHmcdTJjcM0I5DEXQ",
+            "coordinates": [
+                35.6729108,
+                139.7358702
+            ],
+            "prompt": "Find+sushi+restaurants+in+Tokyo,+Japan."
+        },
+        {
+            "pano_id": "tfmyix2vhiPzOS9yZ7ynuQ",
+            "coordinates": [
+                40.7273016,
+                -73.9862072
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "hG9inLAvPxjN37MMc4GKQA",
+            "coordinates": [
+                40.7638666,
+                -73.9847094
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "_D4xNzGEGkZ68G5m8-0bFQ",
+            "coordinates": [
+                40.7603207,
+                -73.9908811
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "N01EkC2QqP61nOWn4S_vLQ",
+            "coordinates": [
+                40.7270658,
+                -73.9893977
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "gVKZMYdfElJ1pZDu4CeVWA",
+            "coordinates": [
+                40.7457547,
+                -73.9882453
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "8eqrJk5Qcdok_wl7CDJA1g",
+            "coordinates": [
+                40.7462091,
+                -73.9895129
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "APwDe-D59AlrqprZDQggxQ",
+            "coordinates": [
+                40.705974,
+                -74.01261459999999
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "0NAHqO7HlJuZhRLdHCeUbw",
+            "coordinates": [
+                40.7609226,
+                -73.9888982
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "jjcrC9FEv2sebij_LZv0ag",
+            "coordinates": [
+                40.7242903,
+                -74.001961
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "8kzt_ty0ffpxJ725OHX82A",
+            "coordinates": [
+                40.7933531,
+                -73.9676329
+            ],
+            "prompt": "Show+me+coffee+shops+in+New+York,+USA."
+        },
+        {
+            "pano_id": "SkPchPmGs7lUPPiiIS3YNg",
+            "coordinates": [
+                48.8611089,
+                2.3413315
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "57hb1SsbNYCAV30zoPQzZw",
+            "coordinates": [
+                48.883218,
+                2.3689821
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "05eLOv38qeJDAXO2EIHV8w",
+            "coordinates": [
+                48.8721627,
+                2.2995321
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "zxcNDtkEPxrfDFwjg3DcqQ",
+            "coordinates": [
+                48.8408549,
+                2.3171484
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "yMlZ-Y396VJaOHa9UtE05Q",
+            "coordinates": [
+                48.8842003,
+                2.3641195
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "ZtfeZ-wYoRklxxPmLzHsNw",
+            "coordinates": [
+                48.8472407,
+                2.2587661
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "nampJwgOFP7gGUSwjxapcw",
+            "coordinates": [
+                48.8416136,
+                2.3731738
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "Xe_vJvpTBuPcTPQzCP1iHg",
+            "coordinates": [
+                48.8788199,
+                2.3024105
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "dCJ8yJxqaG8s2Gdrg_oKAw",
+            "coordinates": [
+                48.8610266,
+                2.2830001
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "nAi_1stX5g7NYNYTw6Eq2A",
+            "coordinates": [
+                48.8391698,
+                2.2924786
+            ],
+            "prompt": "Locate+gas+stations+in+Paris,+France."
+        },
+        {
+            "pano_id": "kve4J8tl5OZ60ZMnW3l5Dw",
+            "coordinates": [
+                41.8924623,
+                12.485325
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "84A0Glu9ecIjxn6etcOUEg",
+            "coordinates": [
+                41.8986108,
+                12.4768729
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "1TIRNSuP5dwn8WN3EZZrOg",
+            "coordinates": [
+                41.8991633,
+                12.4730742
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "h5S9SUwQ7o_5AN7BvLHzTA",
+            "coordinates": [
+                41.8902102,
+                12.4922309
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "6Y-ku19HAr80qcla_LtEtw",
+            "coordinates": [
+                41.9107038,
+                12.4763579
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "2RASvjkDcl_mp0Rbs74I1Q",
+            "coordinates": [
+                41.9030632,
+                12.466276
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "xew7qfXIyWyR8xF3r7hmlQ",
+            "coordinates": [
+                41.89759859999999,
+                12.4984084
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "siVpA9SKOR8rIv0-oEXt6Q",
+            "coordinates": [
+                41.8945976,
+                12.4831269
+            ],
+            "prompt": "Discover+tourist+attractions+in+Rome,+Italy."
+        },
+        {
+            "pano_id": "g4NXrMD4f2l21XyOgcjy5A",
+            "coordinates": [
+                -22.9150345,
+                -43.1872961
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "SYalR9o7BVv_QneFPNkOjQ",
+            "coordinates": [
+                -22.9559295,
+                -43.1922574
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "wNPcmyGoWTsEInxosrNE2w",
+            "coordinates": [
+                -22.9756591,
+                -43.189688
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "tWCnZr4ps8YYIhOYB1M4Hg",
+            "coordinates": [
+                -22.8871897,
+                -43.28059
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "ZEFu9kxOPoWwFYI5r4WBwg",
+            "coordinates": [
+                -22.9151817,
+                -43.6171548
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "wBFYqMQqJn7N3AY2V_QTvA",
+            "coordinates": [
+                -22.9682199,
+                -43.1839129
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "UOIMiMb7o8kEztKNh32YEw",
+            "coordinates": [
+                -22.9897617,
+                -43.47425519999999
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "AsOPtZ94u451QPCGEnSzSg",
+            "coordinates": [
+                -22.9568578,
+                -43.35083119999999
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "lVbrBMSHDAK3WpwpLJs7PQ",
+            "coordinates": [
+                -22.9132158,
+                -43.5302415
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "4mFn9HgG9yY-oUswtaPtfA",
+            "coordinates": [
+                -22.9193597,
+                -43.1772091
+            ],
+            "prompt": "Find+pharmacies+in+Rio+de+Janeiro,+Brazil."
+        },
+        {
+            "pano_id": "btvfvzwTs5i-96eQgtRB9A",
+            "coordinates": [
+                48.8552471,
+                2.2919128
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "MhxcpvyEEVc9Xcklun0Ppw",
+            "coordinates": [
+                48.8565473,
+                2.3021594
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "r_aiCrb8nyePp1y5EiEKqA",
+            "coordinates": [
+                48.85725900000001,
+                2.302542
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "bwSL_29pCoDgqSW3qA-ONA",
+            "coordinates": [
+                48.85567,
+                2.2928691
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "wx-xuEnF5jxEH9KwygmguQ",
+            "coordinates": [
+                48.8568309,
+                2.3031709
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "H19pmd2ZyC_n_U-CYMbiWA",
+            "coordinates": [
+                48.854364,
+                2.2892933
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "8x63NUjuafs3EWFcKQ47ZQ",
+            "coordinates": [
+                48.865918,
+                2.308681
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "wBdtB07BXHxFWJZ8cOXRDA",
+            "coordinates": [
+                48.8613513,
+                2.2863851
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "9un7XfWy82SFioAoLVBYZQ",
+            "coordinates": [
+                48.8661804,
+                2.2871983
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "Ml7BSozbkCD0tZJKLHHjlw",
+            "coordinates": [
+                48.8576452,
+                2.3031244
+            ],
+            "prompt": "Find+hotels+near+the+Eiffel+Tower+in+Paris,+France."
+        },
+        {
+            "pano_id": "UoXm1sX9zV27m2Q7YQWwRA",
+            "coordinates": [
+                -33.8175625,
+                151.2896875
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "vGdM6Ktxt0cLPsI7r_3vjw",
+            "coordinates": [
+                -33.8731383,
+                151.2112757
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "YnT4W1GtMq44lBD4kidPbw",
+            "coordinates": [
+                -33.8863093,
+                151.1379361
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "tfVCJu-jg3WXegJsPXhvxQ",
+            "coordinates": [
+                -33.8983887,
+                151.234801
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "NYWmdvjRCdjCXzK6ucY69Q",
+            "coordinates": [
+                -33.8269082,
+                151.0591726
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "zuV13omOq3mhYy4tRjvL6w",
+            "coordinates": [
+                -33.8595961,
+                151.2048413
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "_7T32h6-uGZLimZPxMCHHA",
+            "coordinates": [
+                -33.9113394,
+                151.1846735
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "QsBo8iRsdAT5eClMTE2X_A",
+            "coordinates": [
+                -33.8669923,
+                151.2395899
+            ],
+            "prompt": "Explore+parks+in+Sydney,+Australia."
+        },
+        {
+            "pano_id": "UDI_D2cBeMAf0tDheFZ97g",
+            "coordinates": [
+                51.5247596,
+                -0.1240282
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "3HsVXUDyd5hSpHZBuBjBtw",
+            "coordinates": [
+                51.5440354,
+                -0.0053088
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "Y60_UAQzDl67nmYQpk4BFg",
+            "coordinates": [
+                51.5764072,
+                -0.2231059
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "LuZRvoOkT_aDhogr50WP0A",
+            "coordinates": [
+                51.5944185,
+                -0.1091896
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "nvhZnzIAR8YK09uRqRGFfA",
+            "coordinates": [
+                51.4971002,
+                -0.141117
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "R47qiq-ddvNo4cahFMFE8A",
+            "coordinates": [
+                51.513924,
+                -0.0954749
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "9RfK6oscWRf3hFqhxiTc6Q",
+            "coordinates": [
+                51.5415311,
+                0.0002475
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "s5l5hqdxzaDxhsELC-jyHg",
+            "coordinates": [
+                51.5034967,
+                -0.2191805
+            ],
+            "prompt": "Locate+shopping+centers+in+London,+UK."
+        },
+        {
+            "pano_id": "4V2F_FMS0aLKkFAroMEqQg",
+            "coordinates": [
+                18.9715715,
+                72.80995709999999
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "oODT9RXom9mhlTrS95zdNw",
+            "coordinates": [
+                18.9752117,
+                72.8238875
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "CR1K0HW7jmwPU7aJEZqaEQ",
+            "coordinates": [
+                19.0025221,
+                72.84154079999999
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "dBGdUoV0b_LHqC_IWI78FA",
+            "coordinates": [
+                19.197986,
+                72.8483918
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "3NnXWbmoZmr_D4RarL424w",
+            "coordinates": [
+                19.0558779,
+                72.89679199999999
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "rN6bR3cQWOVTpsihrsioxw",
+            "coordinates": [
+                19.0760717,
+                72.8862889
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "mvBoK8JNfi1eY-6qhJ53Qg",
+            "coordinates": [
+                18.9587321,
+                72.8200554
+            ],
+            "prompt": "Find+hospitals+in+Mumbai,+India."
+        },
+        {
+            "pano_id": "yu99_UojJEZINhA_TodL2A",
+            "coordinates": [
+                29.9740649,
+                31.1402294
+            ],
+            "prompt": "Where+are+the+closest+ATMs+to+the+Pyramids+of+Giza,+Egypt?"
+        },
+        {
+            "pano_id": "bG7_LNiWRwDdy-qlmsAkRw",
+            "coordinates": [
+                34.0541065,
+                -118.249036
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "y71y1bWSKiPXtuPtIPHOvg",
+            "coordinates": [
+                34.068315,
+                -118.2302574
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "pkeIhU6_Bsp16Hr9HWMY6Q",
+            "coordinates": [
+                34.0616426,
+                -118.2581668
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "kDI4G6WuQN6dVsxY1vtGjA",
+            "coordinates": [
+                34.0509753,
+                -118.2394366
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "plDqwsMwrhsgEhnqexQG5g",
+            "coordinates": [
+                34.0518519,
+                -118.2488875
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "CHAtmJgMptNaxEWkGUU4TQ",
+            "coordinates": [
+                34.0471207,
+                -118.2453116
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "Fb4IFaC1mphp1nfZgA0svw",
+            "coordinates": [
+                34.0312264,
+                -118.2659277
+            ],
+            "prompt": "Find+parking+areas+in+Los+Angeles,+USA."
+        },
+        {
+            "pano_id": "i36cLzEXnveqP6ysxbhYrA",
+            "coordinates": [
+                49.1948,
+                -123.1774
+            ],
+            "prompt": "Locate+public+transportation+near+the+Great+Wall+of+China."
+        },
+        {
+            "pano_id": "_sLbYzRaLRbMUu2lK8MnPg",
+            "coordinates": [
+                52.5154723,
+                13.4041719
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "bPS_09dodFjNges6WCzk7Q",
+            "coordinates": [
+                52.49651979999999,
+                13.3923662
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "Mq7yiTi2fQjj-rQaIJo9qw",
+            "coordinates": [
+                52.51016139999999,
+                13.3304697
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "EbrJVW-fAetaHRYYB13_fA",
+            "coordinates": [
+                52.5205888,
+                13.3912322
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "SzBb402n_K5n_f-VinZOHQ",
+            "coordinates": [
+                52.5172567,
+                13.3428637
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "6gKNprJlrel9p6-kxrOxhA",
+            "coordinates": [
+                52.5205916,
+                13.3777424
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "R3EjjNBP8O9GM36y6rhtnA",
+            "coordinates": [
+                52.54707939999999,
+                13.488861
+            ],
+            "prompt": "Show+me+libraries+in+Berlin,+Germany."
+        },
+        {
+            "pano_id": "nG3F-LEQrDFGPTOwC0d_1A",
+            "coordinates": [
+                52.3599976,
+                4.8852188
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "z7jlO99fakn3rqpi2vjKUw",
+            "coordinates": [
+                52.3657717,
+                4.9027821
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "wJcMI0D7oGaTQyCxoWZkOA",
+            "coordinates": [
+                52.3580111,
+                4.879755400000001
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "OTsvLUNVXJqnIv3lvcBQgA",
+            "coordinates": [
+                52.3678987,
+                4.886253
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "o_2UsHnWl382npAdz3VOqw",
+            "coordinates": [
+                52.3633598,
+                4.8933277
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "HKl-CmglzZ6NDiVQKJtNQA",
+            "coordinates": [
+                52.3724788,
+                4.8936112
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "hciGW8zwap8Tfr9iCV4CBg",
+            "coordinates": [
+                52.3717181,
+                4.9148396
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "MacykjmNnGO0CP6AkpqhLQ",
+            "coordinates": [
+                52.36562079999999,
+                4.8989993
+            ],
+            "prompt": "Find+museums+in+Amsterdam,+Netherlands."
+        },
+        {
+            "pano_id": "Bg_nF5s_eN56JkaXGUS1UA",
+            "coordinates": [
+                41.381033,
+                2.175375
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "SdZwOL-0KlC99mgIDSbFIQ",
+            "coordinates": [
+                41.3806514,
+                2.1790287
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "31AGhG4c2A4dNi4Ms8G6Xw",
+            "coordinates": [
+                41.379114,
+                2.1659415
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "42wH9HR43GEeP-IWVFu8rw",
+            "coordinates": [
+                41.3844461,
+                2.1695263
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "-46VxL09MyZG3saAn4N9og",
+            "coordinates": [
+                41.3845635,
+                2.1804643
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "oVvyVBJjzRtN7B13nYEjiA",
+            "coordinates": [
+                41.3808138,
+                2.1809295
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "8aV_1I26q_nhVhX05jNdRQ",
+            "coordinates": [
+                41.3802895,
+                2.1763158
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "WcLc3HOFg6vR8tl-OLKkTw",
+            "coordinates": [
+                41.3898536,
+                2.1706685
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "DkhXubMwO6HyUSJebN4iNg",
+            "coordinates": [
+                41.3855075,
+                2.1625528
+            ],
+            "prompt": "Find+bars+and+nightlife+spots+in+Barcelona,+Spain."
+        },
+        {
+            "pano_id": "VOcgsUY80YcelfMaEBAQGA",
+            "coordinates": [
+                41.0263524,
+                28.9734071
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "6JM2rX0cxnopFULHGm4_iA",
+            "coordinates": [
+                41.032015,
+                28.983206
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "s6bKfxGmQhmq7mgGWN4uxw",
+            "coordinates": [
+                41.0526722,
+                28.9927101
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "aK7RZ2OGfRyaFS_VDgl8GA",
+            "coordinates": [
+                40.9682206,
+                29.0636226
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "iQvdCLJ3hPSKiRhl5FJkew",
+            "coordinates": [
+                41.0410843,
+                28.9870492
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "e7yCHXBpjJVFzjb1JZ1DaQ",
+            "coordinates": [
+                41.0083517,
+                28.97440629999999
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "dBptY7l7SkvaFaNxmD1pxg",
+            "coordinates": [
+                41.0308484,
+                28.9734872
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "kfLuZBXUDi4Mpcc1Ba2rXg",
+            "coordinates": [
+                41.0794007,
+                29.0449065
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "ZXqbjFHxYKaqCJVYk0Qopg",
+            "coordinates": [
+                41.0436501,
+                29.0018806
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "Kt10v9ZwZ-NTfCIWNrbT0g",
+            "coordinates": [
+                41.0248682,
+                28.9791791
+            ],
+            "prompt": "Locate+bakeries+in+Istanbul,+Turkey."
+        },
+        {
+            "pano_id": "X3sxmBIU32GAPc7cYftFSg",
+            "coordinates": [
+                -33.9041068,
+                18.4010964
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "Ksmi3Sp6TNiisgJPFn3Waw",
+            "coordinates": [
+                -33.9365328,
+                18.475699
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "C9aC1AU4R5OUu5X1vcj_6g",
+            "coordinates": [
+                -33.9798179,
+                18.4540513
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "k0mejKu2Jpp_SotAedMX3w",
+            "coordinates": [
+                -34.0162877,
+                18.4433584
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "IFnJmyQIdc8fjoyCthEnuw",
+            "coordinates": [
+                -33.9697084,
+                18.4933809
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "nKRFeZUB2FXxqoJAYDpN3Q",
+            "coordinates": [
+                -34.132962,
+                18.3368988
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "vlwavgAawcO5u9xSB8eWEw",
+            "coordinates": [
+                -34.07248120000001,
+                18.589072
+            ],
+            "prompt": "Discover+parks+in+Cape+Town,+South+Africa."
+        },
+        {
+            "pano_id": "BnwhSiXqsHANOBh-pE16Og",
+            "coordinates": [
+                55.7602388,
+                37.6254599
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "xmVZOCJvj_hXXOgj_aIByA",
+            "coordinates": [
+                55.75670599999999,
+                37.6323888
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "zq-tJgMNoi5GmZa1RH1s4g",
+            "coordinates": [
+                55.7600221,
+                37.6252107
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "WY-sbb3R1kC8aWQ64nxHpA",
+            "coordinates": [
+                55.7504387,
+                37.5940121
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "8b1iYPaPxe5tek_VcFieLA",
+            "coordinates": [
+                55.71217799999999,
+                37.620643
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "MksGD4XZCrZS4LqvSxDNjw",
+            "coordinates": [
+                55.770788,
+                37.6114909
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "DM4kn4YdGwBWH4s0ig-Z9A",
+            "coordinates": [
+                55.70496079999999,
+                37.6407902
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "4QnHtWtfXJhLg-9rE-SJBQ",
+            "coordinates": [
+                55.7495087,
+                37.590622
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "eqTYW3qOa2LzLcppjyqm9g",
+            "coordinates": [
+                55.8152074,
+                37.6003493
+            ],
+            "prompt": "Find+ice+cream+shops+in+Moscow,+Russia."
+        },
+        {
+            "pano_id": "3Vt0zZIqlrcitGpk5b8A-A",
+            "coordinates": [
+                40.7281003,
+                -74.04347419999999
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "du9Txsk9Ao9mzTM7iuaWMQ",
+            "coordinates": [
+                40.7195927,
+                -74.03532059999999
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "8JpO2VOQ4VHm_ejk_iwJUw",
+            "coordinates": [
+                40.7143284,
+                -74.01091439999999
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "a-svv_9LYPyYSkxs3FMd-g",
+            "coordinates": [
+                40.71026980000001,
+                -74.0058543
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "qu0VFW89fI_VFSEIgLmmhw",
+            "coordinates": [
+                40.7326867,
+                -74.0362548
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "6BT1apRRwHDptdThtee36w",
+            "coordinates": [
+                40.7048579,
+                -74.0113224
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "W1Zbj7vaEo9nR1CApnpxZA",
+            "coordinates": [
+                40.7068657,
+                -74.0097069
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "5WvB2vz57fPreT7C6i0RDw",
+            "coordinates": [
+                40.7175752,
+                -74.05243399999999
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "FQw-I5bRgWhkAM_tLF19Ww",
+            "coordinates": [
+                40.7263864,
+                -74.04890350000001
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "lZiJA6OFJuTA34HY5mFRdw",
+            "coordinates": [
+                40.7140635,
+                -74.03779209999999
+            ],
+            "prompt": "Where+are+the+nearest+pharmacies+to+the+Statue+of+Liberty,+USA?"
+        },
+        {
+            "pano_id": "utAy8ieCS1DTP-9qDckyFw",
+            "coordinates": [
+                34.9676945,
+                135.7791876
+            ],
+            "prompt": "Find+historic+sites+in+Kyoto,+Japan."
+        },
+        {
+            "pano_id": "58z3AoNr_XAlw24qQItV5Q",
+            "coordinates": [
+                35.0133402,
+                135.7501834
+            ],
+            "prompt": "Find+historic+sites+in+Kyoto,+Japan."
+        },
+        {
+            "pano_id": "aoPKFPI77hTSAihEIIwI-w",
+            "coordinates": [
+                34.9948561,
+                135.7850463
+            ],
+            "prompt": "Find+historic+sites+in+Kyoto,+Japan."
+        },
+        {
+            "pano_id": "yOCVlQ19ICC7AWWU2g_YRA",
+            "coordinates": [
+                35.0344943,
+                135.7182634
+            ],
+            "prompt": "Find+historic+sites+in+Kyoto,+Japan."
+        },
+        {
+            "pano_id": "-y1drgsKQMEAAAQZDB3Sew",
+            "coordinates": [
+                35.0207531,
+                135.7556529
+            ],
+            "prompt": "Find+historic+sites+in+Kyoto,+Japan."
+        },
+        {
+            "pano_id": "FE-O7xBbgsmghrdGqEdjCg",
+            "coordinates": [
+                34.9875205,
+                135.7592518
+            ],
+            "prompt": "Find+historic+sites+in+Kyoto,+Japan."
+        }
+    ]
+}
