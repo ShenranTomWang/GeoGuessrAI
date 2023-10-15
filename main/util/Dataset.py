@@ -66,5 +66,5 @@ class Dataset(Dataset):
         with open(f'{path}/{metadata_file_name}') as file:
             jo = json.load(file)
         samples = [Sample.from_json(sample) for sample in jo['samples']]
-        product = cls(samples, jo['image_width'], jo['image_height'], model_scale)
+        product = cls(samples, jo['image_width'], jo['image_height'], model_scale, path)
         return product

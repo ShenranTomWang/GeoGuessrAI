@@ -5,7 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "SampleTestingStreetView",
+            "name": "Test.py",
+            "type": "python",
+            "request": "launch",
+            "program": "main/Test.py",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "SampleTestingStreetView.py",
             "type": "python",
             "request": "launch",
             "program": "main/SampleTestingStreetView.py",

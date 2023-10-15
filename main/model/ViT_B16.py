@@ -20,6 +20,7 @@ class Model(BaseModel):
         self.model = models.vit_b_16(pretrained=True)
         self.scale = scale
         self.model.heads[0] = nn.Linear(768, 180 * scale * 360 * scale)
+        self.model.heads.append(nn.ReLU())
     
     def forward(self, x:torch.Tensor) -> torch.Tensor:
         return self.model.forward(x)
@@ -56,7 +57,7 @@ class Model(BaseModel):
     @classmethod
     def load(cls, path:str) -> 'Model':
         jo = None
-        with open(f'{path}/ViT_B16.jsons') as file:
+        with open(f'{path}/ViT_B16.json') as file:
             jo = json.load(file)
         ckpd = torch.load(f'{path}/ViT_B16.csv')
         model = cls(jo['scale'])
