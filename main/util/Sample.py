@@ -19,7 +19,7 @@ class Sample:
         """Returns street view image of this sample
 
         Args:
-            image_size (str): size of each image  that assembles the panorama, in format {int}x{int}
+            image_size (str): size of each image that assembles the panorama, in format {int}x{int}
             api_key (str): your api key
             heading (int, optional): heading of image. Defaults to 90.
 

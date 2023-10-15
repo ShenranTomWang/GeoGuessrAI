@@ -166,3 +166,26 @@ DEFAULT_PROMPTS = [
     'lanes+in+Victoria+Australia', 'highways+in+Victoria+Australia', 'streets+in+Victoria+Australia', 'roads+in+Victoria+Australia',
     'lanes+in+Tasmania', 'highways+in+Tasmania', 'streets+in+Tasmania', 'roads+in+Tasmania'
     ]
+
+TESTINGSET_PROMPTS = [
+    "Find sushi restaurants in Tokyo, Japan.",
+    "Show me coffee shops in New York, USA.",
+    "Locate gas stations in Paris, France.",
+    "Discover tourist attractions in Rome, Italy.",
+    "Find pharmacies in Rio de Janeiro, Brazil.",
+    "Find hotels near the Eiffel Tower in Paris, France.",
+    "Explore parks in Sydney, Australia.",
+    "Locate shopping centers in London, UK.",
+    "Find hospitals in Mumbai, India.",
+    "Where are the closest ATMs to the Pyramids of Giza, Egypt?",
+    "Find parking areas in Los Angeles, USA.",
+    "Locate public transportation near the Great Wall of China.",
+    "Show me libraries in Berlin, Germany.",
+    "Find museums in Amsterdam, Netherlands.",
+    "Find bars and nightlife spots in Barcelona, Spain.",
+    "Locate bakeries in Istanbul, Turkey.",
+    "Discover parks in Cape Town, South Africa.",
+    "Find ice cream shops in Moscow, Russia.",
+    "Where are the nearest pharmacies to the Statue of Liberty, USA?",
+    "Find historic sites in Kyoto, Japan."
+]
