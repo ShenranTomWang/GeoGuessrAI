@@ -19,7 +19,7 @@ for name, param in model.model.named_parameters():
     if not name == 'heads.head.weight':
         param.requires_grad == False
 
-criterion = nn.MSELoss()
+criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.SGD(model.parameters(), lr=0.1)
 for epoch in range(num_epochs):
     model.train()
