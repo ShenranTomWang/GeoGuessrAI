@@ -11,7 +11,7 @@ num_directions = 4
 batch_size = 10
 
 scale = 1
-dataset = Dataset.from_json(DirUtil.get_image_dir(), scale)
+dataset = Dataset.from_json(DirUtil.get_training_image_dir(), scale)
 tr_set = DataLoader(dataset, batch_size, shuffle=True)
 model = Model(scale).to(device)
 

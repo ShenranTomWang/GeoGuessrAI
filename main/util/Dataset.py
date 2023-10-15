@@ -1,24 +1,25 @@
 from torch.utils.data import Dataset
-from . import DirUtil
 from .Sample import Sample
 from PIL import Image
 import json
 from model.ViT_B16 import Model
 
 class Dataset(Dataset):
-    def __init__(self, data:list, width:int, height:int, model_scale: float) -> None:
+    def __init__(self, data:list, width:int, height:int, model_scale:float, loading_dir:str) -> None:
         """
         Args:
             data (list): samples
             width (int): width per image
             height (int): height per image
             model_scale (float): scale of model
+            loading_dir (str): directory name for loading data
         """
         self.data = data
         self.width = width
         self.height = height
         self.model_scale = model_scale
         self.index = 0
+        self.loading_dir = loading_dir
         
     def __len__(self) -> int:
         return len(self.data)
@@ -26,7 +27,7 @@ class Dataset(Dataset):
     def __getitem__(self, index:int) -> tuple:
         sample = self.data[index]
         lat, lon = sample.coordinates[0], sample.coordinates[1]
-        image_name = f'{DirUtil.get_image_dir()}/panorama_{lat}_{lon}_{sample.pano_id}.jpg'
+        image_name = f'{self.loading_dir}/panorama_{lat}_{lon}_{sample.pano_id}.jpg'
         image = Image.open(image_name)
         cropped = []
         w, _ = image.size
